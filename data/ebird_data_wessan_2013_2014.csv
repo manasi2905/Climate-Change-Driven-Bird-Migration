@@ -1,0 +1,1275 @@
+subId,lat,locationPrivate,locName,obsDt,sciName,howMany,locId,obsValid,speciesCode,obsReviewed,lng,comName
+S15362212,36.6608009,False,Salinas WTP (no public access),2013-10-01 16:40,Calidris mauri,10,L335151,True,wessan,False,-121.7180536,Western Sandpiper
+S15311110,45.6203,False,Smith and Bybee Lakes Wetlands Natural Area,2013-10-01 11:43,Calidris mauri,3,L159604,True,wessan,False,-122.7456,Western Sandpiper
+S15303651,48.14035,False,Ediz Hook,2013-10-01 16:00,Calidris mauri,25,L190512,True,wessan,False,-123.44711,Western Sandpiper
+S15324762,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2013-10-01 16:30,Calidris mauri,20,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S17402315,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2013-10-01 08:20,Calidris mauri,37,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S15310945,36.6608009,False,Salinas WTP (no public access),2013-10-02 16:40,Calidris mauri,5,L335151,True,wessan,False,-121.7180536,Western Sandpiper
+S15310390,42.1433778,False,Emigrant Lake,2013-10-02 16:00,Calidris mauri,1,L389848,True,wessan,False,-122.6209306,Western Sandpiper
+S15309725,46.1389281,True,Dodd Road,2013-10-02 13:00,Calidris mauri,1,L2071156,True,wessan,False,-118.8799667,Western Sandpiper
+S15310278,57.17012,False,St. Paul Island,2013-10-02 13:00,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S15319443,33.7274762,True,"1 Yard NIB: HB, Suite Dr.",2013-10-03 16:00,Calidris mauri,1,L1015158,True,wessan,False,-118.0487984,Western Sandpiper
+S15588586,45.6199208,True,Smith and Bybee Wetlands NA,2013-10-03 11:00,Calidris mauri,1,L2038396,True,wessan,False,-122.7282715,Western Sandpiper
+S15326791,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2013-10-03 17:05,Calidris mauri,30,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S15331871,37.5635405,False,Foster City Shell Bar,2013-10-04 18:11,Calidris mauri,,L467982,True,wessan,False,-122.248714,Western Sandpiper
+S15322939,53.2590008,False,K'il Kun Xidgwangs Daanaay (Sandspit) Airport,2013-10-04 14:00,Calidris mauri,1,L351671,True,wessan,True,-131.8215179,Western Sandpiper
+S15334247,32.5355257,True,Over the wall near dairy mart,2013-10-04 08:05,Calidris mauri,3,L2377221,True,wessan,False,-117.0671368,Western Sandpiper
+S15331190,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2013-10-05 17:30,Calidris mauri,50,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S15331359,45.553569,False,Bayocean Spit,2013-10-05 15:30,Calidris mauri,15,L2198871,True,wessan,False,-123.9435911,Western Sandpiper
+S15330571,48.1519101,False,Cline Spit,2013-10-05 17:44,Calidris mauri,10,L1353392,True,wessan,False,-123.1518205,Western Sandpiper
+S16392492,49.0837729,False,Delta—Boundary Bay -- 112th St.,2013-10-05 17:00,Calidris mauri,500,L339314,True,wessan,False,-122.9123354,Western Sandpiper
+S15328256,21.6070037,False,Granja de Camarón Chacalilla,2013-10-05 09:45,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S15340519,38.551789,False,Yolo Bypass Wildlife Area,2013-10-06 17:33,Calidris mauri,2,L443535,True,wessan,False,-121.6208018,Western Sandpiper
+S15341019,44.624892,False,Yaquina Bay SP,2013-10-06 11:00,Calidris mauri,3,L1311564,True,wessan,False,-124.063282,Western Sandpiper
+S15343151,46.0685319,False,McNary NWR--Walla Walla River Delta,2013-10-06 12:30,Calidris mauri,1,L109548,True,wessan,False,-118.9096792,Western Sandpiper
+S15341853,31.8104202,False,Bahía Todos Santos,2013-10-06 09:30,Calidris mauri,8,L221559,True,wessan,False,-116.643219,Western Sandpiper
+S15349551,36.8103654,False,Moonglow Dairy (Fri-Sun only; closed Mon-Thur),2013-10-07 17:30,Calidris mauri,,L306035,True,wessan,False,-121.7667337,Western Sandpiper
+S16053803,33.323999,True,US-CA-Fallbrook-4887 Lake Shore Pl,2013-10-08 16:12,Calidris mauri,11,L2479732,True,wessan,False,-117.152196,Western Sandpiper
+S15368390,44.6215148,False,Yaquina River--North Shore,2013-10-08,Calidris mauri,2,L627297,True,wessan,False,-124.0640116,Western Sandpiper
+S20938670,46.9096434,False,Westport Marina,2013-10-08,Calidris mauri,,L862963,True,wessan,False,-124.1138792,Western Sandpiper
+S15384927,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2013-10-08 10:00,Calidris mauri,4,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S15726632,28.4610029,False,Estero Cardonal,2013-10-08 08:40,Calidris mauri,983,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S15365889,37.8393943,False,Emeryville Marina,2013-10-09 18:00,Calidris mauri,25,L764558,True,wessan,False,-122.3118854,Western Sandpiper
+S15364612,42.1433778,False,Emigrant Lake,2013-10-09 16:15,Calidris mauri,3,L389848,True,wessan,False,-122.6209306,Western Sandpiper
+S15402517,31.321115,True,Puerto Peñasco (ciudad),2013-10-09 07:30,Calidris mauri,,L261923,True,wessan,False,-113.529178,Western Sandpiper
+S15372987,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2013-10-10 18:00,Calidris mauri,49,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S15373140,43.7372436,False,Umpqua River Estuary,2013-10-10 11:11,Calidris mauri,2,L159612,True,wessan,False,-124.1451645,Western Sandpiper
+S15591383,48.2320943,False,Leque Island--Eide Rd.,2013-10-10 08:40,Calidris mauri,10,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S15372457,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2013-10-10 10:30,Calidris mauri,5,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S15521223,31.7775956,False,Complejo Turístico Playa Estero,2013-10-10 10:30,Calidris mauri,10,L368165,True,wessan,False,-116.6163754,Western Sandpiper
+S15402518,31.321115,True,Puerto Peñasco (ciudad),2013-10-10 07:30,Calidris mauri,,L261923,True,wessan,False,-113.529178,Western Sandpiper
+S15383955,36.9041954,False,Struve Slough--Lee Rd.,2013-10-11 18:25,Calidris mauri,,L509076,True,wessan,False,-121.7845631,Western Sandpiper
+S15398195,44.1232081,False,Hatfield Lake,2013-10-11 08:30,Calidris mauri,1,L447435,True,wessan,False,-121.198554,Western Sandpiper
+S15387167,46.9444663,False,Ocean Shores--Oyhut Wildlife Area,2013-10-11 14:40,Calidris mauri,1,L109535,True,wessan,False,-124.1522412,Western Sandpiper
+S15383667,49.0767445,False,Delta—Boundary Bay - 104th St.,2013-10-11 16:20,Calidris mauri,2,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S15388382,33.7874582,False,Ken Malloy Harbor Regional Park,2013-10-12 16:00,Calidris mauri,2,L1552663,True,wessan,False,-118.2939363,Western Sandpiper
+S15388707,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2013-10-12 18:00,Calidris mauri,2,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S15385032,46.9719365,False,Ocean Shores -- outer beach,2013-10-12 11:15,Calidris mauri,650,L450264,True,wessan,False,-124.1688538,Western Sandpiper
+S15386667,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2013-10-12 14:29,Calidris mauri,1,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S15396755,38.3146057,False,Doran Regional Park - entrance pond to jetty,2013-10-13 17:22,Calidris mauri,1,L578601,True,wessan,False,-123.0438066,Western Sandpiper
+S15393907,42.4099597,False,Agate Lake,2013-10-13 11:00,Calidris mauri,5,L389855,True,wessan,False,-122.7708006,Western Sandpiper
+S15409102,48.9950387,False,Blaine Marine Park,2013-10-13 11:30,Calidris mauri,1,L272612,True,wessan,False,-122.7580957,Western Sandpiper
+S15398191,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2013-10-13 15:24,Calidris mauri,4,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S20288220,23.4426927,False,Campamento Tortuguero El Verde Camacho,2013-10-13 09:00,Calidris mauri,,L3129181,True,wessan,False,-106.5824474,Western Sandpiper
+S15397731,21.5418128,False,Ruinas de la Contaduría,2013-10-13 16:30,Calidris mauri,,L790252,True,wessan,False,-105.2780879,Western Sandpiper
+S19300918,37.6233925,False,Hayward Regional Shoreline--Interpretive Center,2013-10-14 20:40,Calidris mauri,101,L587721,True,wessan,False,-122.1372843,Western Sandpiper
+S15410856,46.95072,False,Ocean Shores,2013-10-14 09:30,Calidris mauri,2,L268334,True,wessan,False,-124.15571,Western Sandpiper
+S15407657,49.0316,False,Roberts Bank,2013-10-14 13:20,Calidris mauri,9,L292541,True,wessan,False,-123.1487,Western Sandpiper
+S15448176,33.1722397,False,Salton Sea--Obsidian Butte,2013-10-15 16:45,Calidris mauri,10,L267757,True,wessan,False,-115.6427077,Western Sandpiper
+S15412986,44.3352042,False,Redmond Sewage Ponds (closed for construction),2013-10-15 11:07,Calidris mauri,1,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S15477987,48.0960511,False,Fort Flagler SP,2013-10-15 10:32,Calidris mauri,1,L249781,True,wessan,False,-122.7139785,Western Sandpiper
+S15424363,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2013-10-15 14:10,Calidris mauri,5,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S17402203,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2013-10-15 08:38,Calidris mauri,61,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S15424758,40.864728,False,Arcata Bottoms--V St. Loop,2013-10-16 16:30,Calidris mauri,,L578591,True,wessan,False,-124.120967,Western Sandpiper
+S15424550,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2013-10-16 12:50,Calidris mauri,5,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S15445467,32.6186091,False,Chula Vista Bayfront Park (J St.),2013-10-17 17:00,Calidris mauri,200,L827977,True,wessan,False,-117.1033868,Western Sandpiper
+S15434057,47.0812514,False,Billy Frank Jr. Nisqually NWR,2013-10-17 12:45,Calidris mauri,20,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S15465492,49.0796569,False,Delta—Boundary Bay--104th to 112th Sts.,2013-10-17 14:35,Calidris mauri,130,L3100429,True,wessan,False,-122.9249525,Western Sandpiper
+S15429705,31.7771396,False,Estero Punta Banda--Desembocadura,2013-10-17 12:57,Calidris mauri,200,L371191,True,wessan,False,-116.6205597,Western Sandpiper
+S15438479,32.7717705,False,Fiesta Island--dog run,2013-10-18 16:45,Calidris mauri,15,L802943,True,wessan,False,-117.2254,Western Sandpiper
+S15441037,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2013-10-18 17:15,Calidris mauri,,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S15625654,46.9692423,True,Ocean Shores multiple areas,2013-10-18 11:00,Calidris mauri,,L2416187,True,wessan,False,-124.1540909,Western Sandpiper
+S15446020,33.9695101,False,Ballona Creek--lower,2013-10-19 16:15,Calidris mauri,6,L738199,True,wessan,False,-118.4419352,Western Sandpiper
+S15446310,45.1927208,False,Bob Straub SP,2013-10-19 10:20,Calidris mauri,1,L1307852,True,wessan,False,-123.9678276,Western Sandpiper
+S15456635,38.7942325,False,S Brewer Rd (Baseline to E Catlett),2013-10-20 16:58,Calidris mauri,1,L382521,True,wessan,False,-121.4514542,Western Sandpiper
+S15453689,46.6166667,False,Leadbetter Point,2013-10-20 09:00,Calidris mauri,50,L109538,True,wessan,False,-124.05,Western Sandpiper
+S15457291,27.9535809,False,Empalme--Paso Elevado,2013-10-20 08:00,Calidris mauri,1,L274680,True,wessan,False,-110.8359123,Western Sandpiper
+S15466571,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2013-10-21 15:17,Calidris mauri,50,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S15952433,48.5606474,True,Alice Bay dike,2013-10-21 16:15,Calidris mauri,20,L2465518,True,wessan,False,-122.494297,Western Sandpiper
+S17390119,28.9747693,True,Estero Santa Rosa,2013-10-21 08:01,Calidris mauri,2,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S15471952,40.5827358,True,The Nut Hatch,2013-10-22 17:45,Calidris mauri,1,L967009,True,wessan,False,-122.3832321,Western Sandpiper
+S15468208,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2013-10-22 08:30,Calidris mauri,1,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S15470404,47.3464357,False,285th Street (Kent),2013-10-22 15:34,Calidris mauri,2,L894189,True,wessan,False,-122.2470696,Western Sandpiper
+S15477967,32.5915005,False,Bayshore Bikeway--7th Street (Ponds 10/10A),2013-10-23 15:43,Calidris mauri,1,L367640,True,wessan,False,-117.1180604,Western Sandpiper
+S15482257,47.0812514,False,Billy Frank Jr. Nisqually NWR,2013-10-23 08:00,Calidris mauri,,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S15527942,33.17224,True,Salton Sea--Obsidian Butte,2013-10-24 14:32,Calidris mauri,10,L2404413,True,wessan,False,-115.64271,Western Sandpiper
+S15890504,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2013-10-24 09:00,Calidris mauri,2,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S15527654,32.5665347,False,Seacoast Drive to Tijuana River mouth,2013-10-25 15:10,Calidris mauri,100,L418748,True,wessan,False,-117.1322003,Western Sandpiper
+S15491862,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2013-10-25 13:15,Calidris mauri,1,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S15964356,28.7914163,False,Estero Santa Cruz,2013-10-25 07:38,Calidris mauri,402,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S15519975,22.4442503,True,Laguna Las Garzas,2013-10-25 08:00,Calidris mauri,,L2343929,True,wessan,False,-105.5831652,Western Sandpiper
+S15507680,37.5886459,False,"Coyote Point County Park--yacht club, harbor and freshwater marsh",2013-10-26 15:04,Calidris mauri,,L997003,True,wessan,False,-122.3152274,Western Sandpiper
+S15504779,46.6044895,True,Leadbetter Point State Park,2013-10-26 14:00,Calidris mauri,,L2400729,True,wessan,False,-124.053669,Western Sandpiper
+S15498602,-33.6198013,False,SN Humedal Río Maipo--Desembocadura,2013-10-26 14:53,Calidris mauri,1,L504553,True,wessan,True,-71.6275442,Western Sandpiper
+S15508076,37.5899626,False,Coyote Point County Park,2013-10-27 16:49,Calidris mauri,300,L247966,True,wessan,False,-122.3215145,Western Sandpiper
+S15508881,49.06564,False,Delta--Brunswick Point,2013-10-27 11:00,Calidris mauri,12,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S15509606,30.4094494,False,Bahía de San Quintín,2013-10-27 14:30,Calidris mauri,6,L586464,True,wessan,False,-115.9457588,Western Sandpiper
+S15592157,37.9209857,False,Bolinas Lagoon--Pine Gulch,2013-10-28 16:00,Calidris mauri,,L590288,True,wessan,False,-122.6904202,Western Sandpiper
+S15512643,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2013-10-28 10:45,Calidris mauri,2,L463228,True,wessan,True,-122.9128075,Western Sandpiper
+S15524372,48.3384463,False,Skagit WMA--Jensen Access,2013-10-28 10:07,Calidris mauri,100,L350050,True,wessan,False,-122.4334324,Western Sandpiper
+S15522451,40.8326748,True,Vance Avenue,2013-10-29 15:20,Calidris mauri,,L2403534,True,wessan,False,-124.1723594,Western Sandpiper
+S15726483,28.4610029,False,Estero Cardonal,2013-10-29 09:10,Calidris mauri,60,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S15530004,36.8103654,False,Moonglow Dairy (Fri-Sun only; closed Mon-Thur),2013-10-30 14:30,Calidris mauri,1,L306035,True,wessan,False,-121.7667337,Western Sandpiper
+S15536675,37.8393943,False,Emeryville Marina,2013-10-31 17:40,Calidris mauri,35,L764558,True,wessan,False,-122.3118854,Western Sandpiper
+S15531977,44.7967032,False,Ankeny NWR--Eagle Marsh,2013-10-31 09:00,Calidris mauri,15,L832651,True,wessan,False,-123.0813789,Western Sandpiper
+S17390434,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2013-10-31 09:08,Calidris mauri,1,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S15543455,37.5886459,False,"Coyote Point County Park--yacht club, harbor and freshwater marsh",2013-11-01 15:30,Calidris mauri,40,L997003,True,wessan,False,-122.3152274,Western Sandpiper
+S15544104,46.9425863,False,Ocean Shores--Damon Point,2013-11-01 11:45,Calidris mauri,1,L1428100,True,wessan,False,-124.1223335,Western Sandpiper
+S15542890,31.7176905,False,Estero Punta Banda--Embalse,2013-11-01 11:00,Calidris mauri,2,L619238,True,wessan,False,-116.6521454,Western Sandpiper
+S15550493,33.091669,False,Batiquitos Lagoon--north side trails,2013-11-02 17:10,Calidris mauri,45,L167991,True,wessan,False,-117.2960981,Western Sandpiper
+S15588257,33.6432772,False,Upper Newport Bay,2013-11-03 16:00,Calidris mauri,,L207063,True,wessan,False,-117.8879356,Western Sandpiper
+S15558422,46.440696,False,Long Beach Peninsula,2013-11-03 15:17,Calidris mauri,1,L468651,True,wessan,False,-124.0583038,Western Sandpiper
+S15568201,33.6965128,False,Bolsa Chica--walkbridge/inner bay,2013-11-04 14:38,Calidris mauri,,L1165694,True,wessan,False,-118.0451372,Western Sandpiper
+S15948371,48.9800492,False,Semiahmoo Spit,2013-11-04 14:30,Calidris mauri,1,L199273,True,wessan,False,-122.7883112,Western Sandpiper
+S17390070,28.9747693,True,Estero Santa Rosa,2013-11-04 07:45,Calidris mauri,3,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S15579230,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2013-11-05 13:45,Calidris mauri,150,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S15593235,47.0925656,True,Nisqually Delta,2013-11-05 12:00,Calidris mauri,100,L759599,True,wessan,False,-122.6980591,Western Sandpiper
+S15592037,40.809868,False,Humboldt Bay--Woodley Island,2013-11-06 16:30,Calidris mauri,450,L815222,True,wessan,False,-124.161412,Western Sandpiper
+S15605054,39.6049938,False,Llano Seco (viewing platform area & ponds to south),2013-11-07 16:05,Calidris mauri,1,L419591,True,wessan,False,-121.9096184,Western Sandpiper
+S15606583,49.2213299,False,Iona Island (General),2013-11-07 12:10,Calidris mauri,1,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S15964545,28.7914163,False,Estero Santa Cruz,2013-11-07 07:48,Calidris mauri,1075,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S15615832,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2013-11-08 16:00,Calidris mauri,20,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S15623913,46.9095527,False,Westport (general),2013-11-08 15:30,Calidris mauri,,L276529,True,wessan,False,-124.1167938,Western Sandpiper
+S15631452,37.8047658,False,Presidio--Crissy Field Lagoon,2013-11-09 16:27,Calidris mauri,1,L1004802,True,wessan,False,-122.4562311,Western Sandpiper
+S69927836,48.9800492,False,Semiahmoo Spit,2013-11-09 15:00,Calidris mauri,80,L199273,True,wessan,False,-122.7883112,Western Sandpiper
+S15637144,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2013-11-10 16:00,Calidris mauri,1,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S15637243,48.7871878,False,Sandy Point,2013-11-10 14:05,Calidris mauri,1,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S15737889,41.7192157,False,Shasta Valley Wildlife Area,2013-11-11 14:30,Calidris mauri,,L492645,True,wessan,False,-122.4745989,Western Sandpiper
+S15815167,46.3047558,False,Ilwaco--Marina,2013-11-11 13:15,Calidris mauri,1,L1396128,True,wessan,False,-124.0352205,Western Sandpiper
+S15656351,33.7026531,False,Bolsa Chica Ecological Reserve,2013-11-12 16:30,Calidris mauri,100,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S15726408,28.4610029,False,Estero Cardonal,2013-11-12 09:10,Calidris mauri,4,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S15663879,38.0118465,False,Bayfront Park (CC Co.),2013-11-13 13:50,Calidris mauri,4,L794123,True,wessan,False,-122.2973907,Western Sandpiper
+S15660647,21.56526,True,Carretera 14--Granja de Camarón Papayito,2013-11-13 11:16,Calidris mauri,,L2420949,True,wessan,False,-105.27541,Western Sandpiper
+S15669646,38.551789,False,Yolo Bypass Wildlife Area,2013-11-14 14:20,Calidris mauri,12,L443535,True,wessan,True,-121.6208018,Western Sandpiper
+S220129175,37.4887844,False,Don Edwards NWR--Ravenswood Salt Pond SF2,2013-11-15 16:15,Calidris mauri,50,L998470,True,wessan,False,-122.1341944,Western Sandpiper
+S168954006,-3.0329854,True,Punta Arenas 2(Isla Puná),2013-11-15 09:00,Calidris mauri,20,L30696758,True,wessan,False,-80.2259727,Western Sandpiper
+S15684298,33.78746,True,Ken Malloy Harbor Regional Park,2013-11-16 14:30,Calidris mauri,6,L2424531,True,wessan,False,-118.29394,Western Sandpiper
+S15690398,46.95072,False,Ocean Shores,2013-11-16 07:00,Calidris mauri,,L268334,True,wessan,False,-124.15571,Western Sandpiper
+S15698412,33.4407706,False,Salton Sea--84th Ave.,2013-11-17 16:53,Calidris mauri,4,L876710,True,wessan,False,-116.0442281,Western Sandpiper
+S15697327,48.9722422,False,"Lighthouse Marine Park, Point Roberts",2013-11-17 13:00,Calidris mauri,1,L336663,True,wessan,False,-123.0836705,Western Sandpiper
+S17038326,22.4409871,False,Laguna Las Garzas-Chahuin,2013-11-17 07:00,Calidris mauri,,L809514,True,wessan,False,-105.5952644,Western Sandpiper
+S15720774,33.1330196,False,Salton Sea--Young Rd. (west end),2013-11-18 13:30,Calidris mauri,30,L367627,True,wessan,False,-115.6666589,Western Sandpiper
+S15710415,48.0960511,False,Fort Flagler SP,2013-11-18 10:11,Calidris mauri,1,L249781,True,wessan,False,-122.7139785,Western Sandpiper
+S17389919,28.9747693,True,Estero Santa Rosa,2013-11-18 08:00,Calidris mauri,16,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S15713805,38.3238144,False,Bodega Bay--harbor and immediate vicinity,2013-11-19 13:07,Calidris mauri,3,L109489,True,wessan,False,-123.0488491,Western Sandpiper
+S15723568,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2013-11-20 20:30,Calidris mauri,1,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S15720889,47.0812514,False,Billy Frank Jr. Nisqually NWR,2013-11-20 08:00,Calidris mauri,2,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S15730042,34.0870104,False,Frank G. Bonelli RP/Puddingstone Reservoir and vicinity,2013-11-21 11:00,Calidris mauri,2,L815817,True,wessan,False,-117.8050125,Western Sandpiper
+S22793265,49.059,False,Blackie Spit (Incl. Dunsmuir Farm & Nicomekl estuary),2013-11-21 13:00,Calidris mauri,7,L285197,True,wessan,False,-122.879,Western Sandpiper
+S15736542,35.3331065,False,Elfin Forest Preserve--Lupine Point Overlook,2013-11-22 10:17,Calidris mauri,,L375132,True,wessan,False,-120.8302362,Western Sandpiper
+S15964639,28.7914163,False,Estero Santa Cruz,2013-11-22 07:47,Calidris mauri,1150,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S15749825,33.6235893,False,Upper Newport Bay--Back Bay Dr.,2013-11-23 14:27,Calidris mauri,,L740881,True,wessan,False,-117.886734,Western Sandpiper
+S15746809,48.4000277,False,Deception Pass SP -- West Beach,2013-11-23 10:00,Calidris mauri,,L834171,True,wessan,False,-122.6643831,Western Sandpiper
+S15743084,27.05901,False,Isla Huivulai,2013-11-23 09:00,Calidris mauri,54,L221548,True,wessan,False,-109.97825,Western Sandpiper
+S15755223,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2013-11-24 16:14,Calidris mauri,5,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S15775739,40.855284,False,Arcata Marsh--Klopp Lake,2013-11-25 15:45,Calidris mauri,100,L579586,True,wessan,False,-124.095567,Western Sandpiper
+S15773669,34.0870104,False,Frank G. Bonelli RP/Puddingstone Reservoir and vicinity,2013-11-26 14:00,Calidris mauri,1,L815817,True,wessan,False,-117.8050125,Western Sandpiper
+S15832633,46.7880721,False,Grayland Beach State Park,2013-11-26 00:15,Calidris mauri,4,L682593,True,wessan,False,-124.0941381,Western Sandpiper
+S15779332,33.604236,True,Blythe Riviera,2013-11-27 17:19,Calidris mauri,8,L2344360,True,wessan,True,-114.533254,Western Sandpiper
+S15780242,45.2641693,False,Sitka Sedge State Natural Area,2013-11-27 15:25,Calidris mauri,1,L4930859,True,wessan,False,-123.9605749,Western Sandpiper
+S15781088,47.0812514,False,Billy Frank Jr. Nisqually NWR,2013-11-27 13:45,Calidris mauri,300,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S15846172,34.0991916,False,Mugu Lagoon--east arm,2013-11-28 15:35,Calidris mauri,100,L382471,True,wessan,False,-119.0815092,Western Sandpiper
+S15787962,46.2265811,False,Fort Stevens SP--Parking Area D,2013-11-28 11:44,Calidris mauri,3,L1303189,True,wessan,False,-123.9901543,Western Sandpiper
+S22188791,24.166802,False,Carretera 15/Culiacán-Mazatlán,2013-11-28 06:00,Calidris mauri,2915,L500966,True,wessan,False,-107.010956,Western Sandpiper
+S15841311,33.7874582,False,Ken Malloy Harbor Regional Park,2013-11-29 14:30,Calidris mauri,2,L1552663,True,wessan,False,-118.2939363,Western Sandpiper
+S17390647,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2013-11-29 11:30,Calidris mauri,187,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S15813898,33.7026531,False,Bolsa Chica Ecological Reserve,2013-11-30 15:55,Calidris mauri,1,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S15810097,46.9648907,False,Ocean Shores -- Bill's Spit,2013-11-30 12:41,Calidris mauri,200,L269804,True,wessan,False,-124.1339435,Western Sandpiper
+S15842410,28.4610029,False,Estero Cardonal,2013-11-30 09:03,Calidris mauri,137,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S15843739,35.672219,False,China Lake NAWS--Sewage Ponds (restricted access),2013-12-01 14:00,Calidris mauri,1,L772068,True,wessan,False,-117.63834,Western Sandpiper
+S15845777,37.8458334,False,Pt. Emery,2013-12-02 14:30,Calidris mauri,50,L622485,True,wessan,False,-122.30106,Western Sandpiper
+S15845096,33.6965128,False,Bolsa Chica--walkbridge/inner bay,2013-12-03 15:00,Calidris mauri,,L1165694,True,wessan,False,-118.0451372,Western Sandpiper
+S18126171,32.0214087,False,Ciénega Santa Clara,2013-12-03 07:50,Calidris mauri,,L733388,True,wessan,False,-114.8905563,Western Sandpiper
+S165525982,33.0972222,False,Salton Sea--Poe Rd.,2013-12-04 16:05,Calidris mauri,,L686135,True,wessan,False,-115.7527256,Western Sandpiper
+S15873196,38.0241261,False,Martinez Regional Shoreline Park,2013-12-05 15:00,Calidris mauri,2,L192708,True,wessan,False,-122.1401596,Western Sandpiper
+S15869320,48.094649,False,Marlyn Nelson County Park,2013-12-05 08:25,Calidris mauri,1,L390083,True,wessan,False,-123.045845,Western Sandpiper
+S18126346,31.3415046,False,Bahía la Cholla,2013-12-05 10:12,Calidris mauri,,L552814,True,wessan,False,-113.6154211,Western Sandpiper
+S15879466,37.7066631,False,Candlestick Shoreline (SM Co.),2013-12-06 16:00,Calidris mauri,10,L1433536,True,wessan,False,-122.393728,Western Sandpiper
+S15904501,20.6724824,True,Estero Rio Ameca,2013-12-06 15:00,Calidris mauri,100,L1779408,True,wessan,False,-105.2812167,Western Sandpiper
+S15890854,32.7899172,True,Sail Bay--Bayside Walk,2013-12-07 15:15,Calidris mauri,2,L2457423,True,wessan,False,-117.2509217,Western Sandpiper
+S15890991,42.5604142,False,Euchre Creek Bottomlands,2013-12-07 16:03,Calidris mauri,1,L1246057,True,wessan,False,-124.3839025,Western Sandpiper
+S20321309,48.4988626,False,March Point,2013-12-07 14:20,Calidris mauri,1,L726782,True,wessan,False,-122.5581551,Western Sandpiper
+S40054513,49.059,False,Blackie Spit (Incl. Dunsmuir Farm & Nicomekl estuary),2013-12-07,Calidris mauri,5,L285197,True,wessan,False,-122.879,Western Sandpiper
+S18126852,31.6720835,True,Isla Montague,2013-12-07 10:45,Calidris mauri,,L2813716,True,wessan,False,-114.6869659,Western Sandpiper
+S15966977,28.7914163,False,Estero Santa Cruz,2013-12-07 10:50,Calidris mauri,1345,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S15905603,37.855813,False,Berkeley Aquatic Park,2013-12-08 15:30,Calidris mauri,30,L597003,True,wessan,False,-122.2977448,Western Sandpiper
+S18127182,31.2715085,True,Costa Noroeste de Baja California,2013-12-08 09:15,Calidris mauri,,L2813771,True,wessan,False,-114.8778534,Western Sandpiper
+S15904760,20.6724824,True,Estero Rio Ameca,2013-12-08 09:00,Calidris mauri,300,L1779408,True,wessan,False,-105.2812167,Western Sandpiper
+S15918350,33.6817825,False,San Diego Creek Trail--I-405 to Barranca Pkwy,2013-12-09 15:15,Calidris mauri,,L506883,True,wessan,False,-117.8328323,Western Sandpiper
+S15930733,37.695231,False,San Leandro Marina,2013-12-10 12:30,Calidris mauri,1000,L582754,True,wessan,False,-122.1906281,Western Sandpiper
+S15930661,20.6724824,True,Estero Rio Ameca,2013-12-10 07:00,Calidris mauri,300,L1779408,True,wessan,False,-105.2812167,Western Sandpiper
+S15938473,32.759758,True,beach ride,2013-12-11 16:08,Calidris mauri,900,L2463692,True,wessan,False,-117.254087,Western Sandpiper
+S15936345,21.6070037,False,Granja de Camarón Chacalilla,2013-12-11 06:45,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S15947274,35.0124063,False,Kramer Junction--solar evaporation ponds,2013-12-12 14:06,Calidris mauri,1,L1252063,True,wessan,True,-117.5478959,Western Sandpiper
+S15946598,47.0324021,False,Ocean City SP,2013-12-12 08:34,Calidris mauri,500,L869415,True,wessan,False,-124.1676092,Western Sandpiper
+S17390784,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2013-12-12 10:25,Calidris mauri,237,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S15956037,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2013-12-13 16:05,Calidris mauri,4,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S15955776,20.6724824,True,Estero Rio Ameca,2013-12-13 07:31,Calidris mauri,300,L1779408,True,wessan,False,-105.2812167,Western Sandpiper
+S15971042,40.740336,False,Humboldt Bay--King Salmon,2013-12-14 16:30,Calidris mauri,,L271497,True,wessan,False,-124.218596,Western Sandpiper
+S15973651,45.5400224,True,Bayocean Penninsula ,2013-12-14 08:15,Calidris mauri,1,L1131004,True,wessan,False,-123.9484405,Western Sandpiper
+S15984239,37.8649781,True,Sea Breeze Cove mud flats,2013-12-15 15:20,Calidris mauri,129,L2469775,True,wessan,False,-122.3100936,Western Sandpiper
+S51863271,43.3629632,False,Pigeon Point,2013-12-15,Calidris mauri,50,L3074601,True,wessan,True,-124.3008113,Western Sandpiper
+S22188932,24.0477181,False,Sistema Lagunar Ceuta,2013-12-15 06:00,Calidris mauri,2711,L3452217,True,wessan,False,-107.0933533,Western Sandpiper
+S16001078,33.4407706,False,Salton Sea--84th Ave.,2013-12-16 16:15,Calidris mauri,3,L876710,True,wessan,False,-116.0442281,Western Sandpiper
+S16007766,37.8458334,False,Pt. Emery,2013-12-17 15:10,Calidris mauri,,L622485,True,wessan,False,-122.30106,Western Sandpiper
+S71993888,32.0255029,False,El Indivisio (pueblo),2013-12-17 07:30,Calidris mauri,8,L1049108,True,wessan,False,-114.9830212,Western Sandpiper
+S71994292,32.0244985,True,fields south of Ejido Johnson,2013-12-17 07:30,Calidris mauri,8,L5181500,True,wessan,False,-114.9562597,Western Sandpiper
+S16016446,33.4449917,False,Salton Sea SRA--Salt Creek Beach,2013-12-18 15:27,Calidris mauri,15,L670711,True,wessan,False,-115.8474934,Western Sandpiper
+S170436405,-3.0321231,True,Isla Puná (Punta Arena),2013-12-18 09:00,Calidris mauri,400,L30984129,True,wessan,False,-80.2325849,Western Sandpiper
+S17125528,34.1226943,False,Ormond Beach--Arnold Rd.,2013-12-19 17:03,Calidris mauri,2,L1861949,True,wessan,False,-119.156529,Western Sandpiper
+S16043252,31.7079954,False,Estero Punta Banda,2013-12-19 13:00,Calidris mauri,,L234679,True,wessan,False,-116.6373229,Western Sandpiper
+S16054300,39.4199554,True,Casa dePatos,2013-12-20 14:00,Calidris mauri,,L2479799,True,wessan,False,-121.8852425,Western Sandpiper
+S16040685,31.7775956,False,Complejo Turístico Playa Estero,2013-12-20 16:44,Calidris mauri,15,L368165,True,wessan,False,-116.6163754,Western Sandpiper
+S16039578,37.5072066,True,"Skyway Road, San Carlos",2013-12-21 16:58,Calidris mauri,4,L622560,True,wessan,False,-122.2457743,Western Sandpiper
+S20358173,48.4988626,False,March Point,2013-12-21 12:50,Calidris mauri,1,L726782,True,wessan,False,-122.5581551,Western Sandpiper
+S16048633,32.7597508,False,San Diego River--estuary (Old Sea World Dr.),2013-12-22 16:00,Calidris mauri,12,L757716,True,wessan,False,-117.2179803,Western Sandpiper
+S16064058,38.1483276,True,San Pablo NWR,2013-12-23 14:30,Calidris mauri,,L2480910,True,wessan,False,-122.3955917,Western Sandpiper
+S16058283,44.7967032,False,Ankeny NWR--Eagle Marsh,2013-12-23 14:45,Calidris mauri,,L832651,True,wessan,True,-123.0813789,Western Sandpiper
+S16068115,37.892331,False,Albany Mudflats,2013-12-24 16:14,Calidris mauri,20,L484238,True,wessan,False,-122.3117995,Western Sandpiper
+S16068214,47.0812514,False,Billy Frank Jr. Nisqually NWR,2013-12-24 08:00,Calidris mauri,1,L282253,True,wessan,True,-122.7180576,Western Sandpiper
+S16066189,49.0767445,False,Delta—Boundary Bay - 104th St.,2013-12-24 08:15,Calidris mauri,1,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S16078631,33.1722397,False,Salton Sea--Obsidian Butte,2013-12-25 15:23,Calidris mauri,5,L267757,True,wessan,False,-115.6427077,Western Sandpiper
+S16075821,45.553569,False,Bayocean Spit,2013-12-25 11:10,Calidris mauri,35,L2198871,True,wessan,False,-123.9435911,Western Sandpiper
+S16082840,32.7514463,False,Famosa Slough,2013-12-26 16:20,Calidris mauri,,L246035,True,wessan,False,-117.2287632,Western Sandpiper
+S16099437,48.2854441,False,Oak Harbor Beach Park,2013-12-26 14:00,Calidris mauri,100,L1666710,True,wessan,False,-122.6544336,Western Sandpiper
+S16082559,31.715581,False,Punta Banda (pueblo) (acceso restringido),2013-12-26 14:20,Calidris mauri,1,L234680,True,wessan,False,-116.6663393,Western Sandpiper
+S16101601,33.7026531,False,Bolsa Chica Ecological Reserve,2013-12-27 16:20,Calidris mauri,2500,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S16095874,31.715581,False,Punta Banda (pueblo) (acceso restringido),2013-12-27 16:30,Calidris mauri,5,L234680,True,wessan,False,-116.6663393,Western Sandpiper
+S16108010,38.6543655,False,Farmers Central Rd.--pond at CR102,2013-12-28 16:15,Calidris mauri,5,L892337,True,wessan,False,-121.7281455,Western Sandpiper
+S16105048,31.7176905,False,Estero Punta Banda--Embalse,2013-12-28 10:00,Calidris mauri,25,L619238,True,wessan,False,-116.6521454,Western Sandpiper
+S16124567,35.1340046,False,Pismo Creek mouth,2013-12-29 15:40,Calidris mauri,1,L353768,True,wessan,False,-120.6392555,Western Sandpiper
+S16122569,45.56952,False,Tillamook Bay--Barview Jetty,2013-12-29 10:45,Calidris mauri,1,L286501,True,wessan,False,-123.949414,Western Sandpiper
+S16119138,31.715581,False,Punta Banda (pueblo) (acceso restringido),2013-12-29 13:10,Calidris mauri,3,L234680,True,wessan,False,-116.6663393,Western Sandpiper
+S16287889,26.288047,True,bird island,2013-12-29 09:00,Calidris mauri,20,L2514273,True,wessan,False,-109.234726,Western Sandpiper
+S16115982,21.6070037,False,Granja de Camarón Chacalilla,2013-12-29 11:30,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S16137188,34.1113782,False,Pt. Mugu Naval Air Station (restricted access),2013-12-30 16:20,Calidris mauri,200,L373997,True,wessan,False,-119.111495,Western Sandpiper
+S16135886,43.71265,True,"Reedsport, Beach from Sparrow Park Rd south to N Jetty Umpqua R",2013-12-30 12:29,Calidris mauri,2,L2492998,True,wessan,True,-124.19338,Western Sandpiper
+S16130099,21.5652606,False,Granja de Camarón San Blas,2013-12-30 07:45,Calidris mauri,60,L620587,True,wessan,False,-105.275414,Western Sandpiper
+S16152725,33.7026531,False,Bolsa Chica Ecological Reserve,2013-12-31 16:45,Calidris mauri,10,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S16185399,46.3460888,True,"waPacific - Long Beach, Sid Snyder Beach",2013-12-31 13:45,Calidris mauri,500,L2501041,True,wessan,False,-124.0655351,Western Sandpiper
+S16142296,31.7176905,False,Estero Punta Banda--Embalse,2013-12-31 09:30,Calidris mauri,2,L619238,True,wessan,False,-116.6521454,Western Sandpiper
+S16266916,24.659093,True,nuevo altata sinaloa,2013-12-31 14:18,Calidris mauri,7,L2512004,True,wessan,False,-107.99818,Western Sandpiper
+S16172874,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-01-01 16:20,Calidris mauri,500,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S16185610,46.2824277,True,waPacific - Cape Disappointment State Park,2014-01-01 10:10,Calidris mauri,,L1146575,True,wessan,False,-124.0655136,Western Sandpiper
+S16160318,31.715581,False,Punta Banda (pueblo) (acceso restringido),2014-01-01 08:15,Calidris mauri,2,L234680,True,wessan,False,-116.6663393,Western Sandpiper
+S25951441,38.0578151,False,Hamilton Wetlands,2014-01-02 20:15,Calidris mauri,3150,L2837420,True,wessan,True,-122.5078261,Western Sandpiper
+S16222194,47.07091,True,Ocean City,2014-01-02 14:00,Calidris mauri,48,L273818,True,wessan,False,-124.16629,Western Sandpiper
+S16209753,21.56526,True,Carretera 14--Granja de Camarón Papayito,2014-01-02 11:15,Calidris mauri,120,L2420949,True,wessan,False,-105.27541,Western Sandpiper
+S16326201,33.338128,True,Niland Boat ramp Campground,2014-01-03 20:21,Calidris mauri,5,L2520575,True,wessan,False,-115.667302,Western Sandpiper
+S16231529,33.202348,True,Calipatria,2014-01-04 20:20,Calidris mauri,5,L2507718,True,wessan,False,-115.606061,Western Sandpiper
+S16229271,21.5652606,False,Granja de Camarón San Blas,2014-01-04 16:20,Calidris mauri,,L620587,True,wessan,False,-105.275414,Western Sandpiper
+S16230036,20.6723795,True,MX - mouth of Rio Amica,2014-01-04 13:00,Calidris mauri,350,L2507383,True,wessan,False,-105.2802551,Western Sandpiper
+S16246603,40.864728,False,Arcata Bottoms--V St. Loop,2014-01-05 17:00,Calidris mauri,,L578591,True,wessan,False,-124.120967,Western Sandpiper
+S16277669,37.8980248,False,Pt. Isabel Regional Shoreline (please do not use for areas northwest of dog park),2014-01-06 16:00,Calidris mauri,500,L507756,True,wessan,False,-122.3237228,Western Sandpiper
+S16287871,37.596824,False,Eden Landing Ecological Reserve,2014-01-07 15:17,Calidris mauri,300,L457476,True,wessan,False,-122.1138096,Western Sandpiper
+S16302450,43.3693999,False,Coos Bay--Lower Bay,2014-01-07 10:12,Calidris mauri,1,L798019,True,wessan,False,-124.3108821,Western Sandpiper
+S16299590,33.4407706,False,Salton Sea--84th Ave.,2014-01-08 15:15,Calidris mauri,4,L876710,True,wessan,False,-116.0442281,Western Sandpiper
+S16297263,48.565015,True,Bow,2014-01-08 10:46,Calidris mauri,12,L2515597,True,wessan,True,-122.421241,Western Sandpiper
+S16736959,28.7914163,False,Estero Santa Cruz,2014-01-08 07:45,Calidris mauri,3437,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S16313037,36.8533538,False,near Pajaro River mouth (SCZ Co.) (river mouth/lagoon not in SCZ Co.),2014-01-09 16:45,Calidris mauri,,L351475,True,wessan,False,-121.8120912,Western Sandpiper
+S16312169,20.6723795,True,MX - mouth of Rio Amica,2014-01-09 12:15,Calidris mauri,300,L2507383,True,wessan,False,-105.2802551,Western Sandpiper
+S16336812,33.9695101,False,Ballona Creek--lower,2014-01-10 16:07,Calidris mauri,23,L738199,True,wessan,False,-118.4419352,Western Sandpiper
+S16736695,28.4610029,False,Estero Cardonal,2014-01-10 10:08,Calidris mauri,34,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S16341048,33.4449917,False,Salton Sea SRA--Salt Creek Beach,2014-01-11 15:56,Calidris mauri,6,L670711,True,wessan,False,-115.8474934,Western Sandpiper
+S17791838,26.405194,True,Navopatia Field Station,2014-01-11 07:00,Calidris mauri,73,L1474484,True,wessan,False,-109.2345923,Western Sandpiper
+S16337844,20.6723795,True,MX - mouth of Rio Amica,2014-01-11 13:30,Calidris mauri,250,L2507383,True,wessan,False,-105.2802551,Western Sandpiper
+S16357146,38.2262552,False,Shollenberger Park,2014-01-12 16:10,Calidris mauri,2,L198798,True,wessan,False,-122.5976274,Western Sandpiper
+S16366197,27.9535809,False,Empalme--Paso Elevado,2014-01-12 09:20,Calidris mauri,,L274680,True,wessan,False,-110.8359123,Western Sandpiper
+S22189079,24.0477181,False,Sistema Lagunar Ceuta,2014-01-12 06:00,Calidris mauri,4516,L3452217,True,wessan,False,-107.0933533,Western Sandpiper
+S16353348,20.6723795,True,MX - mouth of Rio Amica,2014-01-12 08:10,Calidris mauri,250,L2507383,True,wessan,False,-105.2802551,Western Sandpiper
+S16364108,33.6965128,False,Bolsa Chica--walkbridge/inner bay,2014-01-13 16:35,Calidris mauri,20,L1165694,True,wessan,False,-118.0451372,Western Sandpiper
+S16376275,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-01-14 16:15,Calidris mauri,,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S16385654,37.8458334,False,Pt. Emery,2014-01-15 15:48,Calidris mauri,20,L622485,True,wessan,False,-122.30106,Western Sandpiper
+S16382376,48.7975609,False,Lummi Flats,2014-01-15 10:39,Calidris mauri,13,L483608,True,wessan,False,-122.6498008,Western Sandpiper
+S17390909,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-01-15 10:35,Calidris mauri,205,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S70429690,38.3273494,False,Bodega Harbor--Spud Point and marina,2014-01-16 14:00,Calidris mauri,18,L2373907,True,wessan,False,-123.0563378,Western Sandpiper
+S16398587,43.1351,False,Bandon Marsh NWR,2014-01-16 14:40,Calidris mauri,21,L159572,True,wessan,True,-124.4027,Western Sandpiper
+S16410506,32.7790844,False,Mission Bay--Mission Bay Resort,2014-01-17 16:55,Calidris mauri,16,L821758,True,wessan,False,-117.2102165,Western Sandpiper
+S16445118,31.321115,True,Puerto Peñasco (ciudad),2014-01-17 08:00,Calidris mauri,3,L261923,True,wessan,False,-113.529178,Western Sandpiper
+S16425777,35.20622,True,US-CA-Kern--Hwy 223 e of I5 wetland,2014-01-18 17:15,Calidris mauri,1,L2569427,True,wessan,False,-119.124338,Western Sandpiper
+S16439308,35.152019,True,US-CA-Kern--Buena Vista Lakebed--South Lake Rd ski camp,2014-01-19 16:13,Calidris mauri,1,L2571784,True,wessan,False,-119.225613,Western Sandpiper
+S16455595,27.8761681,False,Bahía Guásimas,2014-01-19 07:50,Calidris mauri,,L221552,True,wessan,False,-110.5729294,Western Sandpiper
+S16453744,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-01-20 16:00,Calidris mauri,3,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S16528933,35.1209967,True,"Pismo Beach, CA",2014-01-21 16:30,Calidris mauri,50,L2585746,True,wessan,False,-120.6350648,Western Sandpiper
+S16485269,37.8054779,False,Middle Harbor Shoreline Park,2014-01-22 16:00,Calidris mauri,50,L774817,True,wessan,False,-122.3259401,Western Sandpiper
+S16487847,46.7141351,True,Tokeland Links,2014-01-22 15:05,Calidris mauri,15,L2579227,True,wessan,False,-123.9912808,Western Sandpiper
+S16489893,33.7026531,False,Bolsa Chica Ecological Reserve,2014-01-23 15:45,Calidris mauri,,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S16491154,43.391473,True,US_OR_Coos_mill cassino s beach,2014-01-23 13:00,Calidris mauri,,L2579785,True,wessan,False,-124.218885,Western Sandpiper
+S16737025,28.7914163,False,Estero Santa Cruz,2014-01-23 15:40,Calidris mauri,500,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S16499641,37.7215595,True,herons head,2014-01-24 16:00,Calidris mauri,200,L2525490,True,wessan,True,-122.3849487,Western Sandpiper
+S17609966,46.2302,False,Fort Stevens SP,2014-01-24 11:30,Calidris mauri,2,L163490,True,wessan,False,-124.003624,Western Sandpiper
+S16514903,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-01-25 17:00,Calidris mauri,,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S16509874,48.1666667,False,Crockett Lake,2014-01-25 14:30,Calidris mauri,4,L109534,True,wessan,False,-122.65,Western Sandpiper
+S16510115,28.7914163,False,Estero Santa Cruz,2014-01-25 07:50,Calidris mauri,30,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S16528384,34.4136013,False,Coal Oil Point Reserve--Devereux Slough,2014-01-26 17:15,Calidris mauri,15,L615794,True,wessan,True,-119.8756027,Western Sandpiper
+S16528989,27.9618001,False,Estero El Soldado,2014-01-26 10:00,Calidris mauri,,L389236,True,wessan,False,-110.9743166,Western Sandpiper
+S16539878,36.8404781,False,Elkhorn Slough--Estrada & North marsh and/or Kirby Park,2014-01-27 14:00,Calidris mauri,5,L802931,True,wessan,False,-121.7424688,Western Sandpiper
+S33489363,33.1965376,False,Salton Sea--Red Hill area,2014-01-28 15:45,Calidris mauri,,L225954,True,wessan,False,-115.6128216,Western Sandpiper
+S16553594,31.7154637,True,Ensenada - Estero road,2014-01-28 10:00,Calidris mauri,16,L500380,True,wessan,False,-116.6506004,Western Sandpiper
+S17391023,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-01-28 10:30,Calidris mauri,190,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S16721195,32.778342,True,Fiesta Island area,2014-01-29 17:09,Calidris mauri,30,L372574,True,wessan,False,-117.2198569,Western Sandpiper
+S16730438,43.1351,False,Bandon Marsh NWR,2014-01-29 13:10,Calidris mauri,,L159572,True,wessan,False,-124.4027,Western Sandpiper
+S16736786,28.4610029,False,Estero Cardonal,2014-01-29 09:40,Calidris mauri,44,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S16735296,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-01-30 14:24,Calidris mauri,,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S16731432,30.6849425,True,BCN - E Laguna Figueroa,2014-01-30 13:00,Calidris mauri,20,L622192,True,wessan,False,-116.0159683,Western Sandpiper
+S16740377,37.7525975,False,Elsie Roemer Bird Sanctuary,2014-01-31 16:00,Calidris mauri,50,L509134,True,wessan,False,-122.2473836,Western Sandpiper
+S16740214,28.0010705,True,Laguna Guerrero Negro,2014-01-31 09:00,Calidris mauri,,L2593902,True,wessan,False,-114.0631485,Western Sandpiper
+S16756779,37.7656261,False,Crown Memorial SB,2014-02-01 15:43,Calidris mauri,500,L563744,True,wessan,False,-122.2744846,Western Sandpiper
+S16762208,46.9425863,False,Ocean Shores--Damon Point,2014-02-01 14:00,Calidris mauri,37,L1428100,True,wessan,False,-124.1223335,Western Sandpiper
+S17273533,33.7026531,False,Bolsa Chica Ecological Reserve,2014-02-02 15:00,Calidris mauri,,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S16783909,37.498727,False,Don Edwards NWR--Ravenswood Salt Ponds R1/R2,2014-02-03 17:17,Calidris mauri,50,L381276,True,wessan,False,-122.1415758,Western Sandpiper
+S17391623,28.7914163,False,Estero Santa Cruz,2014-02-03 14:21,Calidris mauri,5453,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S16778702,21.56526,True,Carretera 14--Granja de Camarón Papayito,2014-02-03 09:56,Calidris mauri,,L2420949,True,wessan,False,-105.27541,Western Sandpiper
+S16793742,32.5665347,False,Seacoast Drive to Tijuana River mouth,2014-02-04 15:30,Calidris mauri,50,L418748,True,wessan,False,-117.1322003,Western Sandpiper
+S16789391,21.6070037,False,Granja de Camarón Chacalilla,2014-02-04 06:30,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S16804773,37.7381243,False,Heron's Head Park,2014-02-05 16:30,Calidris mauri,2,L502380,True,wessan,False,-122.3725462,Western Sandpiper
+S18192999,33.1788315,False,Sonny Bono Salton Sea NWR--Rock Hill Trail,2014-02-06 16:45,Calidris mauri,40,L465122,True,wessan,False,-115.6226921,Western Sandpiper
+S22792673,49.059,False,Blackie Spit (Incl. Dunsmuir Farm & Nicomekl estuary),2014-02-06 13:00,Calidris mauri,3,L285197,True,wessan,True,-122.879,Western Sandpiper
+S16837265,33.0084139,False,San Elijo Lagoon--west,2014-02-07 16:00,Calidris mauri,20,L761141,True,wessan,False,-117.271476,Western Sandpiper
+S16835657,48.9666667,False,Drayton Harbor,2014-02-07 15:05,Calidris mauri,15,L109536,True,wessan,False,-122.75,Western Sandpiper
+S30391981,33.7052492,False,Bolsa Chica SB,2014-02-08 18:00,Calidris mauri,,L813476,True,wessan,False,-118.0578806,Western Sandpiper
+S16846985,48.4988626,False,March Point,2014-02-08 14:42,Calidris mauri,2,L726782,True,wessan,False,-122.5581551,Western Sandpiper
+S17658501,26.405194,True,Navopatia Field Station,2014-02-08 07:00,Calidris mauri,75,L1474484,True,wessan,False,-109.2345923,Western Sandpiper
+S16867334,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-02-09 16:35,Calidris mauri,,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S16869519,49.059,False,Blackie Spit (Incl. Dunsmuir Farm & Nicomekl estuary),2014-02-09 12:35,Calidris mauri,1,L285197,True,wessan,True,-122.879,Western Sandpiper
+S16886720,34.1226943,False,Ormond Beach--Arnold Rd.,2014-02-10 16:48,Calidris mauri,4,L1861949,True,wessan,False,-119.156529,Western Sandpiper
+S16923933,37.7341691,False,India Basin Shoreline Park,2014-02-11 16:00,Calidris mauri,2,L590792,True,wessan,False,-122.3753651,Western Sandpiper
+S16887739,21.6070037,False,Granja de Camarón Chacalilla,2014-02-11 06:30,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S16904921,40.8604405,False,Arcata Marsh--Gearheart Marsh,2014-02-12 10:45,Calidris mauri,,L1344700,True,wessan,False,-124.0946509,Western Sandpiper
+S16904492,31.8335972,True,"playa hermosa, Ensenada",2014-02-12 11:00,Calidris mauri,1,L2577027,True,wessan,False,-116.6102386,Western Sandpiper
+S16927554,34.1564737,False,Los Angeles River--Glendale Narrows Riverwalk area,2014-02-13 14:00,Calidris mauri,30,L2376387,True,wessan,False,-118.2869196,Western Sandpiper
+S16938639,36.8103654,False,Moonglow Dairy (Fri-Sun only; closed Mon-Thur),2014-02-14 13:46,Calidris mauri,6,L306035,True,wessan,False,-121.7667337,Western Sandpiper
+S16944390,31.2885203,False,Las Conchas (pueblo),2014-02-14 17:20,Calidris mauri,100,L1520830,True,wessan,False,-113.4900476,Western Sandpiper
+S16978520,-2.6224888,True,Laguna Acumbe,2014-02-14 16:00,Calidris mauri,2,L1883732,True,wessan,False,-80.4532129,Western Sandpiper
+S16972322,37.5486944,False,Canvasback Way--public shore,2014-02-15 15:50,Calidris mauri,300,L1028652,True,wessan,False,-122.239809,Western Sandpiper
+S16976658,48.0163329,True,5333 Bercot Road,2014-02-15 07:30,Calidris mauri,32,L2614460,True,wessan,False,-122.5429335,Western Sandpiper
+S16973304,31.2885203,False,Las Conchas (pueblo),2014-02-15 17:20,Calidris mauri,6,L1520830,True,wessan,False,-113.4900476,Western Sandpiper
+S16989338,22.2202642,True,francisco villa,2014-02-15 09:00,Calidris mauri,,L881674,True,wessan,False,-105.3322148,Western Sandpiper
+S17007792,34.4076516,False,UCSB--Campus Lagoon,2014-02-16 14:41,Calidris mauri,1,L1072372,True,wessan,False,-119.845165,Western Sandpiper
+S17013742,31.2885203,False,Las Conchas (pueblo),2014-02-16 16:27,Calidris mauri,10,L1520830,True,wessan,False,-113.4900476,Western Sandpiper
+S17062401,34.1113782,False,Pt. Mugu Naval Air Station (restricted access),2014-02-17 15:33,Calidris mauri,15,L373997,True,wessan,False,-119.111495,Western Sandpiper
+S17033682,31.2874132,False,Estero de Morúa,2014-02-17 07:05,Calidris mauri,60,L1414828,True,wessan,False,-113.4333468,Western Sandpiper
+S17093127,40.7251448,False,Humboldt Bay--South Spit,2014-02-18 15:50,Calidris mauri,150,L370924,True,wessan,False,-124.2533112,Western Sandpiper
+S17107880,40.864728,False,Arcata Bottoms--V St. Loop,2014-02-19 16:00,Calidris mauri,,L578591,True,wessan,False,-124.120967,Western Sandpiper
+S17178984,32.7859669,True,Crown Point,2014-02-20 16:45,Calidris mauri,,L1902031,True,wessan,False,-117.2325552,Western Sandpiper
+S17121525,21.4809405,False,Arroyo Aticama--Desembocadura,2014-02-20 16:00,Calidris mauri,,L498604,True,wessan,False,-105.2008188,Western Sandpiper
+S17134844,37.4359191,False,Charleston Slough/Coast Casey Forebay,2014-02-21 17:08,Calidris mauri,,L730351,True,wessan,False,-122.098918,Western Sandpiper
+S17391162,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-02-21 12:53,Calidris mauri,727,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S17170763,34.4079719,True,Lake Casitas-east shore,2014-02-22 16:00,Calidris mauri,6,L2675134,True,wessan,False,-119.3246984,Western Sandpiper
+S22189211,24.0477181,False,Sistema Lagunar Ceuta,2014-02-22 06:00,Calidris mauri,1051,L3452217,True,wessan,False,-107.0933533,Western Sandpiper
+S17174765,37.4560373,True,charleston slough,2014-02-23 17:30,Calidris mauri,1,L2675858,True,wessan,False,-122.1157837,Western Sandpiper
+S17184336,33.9695101,False,Ballona Creek--lower,2014-02-24 12:50,Calidris mauri,10,L738199,True,wessan,False,-118.4419352,Western Sandpiper
+S17205729,32.795011,True,US-CA-San Diego-2211 Pacific Beach Dr,2014-02-25 16:01,Calidris mauri,10,L2679294,True,wessan,False,-117.226222,Western Sandpiper
+S17220826,32.7597508,False,San Diego River--estuary (Old Sea World Dr.),2014-02-26 15:35,Calidris mauri,1,L757716,True,wessan,False,-117.2179803,Western Sandpiper
+S17232095,38.5836668,False,Davis Wetlands,2014-02-27 17:00,Calidris mauri,15,L442170,True,wessan,True,-121.6371918,Western Sandpiper
+S17232927,21.5345954,False,Estanque de San Blas,2014-02-27 16:02,Calidris mauri,,L498144,True,wessan,False,-105.2803859,Western Sandpiper
+S17287454,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-02-28 15:40,Calidris mauri,,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S17254467,37.7381243,False,Heron's Head Park,2014-03-01 16:00,Calidris mauri,12,L502380,True,wessan,False,-122.3725462,Western Sandpiper
+S17245957,28.7914163,False,Estero Santa Cruz,2014-03-01 08:30,Calidris mauri,4,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17369829,32.5915005,False,Bayshore Bikeway--7th Street (Ponds 10/10A),2014-03-02 16:20,Calidris mauri,40,L367640,True,wessan,False,-117.1180604,Western Sandpiper
+S17316416,31.3169813,True,Playa Bonita,2014-03-02,Calidris mauri,2,L2694704,True,wessan,False,-113.55546,Western Sandpiper
+S17290322,33.6308076,False,Upper Newport Bay--Back Bay Dr. parking lot,2014-03-03 16:00,Calidris mauri,8,L817703,True,wessan,False,-117.8856719,Western Sandpiper
+S17392163,28.7914163,False,Estero Santa Cruz,2014-03-03 12:54,Calidris mauri,1,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17310897,21.5474358,False,Mirador de las Garzas--Laguna Oeste,2014-03-03 16:55,Calidris mauri,,L1317110,True,wessan,False,-105.2610612,Western Sandpiper
+S17312348,40.8458831,False,"Humboldt Bay--northeast tidal wetlands (Jacoby Creek mouth, observation deck, & bay trail)",2014-03-04 15:40,Calidris mauri,,L340454,True,wessan,False,-124.0832848,Western Sandpiper
+S17341305,33.0826963,False,Salton Sea NWR--Unit 1 (no public access north of observation deck),2014-03-05 15:13,Calidris mauri,6,L385867,True,wessan,False,-115.7097244,Western Sandpiper
+S17319560,28.7914163,False,Estero Santa Cruz,2014-03-05 10:30,Calidris mauri,100,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17336380,32.5665347,False,Seacoast Drive to Tijuana River mouth,2014-03-06 10:30,Calidris mauri,45,L418748,True,wessan,False,-117.1322003,Western Sandpiper
+S17586527,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-03-06 10:51,Calidris mauri,79,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S17370530,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-03-07 17:30,Calidris mauri,,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S17366481,37.8980248,False,Pt. Isabel Regional Shoreline (please do not use for areas northwest of dog park),2014-03-08 16:50,Calidris mauri,2,L507756,True,wessan,False,-122.3237228,Western Sandpiper
+S29240005,28.7914163,False,Estero Santa Cruz,2014-03-08 08:49,Calidris mauri,403,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17367930,20.7259471,False,Laguna de Quelele,2014-03-08 16:30,Calidris mauri,200,L1907609,True,wessan,False,-105.2912618,Western Sandpiper
+S17552501,19.1962559,True,Mx - Jalisco - Barra de Navidad,2014-03-08 15:30,Calidris mauri,4,L2728010,True,wessan,False,-104.6763611,Western Sandpiper
+S17380915,33.8854488,False,San Jacinto Wildlife Area,2014-03-09 16:48,Calidris mauri,2,L163561,True,wessan,False,-117.104104,Western Sandpiper
+S17373116,31.7775956,False,Complejo Turístico Playa Estero,2014-03-09 06:00,Calidris mauri,30,L368165,True,wessan,False,-116.6163754,Western Sandpiper
+S17378362,27.9618001,False,Estero El Soldado,2014-03-09 09:00,Calidris mauri,3,L389236,True,wessan,False,-110.9743166,Western Sandpiper
+S17378050,20.6673033,True,BOCA DE TOMATES,2014-03-09,Calidris mauri,20,L235090,True,wessan,False,-105.2511438,Western Sandpiper
+S17395093,33.3200348,True,Salton City - Yacht Club Drive at Flamingo Avenue,2014-03-10 14:10,Calidris mauri,2,L2705977,True,wessan,False,-115.937326,Western Sandpiper
+S17407706,44.6180325,False,Yaquina Bay,2014-03-10 16:20,Calidris mauri,2,L157119,True,wessan,False,-124.023757,Western Sandpiper
+S17479565,28.7914163,False,Estero Santa Cruz,2014-03-10 13:00,Calidris mauri,600,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S47714665,21.5337126,False,Rio La Tovara,2014-03-10 15:00,Calidris mauri,4,L293450,True,wessan,False,-105.2530539,Western Sandpiper
+S17406453,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-03-11 13:00,Calidris mauri,,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S79945086,33.0218626,False,San Elijo SB & Campground,2014-03-12 15:43,Calidris mauri,1,L2390732,True,wessan,False,-117.2852245,Western Sandpiper
+S17445979,21.5688146,False,Rancho El Destierro,2014-03-12 07:05,Calidris mauri,4,L234197,True,wessan,False,-102.1520283,Western Sandpiper
+S22475440,37.5635405,False,Foster City Shell Bar,2014-03-13 15:00,Calidris mauri,48,L467982,True,wessan,False,-122.248714,Western Sandpiper
+S17435426,37.498727,False,Don Edwards NWR--Ravenswood Salt Ponds R1/R2,2014-03-14 16:25,Calidris mauri,300,L381276,True,wessan,False,-122.1415758,Western Sandpiper
+S17586614,28.4610029,False,Estero Cardonal,2014-03-14 10:36,Calidris mauri,17,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S17451888,33.7026531,False,Bolsa Chica Ecological Reserve,2014-03-15 15:13,Calidris mauri,1,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S26798096,32.6018801,False,Bayshore Bikeway--Emory Cove & Pond 11,2014-03-16 14:00,Calidris mauri,,L761524,True,wessan,False,-117.1238114,Western Sandpiper
+S17463744,27.9535809,False,Empalme--Paso Elevado,2014-03-16 09:45,Calidris mauri,,L274680,True,wessan,False,-110.8359123,Western Sandpiper
+S17486651,32.6049209,False,San Diego Bay NWR--SoCal Saltworks (restricted access),2014-03-17 12:15,Calidris mauri,300,L2047403,True,wessan,False,-117.1062324,Western Sandpiper
+S203380340,23.6372276,False,ANP Meseta de Cacaxtla,2014-03-17,Calidris mauri,,L675253,True,wessan,False,-106.6723652,Western Sandpiper
+S17480966,21.5474358,False,Mirador de las Garzas--Laguna Oeste,2014-03-17 06:00,Calidris mauri,,L1317110,True,wessan,False,-105.2610612,Western Sandpiper
+S17499022,37.498727,False,Don Edwards NWR--Ravenswood Salt Ponds R1/R2,2014-03-18 17:52,Calidris mauri,1000,L381276,True,wessan,False,-122.1415758,Western Sandpiper
+S17586305,28.7914163,False,Estero Santa Cruz,2014-03-18 11:45,Calidris mauri,1275,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S17511150,35.8448951,False,Ton Tache Wetlands (Atwell Island BLM),2014-03-19 18:49,Calidris mauri,5,L930528,True,wessan,False,-119.497932,Western Sandpiper
+S17537912,37.768607,True,US-CA-San Francisco-64 Pier,2014-03-20 15:24,Calidris mauri,30,L2725639,True,wessan,False,-122.384455,Western Sandpiper
+S17553665,37.5886459,False,"Coyote Point County Park--yacht club, harbor and freshwater marsh",2014-03-21 18:54,Calidris mauri,1000,L997003,True,wessan,False,-122.3152274,Western Sandpiper
+S17558935,32.7592345,False,Mission Beach & north jetty,2014-03-22 18:10,Calidris mauri,2,L634095,True,wessan,False,-117.2536002,Western Sandpiper
+S22189341,24.0477181,False,Sistema Lagunar Ceuta,2014-03-22 06:00,Calidris mauri,726,L3452217,True,wessan,False,-107.0933533,Western Sandpiper
+S17576595,37.7525975,False,Elsie Roemer Bird Sanctuary,2014-03-23 20:15,Calidris mauri,300,L509134,True,wessan,False,-122.2473836,Western Sandpiper
+S17588728,33.7711322,False,Colorado Lagoon,2014-03-24 16:50,Calidris mauri,26,L288881,True,wessan,False,-118.1334941,Western Sandpiper
+S17588188,46.893277,False,Bottle Beach,2014-03-24 09:30,Calidris mauri,,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S17586768,28.9747693,True,Estero Santa Rosa,2014-03-24 12:38,Calidris mauri,2,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S17584684,21.5474358,False,Mirador de las Garzas--Laguna Oeste,2014-03-24 06:15,Calidris mauri,,L1317110,True,wessan,False,-105.2610612,Western Sandpiper
+S17602370,33.463836,True,US-CA-Thermal-91000-91930 81st Ave,2014-03-25 17:55,Calidris mauri,20,L2735683,True,wessan,False,-116.06303,Western Sandpiper
+S17604839,26.703572,True,Yavaros,2014-03-25 08:45,Calidris mauri,45,L1482529,True,wessan,False,-109.524014,Western Sandpiper
+S17635181,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-03-26 17:30,Calidris mauri,,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S17625262,33.7026531,False,Bolsa Chica Ecological Reserve,2014-03-27 13:21,Calidris mauri,400,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S17636906,34.4136013,False,Coal Oil Point Reserve--Devereux Slough,2014-03-28 18:30,Calidris mauri,20,L615794,True,wessan,False,-119.8756027,Western Sandpiper
+S17634831,46.6198174,False,Willapa NWR--Leadbetter Point--bay side,2014-03-28 16:20,Calidris mauri,2,L599784,True,wessan,False,-124.0507935,Western Sandpiper
+S17658712,33.014057,True,US-CA-Encinitas-2626-2710 Manchester Ave,2014-03-29 18:07,Calidris mauri,,L2742929,True,wessan,False,-117.275049,Western Sandpiper
+S17655984,46.6198174,False,Willapa NWR--Leadbetter Point--bay side,2014-03-29 15:25,Calidris mauri,80,L599784,True,wessan,False,-124.0507935,Western Sandpiper
+S17655689,28.7914163,False,Estero Santa Cruz,2014-03-29 13:17,Calidris mauri,15,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17723567,33.7026531,False,Bolsa Chica Ecological Reserve,2014-03-30 15:45,Calidris mauri,10,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S17689681,37.498727,False,Don Edwards NWR--Ravenswood Salt Ponds R1/R2,2014-03-31 18:17,Calidris mauri,30,L381276,True,wessan,False,-122.1415758,Western Sandpiper
+S17803667,28.7914163,False,Estero Santa Cruz,2014-03-31 11:12,Calidris mauri,75,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17704233,32.778342,True,Fiesta Island area,2014-04-01 19:00,Calidris mauri,1,L372574,True,wessan,False,-117.2198569,Western Sandpiper
+S17723259,28.7914163,False,Estero Santa Cruz,2014-04-01 12:45,Calidris mauri,,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S105270619,38.2193756,False,Buchli Station Rd.,2014-04-02 17:30,Calidris mauri,1,L2361914,True,wessan,False,-122.3312573,Western Sandpiper
+S17739360,37.892331,False,Albany Mudflats,2014-04-03 16:00,Calidris mauri,,L484238,True,wessan,False,-122.3117995,Western Sandpiper
+S17734316,31.7775956,False,Complejo Turístico Playa Estero,2014-04-03 07:00,Calidris mauri,,L368165,True,wessan,False,-116.6163754,Western Sandpiper
+S17803830,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-04-03 11:00,Calidris mauri,10,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S18520179,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-04-04 18:00,Calidris mauri,8,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S17761795,38.3333418,False,Bodega Bay--Porto Bodega,2014-04-05 17:29,Calidris mauri,20,L1064231,True,wessan,False,-123.0520463,Western Sandpiper
+S17765521,28.7914163,False,Estero Santa Cruz,2014-04-05 10:10,Calidris mauri,18,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17781815,37.5316305,False,Don Edwards NWR (ALA Co.),2014-04-06 18:40,Calidris mauri,,L500360,True,wessan,False,-122.0733619,Western Sandpiper
+S17930976,20.6806908,True,"Mayan Palace Resort, Nuevo Vallarta",2014-04-06 18:00,Calidris mauri,1,L2783419,True,wessan,False,-105.2850831,Western Sandpiper
+S17937574,37.8047658,False,Presidio--Crissy Field Lagoon,2014-04-07 16:00,Calidris mauri,1,L1004802,True,wessan,False,-122.4562311,Western Sandpiper
+S17802286,49.0767445,False,Delta—Boundary Bay - 104th St.,2014-04-07 08:30,Calidris mauri,,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S17803730,28.9747693,True,Estero Santa Rosa,2014-04-07 11:15,Calidris mauri,2,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S17796300,21.5474358,False,Mirador de las Garzas--Laguna Oeste,2014-04-07 11:30,Calidris mauri,,L1317110,True,wessan,False,-105.2610612,Western Sandpiper
+S17834516,37.7381243,False,Heron's Head Park,2014-04-08 17:30,Calidris mauri,20,L502380,True,wessan,False,-122.3725462,Western Sandpiper
+S17837038,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-04-09 17:55,Calidris mauri,4,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S17973751,21.5345954,False,Estanque de San Blas,2014-04-09 16:10,Calidris mauri,,L498144,True,wessan,False,-105.2803859,Western Sandpiper
+S17836328,35.1289,False,California City Central Park,2014-04-10 17:00,Calidris mauri,1,L163614,True,wessan,False,-117.9454722,Western Sandpiper
+S17830405,20.2288889,False,Playa Villa del Mar,2014-04-10 07:00,Calidris mauri,7,L813346,True,wessan,False,-105.5572222,Western Sandpiper
+S17855149,35.90652,True,Pixley NWR,2014-04-11 18:40,Calidris mauri,,L2772806,True,wessan,False,-119.37585,Western Sandpiper
+S17939449,49.6620567,False,Comox--Goose Spit Park,2014-04-11 19:00,Calidris mauri,30,L499076,True,wessan,False,-124.9115611,Western Sandpiper
+S17926179,20.6757477,False,Rio Ameca--Desembocadura (Nayarit),2014-04-11 10:00,Calidris mauri,,L990064,True,wessan,False,-105.2817847,Western Sandpiper
+S23023133,34.6827698,False,Surf Beach,2014-04-12 17:17,Calidris mauri,5,L969581,True,wessan,False,-120.6056356,Western Sandpiper
+S17907182,45.2639938,False,Blount Swale overlook (restricted access),2014-04-12 19:00,Calidris mauri,2,L2159919,True,wessan,False,-122.6556319,Western Sandpiper
+S17973844,21.6173833,False,Chacalilla (pueblo),2014-04-12 07:11,Calidris mauri,,L895900,True,wessan,False,-105.2687123,Western Sandpiper
+S17890437,37.498727,False,Don Edwards NWR--Ravenswood Salt Ponds R1/R2,2014-04-13 17:45,Calidris mauri,10,L381276,True,wessan,False,-122.1415758,Western Sandpiper
+S17872326,45.5217439,False,Bayocean Spit--bay (east) side,2014-04-13 09:25,Calidris mauri,7,L285627,True,wessan,False,-123.9484406,Western Sandpiper
+S20455224,48.5441542,False,Samish Flats,2014-04-13 17:55,Calidris mauri,1,L267117,True,wessan,False,-122.4684341,Western Sandpiper
+S17896428,37.5220346,True,Don Edwards NWR- salt ponds,2014-04-14 17:27,Calidris mauri,5,L1134119,True,wessan,False,-122.0966949,Western Sandpiper
+S17943851,47.4378813,False,Theler Wetlands,2014-04-14 14:00,Calidris mauri,1,L250091,True,wessan,True,-122.8411134,Western Sandpiper
+S17913420,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-04-15 18:50,Calidris mauri,30,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S17906577,45.7574596,False,Sauvie Island--Rentenaar Rd.,2014-04-15 09:45,Calidris mauri,1,L279044,True,wessan,False,-122.776551,Western Sandpiper
+S18209525,49.06564,False,Delta--Brunswick Point,2014-04-15 10:40,Calidris mauri,,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S17969340,30.2744864,True,Puerto Lobos,2014-04-15 06:00,Calidris mauri,,L2790220,True,wessan,False,-112.8495026,Western Sandpiper
+S17973890,22.2202642,True,francisco villa,2014-04-15 15:49,Calidris mauri,,L881674,True,wessan,False,-105.3322148,Western Sandpiper
+S17926390,33.6849473,False,"Harriett M. Wieder Regional Park, Huntington Beach",2014-04-16 18:50,Calidris mauri,100,L464247,True,wessan,False,-118.0223304,Western Sandpiper
+S17919145,48.151945,False,Three Crabs,2014-04-16 08:30,Calidris mauri,6,L265438,True,wessan,False,-123.1222855,Western Sandpiper
+S17925590,48.4763354,False,Saanich--Panama Flats,2014-04-16 17:45,Calidris mauri,2,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S17924114,28.7914163,False,Estero Santa Cruz,2014-04-16 14:07,Calidris mauri,97,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S17940077,40.950814,True,McKinleyville--Fernwood Fowler home,2014-04-17 22:40,Calidris mauri,2,L927567,True,wessan,False,-124.1063809,Western Sandpiper
+S17939151,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-17 18:00,Calidris mauri,100,L463228,True,wessan,True,-122.9128075,Western Sandpiper
+S17932601,48.1666667,False,Crockett Lake,2014-04-17 12:40,Calidris mauri,1,L109534,True,wessan,False,-122.65,Western Sandpiper
+S17936501,48.4763354,False,Saanich--Panama Flats,2014-04-17 13:05,Calidris mauri,4,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S18663043,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-04-17 10:48,Calidris mauri,174,L1482743,True,wessan,False,-111.4534142,Western Sandpiper
+S17959199,37.4359191,False,Charleston Slough/Coast Casey Forebay,2014-04-18 19:22,Calidris mauri,200,L730351,True,wessan,False,-122.098918,Western Sandpiper
+S17950971,46.033006,True,US-OR-Seaside-25th St. overlook,2014-04-18 16:30,Calidris mauri,25,L2786835,True,wessan,False,-123.911268,Western Sandpiper
+S17953740,46.9011251,False,Westhaven SP,2014-04-18 16:00,Calidris mauri,25,L1875831,True,wessan,False,-124.1268446,Western Sandpiper
+S17951691,48.3590448,False,Sooke--Whiffin Spit Park,2014-04-18 16:15,Calidris mauri,2,L351678,True,wessan,False,-123.7175942,Western Sandpiper
+S17971329,40.7251448,False,Humboldt Bay--South Spit,2014-04-19 18:45,Calidris mauri,100,L370924,True,wessan,False,-124.2533112,Western Sandpiper
+S17985320,44.9628966,True,Covill Rd,2014-04-19 20:45,Calidris mauri,,L2792667,True,wessan,False,-123.2302201,Western Sandpiper
+S17970056,48.151945,False,Three Crabs,2014-04-19 18:30,Calidris mauri,36,L265438,True,wessan,False,-123.1222855,Western Sandpiper
+S17975450,49.1175908,True,"Tofino, Jensen's Bay",2014-04-19 16:45,Calidris mauri,40,L473166,True,wessan,False,-125.8814335,Western Sandpiper
+S17973103,31.5798126,True,Playa sur del Golfo de Santa Clara (El Tornillal),2014-04-19 07:10,Calidris mauri,150,L2790648,True,wessan,False,-114.3199539,Western Sandpiper
+S17989604,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-04-20 18:24,Calidris mauri,4,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S17989931,44.4274055,False,Finley Rd. Conservation Wetland,2014-04-20 19:12,Calidris mauri,1,L1077570,True,wessan,False,-123.3021355,Western Sandpiper
+S18227793,46.754211,True,Big Hanaford Rd. - Centralia,2014-04-20,Calidris mauri,3,L817240,True,wessan,False,-122.8317833,Western Sandpiper
+S17988353,48.4763354,False,Saanich--Panama Flats,2014-04-20 11:30,Calidris mauri,2,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S17998760,31.2579626,False,Estero de la Pinta,2014-04-20 10:49,Calidris mauri,25,L3741500,True,wessan,False,-113.2362127,Western Sandpiper
+S18025963,38.32361,True,"Bodega Bay, CA",2014-04-21 18:30,Calidris mauri,3,L1786022,True,wessan,False,-123.04069,Western Sandpiper
+S18023671,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-21 17:30,Calidris mauri,12,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S18013546,47.2813233,False,Port of Tacoma - Alexander Avenue,2014-04-21 16:02,Calidris mauri,7,L1280707,True,wessan,False,-122.411567,Western Sandpiper
+S18028188,48.43874,False,Oak Bay--Cattle Point,2014-04-21 13:30,Calidris mauri,3,L348477,True,wessan,False,-123.29416,Western Sandpiper
+S18043439,38.2027785,False,Napa-Sonoma Marshes WA--Green Island Unit,2014-04-22 18:00,Calidris mauri,3000,L1060866,True,wessan,False,-122.3031521,Western Sandpiper
+S18038441,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-22 18:30,Calidris mauri,200,L463228,True,wessan,True,-122.9128075,Western Sandpiper
+S18036768,47.2515553,False,Gog-Le-Hi-Te Mitigated Wetlands,2014-04-22 14:30,Calidris mauri,18,L284679,True,wessan,False,-122.4103975,Western Sandpiper
+S18031268,58.5283716,False,Eagle Beach SRA,2014-04-22 08:45,Calidris mauri,2,L390227,True,wessan,False,-134.8270512,Western Sandpiper
+S18037511,48.4763354,False,Saanich--Panama Flats,2014-04-22 13:15,Calidris mauri,40,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S18059200,36.2772855,True,Field along Demaree,2014-04-23 19:00,Calidris mauri,,L2803691,True,wessan,False,-119.3337965,Western Sandpiper
+S18048156,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-23 11:30,Calidris mauri,1,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S18052149,47.1004537,False,Luhr Beach,2014-04-23 17:00,Calidris mauri,400,L464767,True,wessan,False,-122.7266407,Western Sandpiper
+S18077205,58.5283716,False,Eagle Beach SRA,2014-04-23 15:05,Calidris mauri,3,L390227,True,wessan,False,-134.8270512,Western Sandpiper
+S18050917,48.4763354,False,Saanich--Panama Flats,2014-04-23 17:40,Calidris mauri,8,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S18664469,28.9747693,True,Estero Santa Rosa,2014-04-23 17:38,Calidris mauri,70,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S18079371,38.2262552,False,Shollenberger Park,2014-04-24 22:00,Calidris mauri,,L198798,True,wessan,False,-122.5976274,Western Sandpiper
+S18066021,44.0633762,False,EWEB wetlands,2014-04-24 19:35,Calidris mauri,,L1979702,True,wessan,False,-123.1703811,Western Sandpiper
+S18062930,47.1004537,False,Luhr Beach,2014-04-24 17:02,Calidris mauri,100,L464767,True,wessan,False,-122.7266407,Western Sandpiper
+S18081824,50.6126295,True,Cluxewe,2014-04-24 20:15,Calidris mauri,4,L2807057,True,wessan,False,-127.1741509,Western Sandpiper
+S18132798,38.325875,True,US-CA-Bodega Bay-829 CA-1,2014-04-25 22:15,Calidris mauri,1,L2814559,True,wessan,False,-123.048937,Western Sandpiper
+S18080791,42.0243992,False,Lower Klamath NWR--Straits Drain,2014-04-25 17:00,Calidris mauri,300,L850346,True,wessan,False,-121.7778454,Western Sandpiper
+S18079681,48.7871878,False,Sandy Point,2014-04-25 18:40,Calidris mauri,12,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S18093924,49.2213299,False,Iona Island (General),2014-04-25 20:00,Calidris mauri,8,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S18073745,21.5345954,False,Estanque de San Blas,2014-04-25 11:13,Calidris mauri,,L498144,True,wessan,False,-105.2803859,Western Sandpiper
+S18122264,37.9429588,True,Niven Park Cove mudflats,2014-04-26 18:30,Calidris mauri,1,L2365068,True,wessan,False,-122.5205532,Western Sandpiper
+S18102025,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-26 18:00,Calidris mauri,200,L463228,True,wessan,True,-122.9128075,Western Sandpiper
+S18096800,46.5489847,True,Oysterville Sea Farms,2014-04-26 18:00,Calidris mauri,7,L2809296,True,wessan,False,-124.0262246,Western Sandpiper
+S18145292,55.3427645,False,Ketchikan (town),2014-04-26 16:50,Calidris mauri,50,L1022652,True,wessan,False,-131.6462517,Western Sandpiper
+S18096776,48.7530765,False,Cowichan Bay,2014-04-26 16:00,Calidris mauri,1,L797570,True,wessan,False,-123.6386776,Western Sandpiper
+S18132362,37.4770523,False,Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth,2014-04-27 18:45,Calidris mauri,1,L329541,True,wessan,False,-122.4492789,Western Sandpiper
+S18118272,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-04-27 16:30,Calidris mauri,,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S18115281,48.2320943,False,Leque Island--Eide Rd.,2014-04-27 18:00,Calidris mauri,150,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S18145869,59.635823,False,Homer Spit--Mud Bay,2014-04-27 15:45,Calidris mauri,25,L251458,True,wessan,False,-151.4965296,Western Sandpiper
+S18115762,48.4797787,False,Victoria--Hastings Flats,2014-04-27 19:20,Calidris mauri,9,L1141665,True,wessan,False,-123.4254938,Western Sandpiper
+S18664051,28.4610029,False,Estero Cardonal,2014-04-27 11:32,Calidris mauri,5,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S18130682,32.7592345,False,Mission Beach & north jetty,2014-04-28 19:05,Calidris mauri,25,L634095,True,wessan,False,-117.2536002,Western Sandpiper
+S18130306,44.3695582,True,"Gap Road at pullout for field entrance S of Lake Creek Dr., Brownsville",2014-04-28 18:21,Calidris mauri,3,L2814247,True,wessan,False,-122.9852678,Western Sandpiper
+S18131306,47.9941723,False,Discovery Bay,2014-04-28 18:40,Calidris mauri,4,L808110,True,wessan,False,-122.8819084,Western Sandpiper
+S18133040,60.5420341,False,Kenai--Tarbox Wildlife Viewing Platform,2014-04-28 19:30,Calidris mauri,9,L937659,True,wessan,False,-151.2194681,Western Sandpiper
+S18145963,48.3986167,False,Trial Islands,2014-04-28 18:50,Calidris mauri,1,L2747482,True,wessan,False,-123.3049328,Western Sandpiper
+S18145248,35.8448951,False,Ton Tache Wetlands (Atwell Island BLM),2014-04-29 18:30,Calidris mauri,12,L930528,True,wessan,False,-119.497932,Western Sandpiper
+S18144321,42.433213,True,Kirtland Pond,2014-04-29 14:15,Calidris mauri,11,L625607,True,wessan,False,-122.9105759,Western Sandpiper
+S18238422,46.9719365,False,Ocean Shores -- outer beach,2014-04-29 17:00,Calidris mauri,,L450264,True,wessan,False,-124.1688538,Western Sandpiper
+S18198548,49.0347071,False,Tsawwassen--Beach Grove Park,2014-04-29 17:40,Calidris mauri,2,L367653,True,wessan,False,-123.0563003,Western Sandpiper
+S18663584,28.7914163,False,Estero Santa Cruz,2014-04-29 12:03,Calidris mauri,40,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S18715210,33.0972222,False,Salton Sea--Poe Rd.,2014-04-30 20:58,Calidris mauri,60,L686135,True,wessan,False,-115.7527256,Western Sandpiper
+S18159281,42.0243992,False,Lower Klamath NWR--Straits Drain,2014-04-30 17:30,Calidris mauri,30,L850346,True,wessan,False,-121.7778454,Western Sandpiper
+S18157609,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-04-30 17:30,Calidris mauri,5,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S18158946,55.3427645,False,Ketchikan (town),2014-04-30 17:15,Calidris mauri,210,L1022652,True,wessan,False,-131.6462517,Western Sandpiper
+S18159475,49.0796846,False,Tofino airport (restricted access),2014-04-30 17:20,Calidris mauri,8,L481331,True,wessan,False,-125.7773177,Western Sandpiper
+S18174501,40.8600083,True,Arcata Bottoms--Arcata Marsh expansion outskirts,2014-05-01 19:35,Calidris mauri,,L1778525,True,wessan,False,-124.114122,Western Sandpiper
+S18275105,46.2622559,False,East Sand Island,2014-05-01 19:08,Calidris mauri,650,L2079962,True,wessan,False,-123.9717007,Western Sandpiper
+S18174751,46.0685319,False,McNary NWR--Walla Walla River Delta,2014-05-01 18:30,Calidris mauri,2,L109548,True,wessan,False,-118.9096792,Western Sandpiper
+S18174545,58.3959998,False,Gustavus--Forelands Preserve (E of Gustavus Dock),2014-05-01 08:15,Calidris mauri,14000,L781855,True,wessan,True,-135.7105064,Western Sandpiper
+S18171465,48.4401841,False,"Victoria--Selkirk Waterfront, Gorge Waterway",2014-05-01 17:39,Calidris mauri,30,L363609,True,wessan,False,-123.3793938,Western Sandpiper
+S18165792,21.5468174,True,"Estanque Derecho, San Blas",2014-05-01 10:30,Calidris mauri,4,L2567865,True,wessan,False,-105.2621931,Western Sandpiper
+S18205089,35.8520653,False,"Private Property ""H"" No Public Access",2014-05-02 18:45,Calidris mauri,100,L1674368,True,wessan,False,-119.6358372,Western Sandpiper
+S18209886,44.6231604,False,Mark Hatfield Marine Science Center and Estuary Trail,2014-05-02 18:58,Calidris mauri,20,L613298,True,wessan,False,-124.0434766,Western Sandpiper
+S18191143,46.9788811,False,Grays Harbor NWR--Bowerman Basin,2014-05-02 19:34,Calidris mauri,40,L109532,True,wessan,False,-123.9381495,Western Sandpiper
+S18219424,59.635823,False,Homer Spit--Mud Bay,2014-05-02 19:00,Calidris mauri,190,L251458,True,wessan,False,-151.4965296,Western Sandpiper
+S18189489,49.2690922,False,"Port Alberni--McCoy Lake (private, no public access 2018 onwards)",2014-05-02 19:12,Calidris mauri,1,L2036043,True,wessan,False,-124.8912275,Western Sandpiper
+S18182414,21.5345954,False,Estanque de San Blas,2014-05-02 10:50,Calidris mauri,,L498144,True,wessan,False,-105.2803859,Western Sandpiper
+S18216008,37.910581,True,Bolinas - Sewage Ponds,2014-05-03 18:42,Calidris mauri,5,L2826450,True,wessan,False,-122.694546,Western Sandpiper
+S18274966,46.2622559,False,East Sand Island,2014-05-03 20:15,Calidris mauri,18,L2079962,True,wessan,False,-123.9717007,Western Sandpiper
+S18208283,47.1026154,False,I-90 Winchester Rest Area Sewage Ponds,2014-05-03 19:53,Calidris mauri,3,L2204759,True,wessan,False,-119.6196556,Western Sandpiper
+S18209531,61.2075708,False,Chester Creek & Fish Creek Mouths (Audubon Bench & Fish Creek Bench),2014-05-03 21:00,Calidris mauri,6,L716993,True,wessan,True,-149.9289732,Western Sandpiper
+S18224094,49.0405124,True,Yellow Point--Michael Lake,2014-05-03 20:30,Calidris mauri,1,L2632567,True,wessan,False,-123.8116693,Western Sandpiper
+S18230112,33.1965376,False,Salton Sea--Red Hill area,2014-05-04 19:00,Calidris mauri,,L225954,True,wessan,False,-115.6128216,Western Sandpiper
+S18228244,45.7175091,True,The Spit at Hood River mouth,2014-05-04 16:18,Calidris mauri,7,L2341189,True,wessan,False,-121.5083748,Western Sandpiper
+S18376433,47.4246771,False,S 200th St Ponds (Kent),2014-05-04 17:45,Calidris mauri,,L2151864,True,wessan,False,-122.2718785,Western Sandpiper
+S209330518,58.6397381,True,Naknek River near Rapids Camp Landing,2014-05-04 17:50,Calidris mauri,,L39432518,True,wessan,False,-156.5661407,Western Sandpiper
+S18228101,49.1023476,False,Creston--Speers/Kootenay River Roads,2014-05-04 17:57,Calidris mauri,2,L1529877,True,wessan,True,-116.5402345,Western Sandpiper
+S18243536,37.4887844,False,Don Edwards NWR--Ravenswood Salt Pond SF2,2014-05-05 17:56,Calidris mauri,500,L998470,True,wessan,False,-122.1341944,Western Sandpiper
+S18287132,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-05-05 19:25,Calidris mauri,50,L463228,True,wessan,True,-122.9128075,Western Sandpiper
+S18245850,47.6769235,False,Reardan Ponds,2014-05-05 19:10,Calidris mauri,15,L219774,True,wessan,False,-117.8772198,Western Sandpiper
+S63439636,60.4983201,False,Cordova--Hartney Bay,2014-05-05 18:35,Calidris mauri,58700,L210903,True,wessan,False,-145.868013,Western Sandpiper
+S18244061,49.2690922,False,"Port Alberni--McCoy Lake (private, no public access 2018 onwards)",2014-05-05 17:54,Calidris mauri,4,L2036043,True,wessan,False,-124.8912275,Western Sandpiper
+S18301422,38.2272243,True,Shollenberger Park wetlands,2014-05-06 19:30,Calidris mauri,2,L751089,True,wessan,False,-122.5915861,Western Sandpiper
+S18276768,45.265898,True,"Blount Road swale, Canby",2014-05-06 17:35,Calidris mauri,2,L2119673,True,wessan,False,-122.655704,Western Sandpiper
+S18289173,48.962813,False,Drayton Harbor--Drayton Harbor Rd West,2014-05-06 19:00,Calidris mauri,57,L2533628,True,wessan,False,-122.763889,Western Sandpiper
+S63457799,60.4983201,False,Cordova--Hartney Bay,2014-05-06 19:50,Calidris mauri,7926,L210903,True,wessan,False,-145.868013,Western Sandpiper
+S18261423,49.2690922,False,"Port Alberni--McCoy Lake (private, no public access 2018 onwards)",2014-05-06 19:31,Calidris mauri,3,L2036043,True,wessan,False,-124.8912275,Western Sandpiper
+S18280299,38.9397508,False,Tahoe Marsh--via San Francisco Ave.,2014-05-07 17:45,Calidris mauri,4,L1259871,True,wessan,True,-119.9931049,Western Sandpiper
+S18272598,45.5064875,False,Fernhill Wetlands (general),2014-05-07 12:27,Calidris mauri,8,L163529,True,wessan,False,-123.0851855,Western Sandpiper
+S18275346,47.8085287,False,Edmonds Marsh,2014-05-07 14:00,Calidris mauri,6,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S18388485,60.3859137,False,Kasilof--Kasilof River Mouth,2014-05-07 19:50,Calidris mauri,160,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S18302950,48.3590448,False,Sooke--Whiffin Spit Park,2014-05-07 17:00,Calidris mauri,53,L351678,True,wessan,False,-123.7175942,Western Sandpiper
+S18296170,38.9397508,False,Tahoe Marsh--via San Francisco Ave.,2014-05-08 18:48,Calidris mauri,4,L1259871,True,wessan,True,-119.9931049,Western Sandpiper
+S18294662,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-05-08 18:53,Calidris mauri,6,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S18288754,47.6802118,False,Sikes Lake,2014-05-08 11:30,Calidris mauri,4,L689562,True,wessan,False,-121.960001,Western Sandpiper
+S18388787,59.635823,False,Homer Spit--Mud Bay,2014-05-08 22:15,Calidris mauri,50,L251458,True,wessan,False,-151.4965296,Western Sandpiper
+S18294888,49.2690922,False,"Port Alberni--McCoy Lake (private, no public access 2018 onwards)",2014-05-08 19:15,Calidris mauri,8,L2036043,True,wessan,False,-124.8912275,Western Sandpiper
+S18309557,37.4770523,False,Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth,2014-05-09 18:15,Calidris mauri,2,L329541,True,wessan,False,-122.4492789,Western Sandpiper
+S18338880,44.6110011,False,Yaquina River--South Jetty,2014-05-09 19:00,Calidris mauri,4,L779533,True,wessan,False,-124.0752983,Western Sandpiper
+S18314551,48.9950387,False,Blaine Marine Park,2014-05-09 12:45,Calidris mauri,40,L272612,True,wessan,False,-122.7580957,Western Sandpiper
+S18311919,59.6385129,False,Homer--Beluga Slough & Bishops Beach,2014-05-09 21:30,Calidris mauri,200,L788284,True,wessan,False,-151.5362263,Western Sandpiper
+S18384709,49.1253298,False,Tofino--Sharp Road Lookout,2014-05-09 19:15,Calidris mauri,125,L499294,True,wessan,False,-125.8835771,Western Sandpiper
+S18664268,28.4610029,False,Estero Cardonal,2014-05-09 10:56,Calidris mauri,1,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S18329934,38.3547149,False,Salmon Creek mouth (SON Co.),2014-05-10 19:45,Calidris mauri,12,L836994,True,wessan,False,-123.0679035,Western Sandpiper
+S18327422,45.5064875,False,Fernhill Wetlands (general),2014-05-10 18:04,Calidris mauri,2,L163529,True,wessan,False,-123.0851855,Western Sandpiper
+S18406376,46.904704,False,Westport Jetty,2014-05-10 20:15,Calidris mauri,2,L267466,True,wessan,False,-124.1343063,Western Sandpiper
+S18329781,59.626154,True,"59.6262x-151.4757 - May 10, 2014, 6:44 PM",2014-05-10 18:44,Calidris mauri,2,L2842818,True,wessan,False,-151.475716,Western Sandpiper
+S18454766,48.9465969,True,Ca - BC - Ucluelet - Ucluelet Small Boat Harbour,2014-05-10 19:45,Calidris mauri,45,L2862179,True,wessan,False,-125.5543971,Western Sandpiper
+S18346973,37.4770523,False,Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth,2014-05-11 18:40,Calidris mauri,6,L329541,True,wessan,True,-122.4492789,Western Sandpiper
+S18347794,45.71604,True,"US-OR-Hood River - 45.7160x-121.5084 - May 3, 2014, 5:22 PM",2014-05-11 19:51,Calidris mauri,7,L2825250,True,wessan,False,-121.508365,Western Sandpiper
+S18345436,47.1473548,False,Skookum Inlet,2014-05-11 17:00,Calidris mauri,15,L1970587,True,wessan,False,-123.0592879,Western Sandpiper
+S18349630,64.493702,False,Nome--East End Park,2014-05-11 19:30,Calidris mauri,1,L1667663,True,wessan,False,-165.3742526,Western Sandpiper
+S18374523,49.1023476,False,Creston--Speers/Kootenay River Roads,2014-05-11 19:06,Calidris mauri,3,L1529877,True,wessan,True,-116.5402345,Western Sandpiper
+S18366772,37.4770523,False,Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth,2014-05-12 18:45,Calidris mauri,3,L329541,True,wessan,False,-122.4492789,Western Sandpiper
+S18369448,45.1065939,False,Neskowin Area (includes golf course and Beach State Recreation Site),2014-05-12 19:20,Calidris mauri,1,L1369441,True,wessan,False,-123.9810562,Western Sandpiper
+S18362970,46.7880721,False,Grayland Beach State Park,2014-05-12 14:00,Calidris mauri,100,L682593,True,wessan,False,-124.0941381,Western Sandpiper
+S18367733,61.178193,False,Anchorage Coastal WR--Clitheroe Flats,2014-05-12 19:16,Calidris mauri,8,L1545636,True,wessan,False,-150.0367842,Western Sandpiper
+S18373290,49.2058333,False,Iona Island--South Jetty,2014-05-12 15:30,Calidris mauri,23,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S18700205,39.4727008,False,"MacKerricher SP--Virgin Creek Beach and all of estuary, otherwise WEST of Haul Rd ONLY",2014-05-13 14:45,Calidris mauri,8,L289455,True,wessan,False,-123.8042021,Western Sandpiper
+S18379687,45.2174028,False,Cape Kiwanda SP,2014-05-13 17:10,Calidris mauri,4,L285940,True,wessan,False,-123.9778006,Western Sandpiper
+S18386721,46.7079709,False,Tokeland -- Graveyard Spit/Fisher Ave,2014-05-13 09:08,Calidris mauri,75,L257976,True,wessan,False,-123.9877832,Western Sandpiper
+S18382725,61.178193,False,Anchorage Coastal WR--Clitheroe Flats,2014-05-13 18:30,Calidris mauri,1,L1545636,True,wessan,False,-150.0367842,Western Sandpiper
+S18434460,49.018181,False,Boundary Bay Regional Park,2014-05-13 18:45,Calidris mauri,6,L281095,True,wessan,False,-123.0461152,Western Sandpiper
+S18394781,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-05-14 17:15,Calidris mauri,2,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S18403098,45.5217439,False,Bayocean Spit--bay (east) side,2014-05-14 13:00,Calidris mauri,10,L285627,True,wessan,False,-123.9484406,Western Sandpiper
+S18508263,46.9531917,True,"Grays Harbor, Sand Island",2014-05-14 10:00,Calidris mauri,,L2869876,True,wessan,False,-124.0442276,Western Sandpiper
+S18404206,64.4461086,True,Nome - Council Road M15,2014-05-14 22:25,Calidris mauri,7,L1544011,True,wessan,False,-164.9442289,Western Sandpiper
+S18396689,49.2188889,False,Iona Island Inner Ponds (NOW CLOSED TO PUBLIC),2014-05-14 18:45,Calidris mauri,12,L339172,True,wessan,False,-123.2055556,Western Sandpiper
+S18412002,35.880149,False,Tecopa Marsh,2014-05-15 14:45,Calidris mauri,1,L2855185,True,wessan,False,-116.2372613,Western Sandpiper
+S18411889,48.8270399,False,"Ferndale Flats, N of Slater Road",2014-05-15 17:09,Calidris mauri,2,L1287940,True,wessan,False,-122.6167774,Western Sandpiper
+S18412775,64.4831392,False,Nome River Mouth,2014-05-15 22:30,Calidris mauri,20,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18416800,49.1175908,True,"Tofino, Jensen's Bay",2014-05-15 17:10,Calidris mauri,250,L473166,True,wessan,False,-125.8814335,Western Sandpiper
+S18470105,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-05-16 17:36,Calidris mauri,1,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S18426639,45.7157802,True,"Hood River mouth, e. side of confluence",2014-05-16 12:54,Calidris mauri,1,L2357808,True,wessan,False,-121.5058815,Western Sandpiper
+S18473440,46.9095527,False,Westport (general),2014-05-16 11:00,Calidris mauri,20,L276529,True,wessan,False,-124.1167938,Western Sandpiper
+S18426255,60.3859137,False,Kasilof--Kasilof River Mouth,2014-05-16 23:18,Calidris mauri,30,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S18439152,49.1023476,False,Creston--Speers/Kootenay River Roads,2014-05-16 19:00,Calidris mauri,1,L1529877,True,wessan,True,-116.5402345,Western Sandpiper
+S18663335,28.3614916,False,Reserva Especial de La Biosfera Cajon del Diablo--Estero Tastiota,2014-05-16 10:10,Calidris mauri,42,L1482743,True,wessan,True,-111.4534142,Western Sandpiper
+S18440890,35.9121327,False,Stoil Ponds,2014-05-17 18:50,Calidris mauri,6,L578202,True,wessan,False,-119.4311714,Western Sandpiper
+S18431532,44.9629606,True,oregon2020--The Narrows,2014-05-17 10:35,Calidris mauri,1,L2801583,True,wessan,False,-123.2655513,Western Sandpiper
+S18439205,48.2320943,False,Leque Island--Eide Rd.,2014-05-17 17:44,Calidris mauri,2,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S18446931,60.5418336,True,AK - KEN - Kenai Flats Birding Platform,2014-05-17 21:00,Calidris mauri,100,L898067,True,wessan,False,-151.2183952,Western Sandpiper
+S19871993,49.1253298,False,Tofino--Sharp Road Lookout,2014-05-17 19:00,Calidris mauri,80,L499294,True,wessan,False,-125.8835771,Western Sandpiper
+S18449446,60.5453707,False,Marsh Lake--M'Clintock Bay,2014-05-17 20:52,Calidris mauri,1,L767519,True,wessan,True,-134.4977961,Western Sandpiper
+S18663742,28.7914163,False,Estero Santa Cruz,2014-05-17 07:35,Calidris mauri,157,L500723,True,wessan,True,-111.9012451,Western Sandpiper
+S18450835,33.7026531,False,Bolsa Chica Ecological Reserve,2014-05-18 11:21,Calidris mauri,1,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S19197924,44.95227,True,BSNWR--Highway overlook,2014-05-18 15:40,Calidris mauri,6,L2496248,True,wessan,False,-123.26926,Western Sandpiper
+S18458716,48.2320943,False,Leque Island--Eide Rd.,2014-05-18 17:15,Calidris mauri,10,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S18527908,64.4831392,False,Nome River Mouth,2014-05-18 18:27,Calidris mauri,8,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18457751,49.03191,True,Sumas Prairie - Wells Line Rd between Cole and Lamson Rds,2014-05-18 18:25,Calidris mauri,2,L2825204,True,wessan,True,-122.188787,Western Sandpiper
+S18469053,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-05-19 12:30,Calidris mauri,1,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S18613752,44.9592377,False,Baskett Slough NWR--The Narrows and Cottonwood Pond,2014-05-19 10:29,Calidris mauri,1,L815005,True,wessan,False,-123.2700262,Western Sandpiper
+S18503752,64.4831392,False,Nome River Mouth,2014-05-19 21:45,Calidris mauri,12,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18479898,49.1175908,True,"Tofino, Jensen's Bay",2014-05-19 16:40,Calidris mauri,57,L473166,True,wessan,False,-125.8814335,Western Sandpiper
+S18664766,28.9747693,True,Estero Santa Rosa,2014-05-19 07:15,Calidris mauri,1,L2704954,True,wessan,False,-112.1664512,Western Sandpiper
+S18489107,36.9417288,False,Madera WTP,2014-05-20 13:30,Calidris mauri,1,L344663,True,wessan,False,-120.1645947,Western Sandpiper
+S19537809,48.3395317,False,Hobuck Beach,2014-05-20 17:00,Calidris mauri,2,L267165,True,wessan,False,-124.6717641,Western Sandpiper
+S31860546,64.4937209,True,Front Street Beach,2014-05-20 21:00,Calidris mauri,,L2915609,True,wessan,False,-165.3823686,Western Sandpiper
+S18489123,49.1175908,True,"Tofino, Jensen's Bay",2014-05-20 17:55,Calidris mauri,135,L473166,True,wessan,False,-125.8814335,Western Sandpiper
+S18501056,33.2632189,True,Camp Pendleton--French Canyon,2014-05-21 16:35,Calidris mauri,1,L2811094,True,wessan,False,-117.4387529,Western Sandpiper
+S18499595,46.893277,False,Bottle Beach,2014-05-21 07:50,Calidris mauri,10,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18550430,64.4831392,False,Nome River Mouth,2014-05-21 23:00,Calidris mauri,150,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18500161,49.0712232,True,"Long Beach, Incinerator Rock",2014-05-21 11:15,Calidris mauri,8,L721013,True,wessan,False,-125.7661629,Western Sandpiper
+S18512837,34.7901193,False,Piute Ponds (permit required),2014-05-22 07:45,Calidris mauri,1,L275227,True,wessan,False,-118.1181776,Western Sandpiper
+S18506930,46.893277,False,Bottle Beach,2014-05-22 05:30,Calidris mauri,50,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18550517,64.4831392,False,Nome River Mouth,2014-05-22 21:00,Calidris mauri,150,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S69987732,48.9690361,False,Ucluelet harbour--Lee St/Albion Cr. access,2014-05-22,Calidris mauri,4,L4611237,True,wessan,False,-125.5882273,Western Sandpiper
+S18517880,60.1120067,False,Watson Lake--airport,2014-05-22 12:30,Calidris mauri,1,L591040,True,wessan,True,-128.8251686,Western Sandpiper
+S18554411,34.275208,True,"Ventura, San Buenaventura State Beach, Ventura pier",2014-05-23 10:30,Calidris mauri,1,L2877851,True,wessan,False,-119.29114,Western Sandpiper
+S18529555,46.893277,False,Bottle Beach,2014-05-23 19:40,Calidris mauri,35,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18537857,64.4831392,False,Nome River Mouth,2014-05-23 20:04,Calidris mauri,1,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18595588,33.2330161,True,Camp Pendleton--Santa Margarita River mouth,2014-05-24 12:00,Calidris mauri,1,L885859,True,wessan,False,-117.4143219,Western Sandpiper
+S18539873,45.5217439,False,Bayocean Spit--bay (east) side,2014-05-24 13:09,Calidris mauri,1,L285627,True,wessan,False,-123.9484406,Western Sandpiper
+S18575857,47.1248819,False,Griffiths-Priday State Park,2014-05-24 14:00,Calidris mauri,,L784288,True,wessan,False,-124.1828041,Western Sandpiper
+S18550252,58.3523993,False,Mendenhall Wetlands SGR--Airport Dike Trail,2014-05-24 19:15,Calidris mauri,3,L152823,True,wessan,False,-134.5945144,Western Sandpiper
+S18544606,49.2188889,False,Iona Island Inner Ponds (NOW CLOSED TO PUBLIC),2014-05-24 20:00,Calidris mauri,1,L339172,True,wessan,False,-123.2055556,Western Sandpiper
+S18560679,37.532599,False,Modesto WTP (restricted access),2014-05-25 08:05,Calidris mauri,1,L246766,True,wessan,False,-121.0912228,Western Sandpiper
+S18616456,42.950819,False,Summer Lake Wildlife Area,2014-05-25 18:30,Calidris mauri,3,L444656,True,wessan,False,-120.7639503,Western Sandpiper
+S18560591,48.8270399,False,"Ferndale Flats, N of Slater Road",2014-05-25 16:35,Calidris mauri,1,L1287940,True,wessan,False,-122.6167774,Western Sandpiper
+S18828517,64.8540795,True,Teller Road--37 Mile Ridge,2014-05-25 17:30,Calidris mauri,1,L1544669,True,wessan,False,-166.0847947,Western Sandpiper
+S18555686,49.0712232,True,"Long Beach, Incinerator Rock",2014-05-25 11:50,Calidris mauri,3,L721013,True,wessan,False,-125.7661629,Western Sandpiper
+S18574417,36.6608009,False,Salinas WTP (no public access),2014-05-26 12:45,Calidris mauri,6,L335151,True,wessan,False,-121.7180536,Western Sandpiper
+S18587546,45.7552476,False,Oswald West SP--Smuggler's Cove Overlook,2014-05-26 08:00,Calidris mauri,2,L1298539,True,wessan,False,-123.9633751,Western Sandpiper
+S18569580,46.893277,False,Bottle Beach,2014-05-26 10:42,Calidris mauri,25,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18579111,61.2075708,False,Chester Creek & Fish Creek Mouths (Audubon Bench & Fish Creek Bench),2014-05-26 18:49,Calidris mauri,4,L716993,True,wessan,True,-149.9289732,Western Sandpiper
+S18579669,51.8031484,False,Triquet Island,2014-05-26 12:00,Calidris mauri,1,L2882376,True,wessan,False,-128.2464981,Western Sandpiper
+S20580735,60.424445,False,Marsh Lake--Judas Creek mouth,2014-05-26,Calidris mauri,1,L553528,True,wessan,True,-134.2426729,Western Sandpiper
+S18993600,30.5015645,True,Northern Bahia San Quintin,2014-05-26 08:00,Calidris mauri,1,L2959779,True,wessan,False,-115.991807,Western Sandpiper
+S18593612,37.4887844,False,Don Edwards NWR--Ravenswood Salt Pond SF2,2014-05-27 09:25,Calidris mauri,1,L998470,True,wessan,False,-122.1341944,Western Sandpiper
+S51592736,42.950819,False,Summer Lake Wildlife Area,2014-05-27,Calidris mauri,1,L444656,True,wessan,False,-120.7639503,Western Sandpiper
+S18587121,46.893277,False,Bottle Beach,2014-05-27 10:34,Calidris mauri,2,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18597099,59.6038316,False,Homer Spit--Boat Harbor entrance,2014-05-27 18:40,Calidris mauri,2,L2155797,True,wessan,False,-151.415205,Western Sandpiper
+S19048408,28.4610029,False,Estero Cardonal,2014-05-27 11:30,Calidris mauri,2,L1585554,True,wessan,False,-111.7038983,Western Sandpiper
+S18612082,45.3817834,False,Tualatin River NWR--Atfálat'i Unit,2014-05-28 14:50,Calidris mauri,1,L498314,True,wessan,False,-122.8312254,Western Sandpiper
+S18823995,64.8176927,True,Teller Road--34 Mile Ridge,2014-05-28 12:45,Calidris mauri,12,L1544668,True,wessan,False,-165.9920975,Western Sandpiper
+S18630474,64.4831392,False,Nome River Mouth,2014-05-29 20:45,Calidris mauri,1,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18622899,36.7047606,False,Fresno WTP,2014-05-30 08:52,Calidris mauri,1,L489350,True,wessan,False,-119.8916531,Western Sandpiper
+S18627939,46.893277,False,Bottle Beach,2014-05-30 17:45,Calidris mauri,12,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S18719788,64.5876078,True,Glacier Creek Road,2014-05-30 19:28,Calidris mauri,1,L1846804,True,wessan,False,-165.4487085,Western Sandpiper
+S18630091,49.1175908,True,"Tofino, Jensen's Bay",2014-05-30 02:25,Calidris mauri,6,L473166,True,wessan,False,-125.8814335,Western Sandpiper
+S18642671,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-05-31 19:36,Calidris mauri,5,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S18640643,47.1248819,False,Griffiths-Priday State Park,2014-05-31 16:30,Calidris mauri,12,L784288,True,wessan,False,-124.1828041,Western Sandpiper
+S18854755,64.4455572,True,Nome shorebird plot - East,2014-05-31 11:45,Calidris mauri,9,L2920465,True,wessan,False,-164.9304056,Western Sandpiper
+S18643308,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-05-31 18:15,Calidris mauri,7,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S18813846,42.950819,False,Summer Lake Wildlife Area,2014-06-01 08:00,Calidris mauri,4,L444656,True,wessan,True,-120.7639503,Western Sandpiper
+S18719765,64.442521,True,Nome-Council Rd MP15 Nome Camp,2014-06-01 23:45,Calidris mauri,25,L2173012,True,wessan,False,-164.976368,Western Sandpiper
+S18669380,33.7026531,False,Bolsa Chica Ecological Reserve,2014-06-02 17:30,Calidris mauri,5,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S27366720,43.5666017,False,Tenmile Creek Estuary,2014-06-02,Calidris mauri,1,L742822,True,wessan,False,-124.2276478,Western Sandpiper
+S18669708,64.5585058,False,Nome-Council Rd.--Solomon,2014-06-02 19:00,Calidris mauri,1,L927270,True,wessan,False,-164.4438634,Western Sandpiper
+S18685649,37.576,False,Ceres WTP,2014-06-03 11:07,Calidris mauri,1,L594360,True,wessan,False,-120.970675,Western Sandpiper
+S18766058,63.7793007,False,Gambell (general area),2014-06-03 19:01,Calidris mauri,30,L246497,True,wessan,False,-171.7214584,Western Sandpiper
+S18691457,37.6233925,False,Hayward Regional Shoreline--Interpretive Center,2014-06-04 13:45,Calidris mauri,3,L587721,True,wessan,False,-122.1372843,Western Sandpiper
+S18703182,42.950819,False,Summer Lake Wildlife Area,2014-06-04 08:45,Calidris mauri,2,L444656,True,wessan,True,-120.7639503,Western Sandpiper
+S18889828,64.517291,True,Nome - Council Rd Mile 28.5,2014-06-04 21:40,Calidris mauri,30,L2938928,True,wessan,False,-164.5548105,Western Sandpiper
+S19062883,28.7914163,False,Estero Santa Cruz,2014-06-04 06:58,Calidris mauri,2,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S18703222,41.832863,False,Lake Tolowa,2014-06-05 18:40,Calidris mauri,2,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S18719573,64.51377,True,Safety Sound Bridge to Solomon,2014-06-05 22:52,Calidris mauri,30,L2906433,True,wessan,False,-164.56613,Western Sandpiper
+S18712626,41.832863,False,Lake Tolowa,2014-06-06 19:20,Calidris mauri,1,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S18713333,64.4831392,False,Nome River Mouth,2014-06-06 11:30,Calidris mauri,3,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18738614,33.7026531,False,Bolsa Chica Ecological Reserve,2014-06-07 08:50,Calidris mauri,,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S18724163,64.5585058,False,Nome-Council Rd.--Solomon,2014-06-07 18:45,Calidris mauri,80,L927270,True,wessan,False,-164.4438634,Western Sandpiper
+S18781836,42.825,False,Summer Lake,2014-06-08 14:00,Calidris mauri,1,L159605,True,wessan,True,-120.7456,Western Sandpiper
+S18736520,64.5243802,True,Milepost 28,2014-06-08 16:30,Calidris mauri,2,L2909842,True,wessan,False,-164.5243835,Western Sandpiper
+S18746775,36.8404781,False,Elkhorn Slough--Estrada & North marsh and/or Kirby Park,2014-06-09 08:45,Calidris mauri,6,L802931,True,wessan,True,-121.7424688,Western Sandpiper
+S18747377,65.2592929,False,Teller (town),2014-06-09 16:30,Calidris mauri,10,L595793,True,wessan,False,-166.3549805,Western Sandpiper
+S18872753,64.4831392,False,Nome River Mouth,2014-06-10 20:58,Calidris mauri,8,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18756577,48.4763354,False,Saanich--Panama Flats,2014-06-10 16:50,Calidris mauri,1,L633025,True,wessan,False,-123.4029007,Western Sandpiper
+S18785308,46.9444663,False,Ocean Shores--Oyhut Wildlife Area,2014-06-11 07:45,Calidris mauri,1,L109535,True,wessan,False,-124.1522412,Western Sandpiper
+S18765480,64.4831392,False,Nome River Mouth,2014-06-11 20:05,Calidris mauri,5,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18774056,64.5215742,True,Milepost 27,2014-06-12 17:00,Calidris mauri,2,L2917347,True,wessan,False,-164.5353699,Western Sandpiper
+S21424787,50.1039,False,Cortes Island ferry,2014-06-12 12:00,Calidris mauri,,L343987,True,wessan,False,-125.12309,Western Sandpiper
+S18845127,38.3238144,False,Bodega Bay--harbor and immediate vicinity,2014-06-13 11:00,Calidris mauri,3,L109489,True,wessan,False,-123.0488491,Western Sandpiper
+S18856761,64.4831392,False,Nome River Mouth,2014-06-13 17:10,Calidris mauri,1,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18786499,36.2321583,False,Westlake North Ponds (No Longer in Use),2014-06-14 08:50,Calidris mauri,1,L589029,True,wessan,True,-119.8205853,Western Sandpiper
+S18857520,64.4792511,False,Safety Sound general area,2014-06-14 21:55,Calidris mauri,2,L209518,True,wessan,False,-164.7624136,Western Sandpiper
+S18896364,50.6874716,True,Sea Otter Cove,2014-06-14 15:00,Calidris mauri,1,L2940159,True,wessan,False,-128.3494091,Western Sandpiper
+S18799392,33.7457864,False,Seal Beach NWR (restricted access),2014-06-15 11:55,Calidris mauri,1,L332226,True,wessan,False,-118.0769491,Western Sandpiper
+S18877361,64.6469307,False,Kougarok Rd.--Nome River,2014-06-15 13:35,Calidris mauri,1,L755300,True,wessan,False,-165.2924824,Western Sandpiper
+S18829535,32.588024,False,YMCA--Camp Surf,2014-06-16 07:15,Calidris mauri,9,L802205,True,wessan,False,-117.1323314,Western Sandpiper
+S103544725,71.2612449,False,Utqiaġvik--Fresh Water Lake Rd.,2014-06-16 14:30,Calidris mauri,5,L1212588,True,wessan,False,-156.7718339,Western Sandpiper
+S18894169,64.4461086,True,Nome - Council Road M15,2014-06-17 22:35,Calidris mauri,3,L1544011,True,wessan,False,-164.9442289,Western Sandpiper
+S18831299,33.6427729,False,Lake Elsinore--south levee and back basin,2014-06-18 08:25,Calidris mauri,2,L1743855,True,wessan,True,-117.3317176,Western Sandpiper
+S31115975,64.4831392,False,Nome River Mouth,2014-06-18 21:35,Calidris mauri,65,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S19062939,28.7914163,False,Estero Santa Cruz,2014-06-18 06:47,Calidris mauri,3,L500723,True,wessan,False,-111.9012451,Western Sandpiper
+S18841799,33.9654304,True,Ballona Wetlands ER,2014-06-19 14:00,Calidris mauri,1,L2604379,True,wessan,False,-118.444891,Western Sandpiper
+S18983067,64.4831392,False,Nome River Mouth,2014-06-19 17:15,Calidris mauri,4,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18840741,21.6070037,False,Granja de Camarón Chacalilla,2014-06-19 18:40,Calidris mauri,1,L592109,True,wessan,True,-105.2806091,Western Sandpiper
+S18849458,33.249223,True,Camp Pendleton--White Beach (south),2014-06-20 10:35,Calidris mauri,1,L2932727,True,wessan,False,-117.4317577,Western Sandpiper
+S18991159,64.4831392,False,Nome River Mouth,2014-06-20 20:07,Calidris mauri,2,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S18864136,34.6909567,False,Ocean Beach County Park and Santa Ynez River Estuary,2014-06-21 10:54,Calidris mauri,3,L989821,True,wessan,False,-120.6003785,Western Sandpiper
+S18854924,44.0561844,False,"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)",2014-06-21 09:10,Calidris mauri,5,L716976,True,wessan,False,-123.2576752,Western Sandpiper
+S19065796,64.8219296,False,Nome-Teller Hwy.--34 Mile Ridge,2014-06-21 22:35,Calidris mauri,2,L2942287,True,wessan,False,-166.0375786,Western Sandpiper
+S18877709,46.2286726,False,Fort Stevens SP--South Jetty/Parking Area C,2014-06-22 14:20,Calidris mauri,4,L887381,True,wessan,False,-124.0217721,Western Sandpiper
+S18876453,48.1666667,False,Crockett Lake,2014-06-22 14:19,Calidris mauri,16,L109534,True,wessan,False,-122.65,Western Sandpiper
+S18894337,64.4461086,True,Nome - Council Road M15,2014-06-22 15:43,Calidris mauri,8,L1544011,True,wessan,False,-164.9442289,Western Sandpiper
+S18921853,38.1801109,False,American Canyon Wetlands,2014-06-23 10:00,Calidris mauri,6,L650670,True,wessan,True,-122.2731047,Western Sandpiper
+S18891303,60.789058,True,"US-AK-Mekoryuk, Alaska",2014-06-23 21:45,Calidris mauri,4,L2340008,True,wessan,False,-161.80949,Western Sandpiper
+S18901140,37.5033407,False,Pillar Point Harbor,2014-06-24 18:52,Calidris mauri,1,L242192,True,wessan,False,-122.4819213,Western Sandpiper
+S18898656,44.5213563,False,Ona Beach SP,2014-06-24 10:30,Calidris mauri,8,L798371,True,wessan,False,-124.0740108,Western Sandpiper
+S18939145,64.4461086,True,Nome - Council Road M15,2014-06-24 14:11,Calidris mauri,8,L1544011,True,wessan,False,-164.9442289,Western Sandpiper
+S18900522,49.0659373,False,Delta—Boundary Bay,2014-06-24 10:35,Calidris mauri,4,L339316,True,wessan,False,-122.9678249,Western Sandpiper
+S18910119,34.2733696,False,Saticoy Spreading Ponds,2014-06-25 17:16,Calidris mauri,1,L354230,True,wessan,False,-119.1251398,Western Sandpiper
+S34295848,47.6053895,False,Olympic NP--Kalaloch,2014-06-25 15:30,Calidris mauri,80,L383517,True,wessan,False,-124.3737439,Western Sandpiper
+S19098210,64.9482299,True,Teller Road--Tombstone Ridge,2014-06-25 14:30,Calidris mauri,6,L1551066,True,wessan,False,-166.2040993,Western Sandpiper
+S18910985,50.387241,False,Sayward--Salmon River estuary mudflats,2014-06-25 19:30,Calidris mauri,5,L2027545,True,wessan,False,-125.9532845,Western Sandpiper
+S19048474,28.4610029,False,Estero Cardonal,2014-06-25 07:55,Calidris mauri,135,L1585554,True,wessan,True,-111.7038983,Western Sandpiper
+S18921903,36.1807372,False,Tulare WTP,2014-06-26 19:00,Calidris mauri,18,L573594,True,wessan,False,-119.3752957,Western Sandpiper
+S18924224,44.78062,True,"Turner, 12400-12446 Duckflat Road Southeast",2014-06-26 18:44,Calidris mauri,,L2896221,True,wessan,False,-122.93923,Western Sandpiper
+S19067369,65.168508,True,Teller Rd - Rocky Hill MP62,2014-06-26 20:34,Calidris mauri,1,L2972382,True,wessan,False,-166.297431,Western Sandpiper
+S18930300,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-06-27 17:32,Calidris mauri,2,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S18929551,44.3055777,False,Yachats Ocean Rd.,2014-06-27 15:45,Calidris mauri,12,L1240520,True,wessan,False,-124.1053391,Western Sandpiper
+S19067646,64.5638908,True,Council Rd - MP 35,2014-06-27 22:54,Calidris mauri,1,L2972390,True,wessan,False,-164.4356346,Western Sandpiper
+S18932073,49.0796846,False,Tofino airport (restricted access),2014-06-27 03:15,Calidris mauri,25,L481331,True,wessan,False,-125.7773177,Western Sandpiper
+S18940632,38.0401149,False,Shell Pond,2014-06-28 17:30,Calidris mauri,4,L2040298,True,wessan,False,-121.95292,Western Sandpiper
+S18939322,45.505,False,Jackson Bottom Wetlands Preserve,2014-06-28 17:56,Calidris mauri,9,L159584,True,wessan,True,-122.9889,Western Sandpiper
+S18951971,46.7926495,True,Grayland Beach State Park,2014-06-28 19:00,Calidris mauri,12,L1444100,True,wessan,False,-124.1010252,Western Sandpiper
+S19098258,64.8176927,True,Teller Road--34 Mile Ridge,2014-06-28 20:50,Calidris mauri,12,L1544668,True,wessan,False,-165.9920975,Western Sandpiper
+S18939914,49.06564,False,Delta--Brunswick Point,2014-06-28 17:00,Calidris mauri,200,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S19056399,32.6587429,False,Delta Beach--south overlook,2014-06-29 19:25,Calidris mauri,60,L716363,True,wessan,False,-117.1546412,Western Sandpiper
+S18949594,44.7846415,True,Duckflat road,2014-06-29 19:00,Calidris mauri,50,L2950581,True,wessan,True,-122.9327202,Western Sandpiper
+S18976341,46.9048891,True,Johns River marsh at Cranberry Plant,2014-06-29 19:10,Calidris mauri,67,L2956586,True,wessan,False,-123.9948374,Western Sandpiper
+S19098443,64.8176927,True,Teller Road--34 Mile Ridge,2014-06-29 14:00,Calidris mauri,20,L1544668,True,wessan,False,-165.9920975,Western Sandpiper
+S18977163,33.8854488,False,San Jacinto Wildlife Area,2014-06-30 23:25,Calidris mauri,20,L163561,True,wessan,True,-117.104104,Western Sandpiper
+S18959130,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-06-30 17:46,Calidris mauri,2,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S18953410,47.8085287,False,Edmonds Marsh,2014-06-30 08:30,Calidris mauri,1,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19225384,64.8355384,True,Teller Road--Feather River,2014-06-30 11:32,Calidris mauri,20,L1610694,True,wessan,False,-165.979847,Western Sandpiper
+S18959333,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-06-30 18:00,Calidris mauri,110,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S18967752,41.8951218,False,Alexandre Dairy,2014-07-01 17:50,Calidris mauri,53,L375293,True,wessan,False,-124.1744328,Western Sandpiper
+S18968043,44.0561844,False,"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)",2014-07-01 18:00,Calidris mauri,130,L716976,True,wessan,False,-123.2576752,Western Sandpiper
+S18962749,47.8085287,False,Edmonds Marsh,2014-07-01 09:00,Calidris mauri,2,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19067736,64.4461086,True,Nome - Council Road M15,2014-07-01 13:04,Calidris mauri,5,L1544011,True,wessan,False,-164.9442289,Western Sandpiper
+S18967172,48.4214546,False,Jordan River,2014-07-01 11:05,Calidris mauri,4,L345753,True,wessan,False,-124.0534522,Western Sandpiper
+S18976574,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-07-02 18:47,Calidris mauri,10,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S19125560,44.3513197,False,Murray Reservoir,2014-07-02 16:12,Calidris mauri,1,L752848,True,wessan,False,-118.1040359,Western Sandpiper
+S18991570,47.8085287,False,Edmonds Marsh,2014-07-02 14:20,Calidris mauri,30,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19225392,64.4792511,False,Safety Sound general area,2014-07-02 11:52,Calidris mauri,5,L209518,True,wessan,False,-164.7624136,Western Sandpiper
+S18977493,49.2213299,False,Iona Island (General),2014-07-02 13:06,Calidris mauri,170,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S18987225,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-07-03 18:03,Calidris mauri,2,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S18982651,44.6231604,False,Mark Hatfield Marine Science Center and Estuary Trail,2014-07-03 12:30,Calidris mauri,25,L613298,True,wessan,False,-124.0434766,Western Sandpiper
+S18983760,48.091838,False,Gibson Spit,2014-07-03 15:43,Calidris mauri,3,L279002,True,wessan,False,-123.0452702,Western Sandpiper
+S19225407,64.8540795,True,Teller Road--37 Mile Ridge,2014-07-03 15:15,Calidris mauri,3,L1544669,True,wessan,False,-166.0847947,Western Sandpiper
+S20585328,48.969269,True,Kennedy River,2014-07-03 07:00,Calidris mauri,12,L3167092,True,wessan,False,-125.5762317,Western Sandpiper
+S19004946,37.4185723,False,Nik and Nik Gravel Ponds,2014-07-04 19:48,Calidris mauri,3,L1130613,True,wessan,False,-118.4019756,Western Sandpiper
+S18990254,44.0705825,False,Fern Ridge WMA--Royal Ave. area (general),2014-07-04 10:00,Calidris mauri,25,L487048,True,wessan,False,-123.2574606,Western Sandpiper
+S19000329,46.1288528,False,Iowa Dodd Beef/Tyson Ponds,2014-07-04 10:00,Calidris mauri,28,L262792,True,wessan,False,-118.8985787,Western Sandpiper
+S18992995,64.493702,False,Nome--East End Park,2014-07-04 16:00,Calidris mauri,4,L1667663,True,wessan,False,-165.3742526,Western Sandpiper
+S18993323,49.0659373,False,Delta—Boundary Bay,2014-07-04 14:10,Calidris mauri,1600,L339316,True,wessan,False,-122.9678249,Western Sandpiper
+S19004948,33.0940148,False,Batiquitos Lagoon--east end,2014-07-05 18:10,Calidris mauri,15,L683111,True,wessan,False,-117.2795257,Western Sandpiper
+S19004611,44.5213563,False,Ona Beach SP,2014-07-05 15:00,Calidris mauri,11,L798371,True,wessan,False,-124.0740108,Western Sandpiper
+S19002805,47.9941723,False,Discovery Bay,2014-07-05 20:37,Calidris mauri,3,L808110,True,wessan,False,-122.8819084,Western Sandpiper
+S19002896,58.3523993,False,Mendenhall Wetlands SGR--Airport Dike Trail,2014-07-05 18:40,Calidris mauri,20,L152823,True,wessan,False,-134.5945144,Western Sandpiper
+S19003408,49.3286928,False,Englishman River Estuary--Plummer Rd side,2014-07-05 19:15,Calidris mauri,12,L1632373,True,wessan,False,-124.2867326,Western Sandpiper
+S19076152,38.9397508,False,Tahoe Marsh--via San Francisco Ave.,2014-07-06 18:16,Calidris mauri,3,L1259871,True,wessan,True,-119.9931049,Western Sandpiper
+S19005549,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-07-06 05:50,Calidris mauri,8,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S19321706,48.7871878,False,Sandy Point,2014-07-06 16:00,Calidris mauri,200,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S19016772,64.4831392,False,Nome River Mouth,2014-07-06 20:00,Calidris mauri,8,L279360,True,wessan,False,-165.3024186,Western Sandpiper
+S19016625,49.3286928,False,Englishman River Estuary--Plummer Rd side,2014-07-06 20:00,Calidris mauri,60,L1632373,True,wessan,False,-124.2867326,Western Sandpiper
+S19049599,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-07-07 21:15,Calidris mauri,6,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S19021006,44.0705825,False,Fern Ridge WMA--Royal Ave. area (general),2014-07-07 08:59,Calidris mauri,48,L487048,True,wessan,False,-123.2574606,Western Sandpiper
+S19049849,59.759125,True,"Quinhagak, AK 59.7591x-161.8717 - Jul 7, 2014, 10:22 PM",2014-07-07 22:22,Calidris mauri,1,L2968772,True,wessan,False,-161.871719,Western Sandpiper
+S19039541,56.2705556,False,Fort St. John--north sewage lagoons,2014-07-07 17:20,Calidris mauri,2,L341490,True,wessan,False,-120.7766667,Western Sandpiper
+S19049844,35.338374,True,South Bay Blvd Overlook,2014-07-08 19:28,Calidris mauri,30,L583035,True,wessan,False,-120.8241177,Western Sandpiper
+S19050161,44.0561844,False,"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)",2014-07-08 18:50,Calidris mauri,90,L716976,True,wessan,False,-123.2576752,Western Sandpiper
+S19049828,47.9216197,False,Nature Conservancy Foulweather Bluff Preserve,2014-07-08 19:00,Calidris mauri,7,L601513,True,wessan,False,-122.6001048,Western Sandpiper
+S19050499,59.759125,True,"Quinhagak, AK 59.7591x-161.8717 - Jul 7, 2014, 10:22 PM",2014-07-08 19:55,Calidris mauri,22,L2968772,True,wessan,False,-161.871719,Western Sandpiper
+S19180737,49.06564,False,Delta--Brunswick Point,2014-07-08 17:35,Calidris mauri,300,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S19060897,38.3097893,True,Doran Regional Park Harbor side,2014-07-09 18:00,Calidris mauri,200,L2687912,True,wessan,False,-123.0538273,Western Sandpiper
+S19060551,45.2491806,False,Ladd Marsh WMA--Peach Rd.,2014-07-09 18:15,Calidris mauri,30,L948401,True,wessan,False,-117.9520941,Western Sandpiper
+S19058624,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-07-09 15:43,Calidris mauri,50,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S19058638,71.2932,True,Barrow - Plots 1  and  2,2014-07-09 09:59,Calidris mauri,1,L2966965,True,wessan,False,-156.65439,Western Sandpiper
+S52423479,48.6059293,True,West Coast Trail,2014-07-09 10:25,Calidris mauri,10,L8565105,True,wessan,False,-124.7300147,Western Sandpiper
+S19067995,37.8677392,False,Byron WTP ,2014-07-10 18:50,Calidris mauri,10,L801357,True,wessan,False,-121.6153049,Western Sandpiper
+S19067286,45.4776166,False,Oaks Bottom Wildlife Refuge,2014-07-10 18:20,Calidris mauri,5,L453974,True,wessan,False,-122.6553154,Western Sandpiper
+S19067432,48.2375896,True,Eide Road - Stanwood,2014-07-10 18:30,Calidris mauri,100,L1541208,True,wessan,False,-122.3801565,Western Sandpiper
+S18973617,64.490727,False,Nome-Council Rd.--Nome to Nome River,2014-07-10 14:11,Calidris mauri,1,L629416,True,wessan,False,-165.3564262,Western Sandpiper
+S19067360,49.2188889,False,Iona Island Inner Ponds (NOW CLOSED TO PUBLIC),2014-07-10 20:00,Calidris mauri,1,L339172,True,wessan,False,-123.2055556,Western Sandpiper
+S19075450,37.4770523,False,Half Moon Bay SB--Venice Beach and Pilarcitos/Frenchman's Creek Mouth,2014-07-11 19:40,Calidris mauri,6,L329541,True,wessan,False,-122.4492789,Western Sandpiper
+S19092421,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-07-11 16:10,Calidris mauri,8,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19102330,46.440696,False,Long Beach Peninsula,2014-07-11 19:30,Calidris mauri,200,L468651,True,wessan,False,-124.0583038,Western Sandpiper
+S19075798,71.25499,True,Barrow - Plots 3  and  5,2014-07-11 09:48,Calidris mauri,1,L2973800,True,wessan,False,-156.53218,Western Sandpiper
+S19073639,50.6187564,False,Kamloops--Rose Hill Road,2014-07-11 11:33,Calidris mauri,1,L1290709,True,wessan,False,-120.2505112,Western Sandpiper
+S19084837,33.0940148,False,Batiquitos Lagoon--east end,2014-07-12 18:40,Calidris mauri,15,L683111,True,wessan,False,-117.2795257,Western Sandpiper
+S19084803,43.9109717,False,Little Lava Lake,2014-07-12 14:10,Calidris mauri,1,L2976087,True,wessan,False,-121.7565823,Western Sandpiper
+S19084117,47.8085287,False,Edmonds Marsh,2014-07-12 18:58,Calidris mauri,8,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19366556,60.525399,False,"Kenai--Warren Ames Bridge (river, flats & gull roost)",2014-07-12 19:05,Calidris mauri,2,L2765154,True,wessan,False,-151.2090182,Western Sandpiper
+S19084352,53.4011787,False,Haida Gwaii--Jungle Beach at Lawnhill Creek mouth,2014-07-12 17:25,Calidris mauri,600,L2314938,True,wessan,False,-131.9248956,Western Sandpiper
+S19094491,41.832863,False,Lake Tolowa,2014-07-13 18:25,Calidris mauri,26,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S19093827,42.4099597,False,Agate Lake,2014-07-13 20:08,Calidris mauri,21,L389855,True,wessan,False,-122.7708006,Western Sandpiper
+S19093118,47.8085287,False,Edmonds Marsh,2014-07-13 18:00,Calidris mauri,23,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S25336447,71.264373,True,USFWS Shorebird Demography Plots,2014-07-13 07:00,Calidris mauri,4,L3946625,True,wessan,False,-156.634806,Western Sandpiper
+S19114590,48.4257613,False,Esquimalt Lagoon,2014-07-13 17:30,Calidris mauri,200,L350246,True,wessan,False,-123.4631732,Western Sandpiper
+S19103509,33.9781005,False,Ballona Creek--Lincoln Blvd. to 90 Fwy,2014-07-14 18:30,Calidris mauri,30,L978650,True,wessan,False,-118.4265232,Western Sandpiper
+S19127685,42.2199686,False,Hunter's Hot Springs,2014-07-14 17:00,Calidris mauri,10,L901002,True,wessan,False,-120.3677344,Western Sandpiper
+S19103431,47.9216197,False,Nature Conservancy Foulweather Bluff Preserve,2014-07-14 18:26,Calidris mauri,28,L601513,True,wessan,False,-122.6001048,Western Sandpiper
+S19108554,56.5776409,False,St. George Island,2014-07-14 22:33,Calidris mauri,1,L599648,True,wessan,True,-169.6069336,Western Sandpiper
+S19296228,48.7865375,False,Pacific Rim National Park--Keeha Beach,2014-07-14 09:30,Calidris mauri,2,L1225451,True,wessan,False,-125.1723433,Western Sandpiper
+S19121167,40.874162,False,Horse Mountain--summit,2014-07-15 20:45,Calidris mauri,2,L694062,True,wessan,False,-123.7323403,Western Sandpiper
+S19113554,43.9564796,False,Siuslaw River--South Jetty-Dog Pond,2014-07-15 18:32,Calidris mauri,1,L742895,True,wessan,False,-124.137429,Western Sandpiper
+S19113908,47.2928603,False,Dick Gilmur Memorial Shoreline Public Access,2014-07-15 19:15,Calidris mauri,1,L1259313,True,wessan,False,-122.4119599,Western Sandpiper
+S19568510,55.9853233,True,Port Moller,2014-07-15 07:05,Calidris mauri,150,L3020561,True,wessan,False,-160.5775452,Western Sandpiper
+S19183372,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-07-15 19:37,Calidris mauri,170,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19123333,33.6427729,False,Lake Elsinore--south levee and back basin,2014-07-16 19:30,Calidris mauri,8,L1743855,True,wessan,False,-117.3317176,Western Sandpiper
+S19123088,46.0068525,False,Necanicum Estuary Natural History Park,2014-07-16 18:45,Calidris mauri,200,L2344471,True,wessan,False,-123.9182328,Western Sandpiper
+S20202390,48.9800492,False,Semiahmoo Spit,2014-07-16 19:30,Calidris mauri,200,L199273,True,wessan,False,-122.7883112,Western Sandpiper
+S19128372,59.6130805,False,Homer Spit,2014-07-16 20:27,Calidris mauri,8,L292324,True,wessan,False,-151.4467049,Western Sandpiper
+S19135635,49.305843,False,North Vancouver--Maplewood Flats Conservation Area,2014-07-16 19:00,Calidris mauri,5,L164543,True,wessan,False,-123.00034,Western Sandpiper
+S19132296,35.7793855,False,Evaporation Ponds (KER Co.),2014-07-17 20:00,Calidris mauri,,L713565,True,wessan,False,-119.6435165,Western Sandpiper
+S19136357,44.6158891,False,Yaquina River--SW Jetty Way,2014-07-17 11:10,Calidris mauri,35,L491609,True,wessan,False,-124.0618658,Western Sandpiper
+S19131035,47.8085287,False,Edmonds Marsh,2014-07-17 19:00,Calidris mauri,1,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19131340,58.3996429,False,Gustavus--Forelands Preserve (Salmon River),2014-07-17 17:15,Calidris mauri,15,L782141,True,wessan,False,-135.7380581,Western Sandpiper
+S19174660,49.8969566,False,Oyster Bay,2014-07-17 08:07,Calidris mauri,8,L600669,True,wessan,False,-125.1516151,Western Sandpiper
+S19141684,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-07-18 19:30,Calidris mauri,50,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S19148442,45.2491806,False,Ladd Marsh WMA--Peach Rd.,2014-07-18 18:30,Calidris mauri,10,L948401,True,wessan,False,-117.9520941,Western Sandpiper
+S19142559,46.7880721,False,Grayland Beach State Park,2014-07-18 21:54,Calidris mauri,2000,L682593,True,wessan,False,-124.0941381,Western Sandpiper
+S19141287,59.635823,False,Homer Spit--Mud Bay,2014-07-18 18:59,Calidris mauri,5,L251458,True,wessan,False,-151.4965296,Western Sandpiper
+S19138016,49.2213299,False,Iona Island (General),2014-07-18 11:45,Calidris mauri,90,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S19156661,38.142204,False,Napa-Sonoma Marshes WA--Napa River Units - Pond 1,2014-07-19 21:27,Calidris mauri,,L777215,True,wessan,False,-122.3490097,Western Sandpiper
+S19154265,46.2265811,False,Fort Stevens SP--Parking Area D,2014-07-19 15:59,Calidris mauri,1000,L1303189,True,wessan,False,-123.9901543,Western Sandpiper
+S19183738,48.9950387,False,Blaine Marine Park,2014-07-19 19:18,Calidris mauri,111,L272612,True,wessan,False,-122.7580957,Western Sandpiper
+S19510971,70.396448,True,Alaska--Chipp South,2014-07-19 11:25,Calidris mauri,1,L1531292,True,wessan,False,-155.405313,Western Sandpiper
+S19161468,49.4383849,False,ts’uḵw’um (Wilson Creek) Estuary,2014-07-19 18:20,Calidris mauri,9,L2313567,True,wessan,False,-123.7127495,Western Sandpiper
+S19169023,37.9654989,False,West County Wastewater District--Sewage Ponds (Richmond WTP),2014-07-20 19:47,Calidris mauri,115,L848605,True,wessan,False,-122.3760438,Western Sandpiper
+S19310794,44.1390787,False,Tumalo Reservoir,2014-07-20 16:10,Calidris mauri,3,L1659794,True,wessan,False,-121.4178951,Western Sandpiper
+S19167181,47.8085287,False,Edmonds Marsh,2014-07-20 18:45,Calidris mauri,1,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19166797,60.5380674,False,Cordova--Odiak Slough,2014-07-20 17:10,Calidris mauri,20,L1630505,True,wessan,False,-145.7622361,Western Sandpiper
+S19171195,48.6431178,False,SḰŦÁMEN / Sidney Spit (Gulf Islands National Park Reserve),2014-07-20 17:00,Calidris mauri,60,L351673,True,wessan,False,-123.3323135,Western Sandpiper
+S19183194,40.80005,True,Eureka Waterfront--pilings on Marina Way,2014-07-21 20:20,Calidris mauri,500,L784859,True,wessan,False,-124.18291,Western Sandpiper
+S19183545,44.3352,True,Redmond Sewage Ponds,2014-07-21 19:20,Calidris mauri,15,L2993400,True,wessan,False,-121.21927,Western Sandpiper
+S19183454,48.9950387,False,Blaine Marine Park,2014-07-21 19:21,Calidris mauri,219,L272612,True,wessan,False,-122.7580957,Western Sandpiper
+S19529706,55.34185,True,Ketchikan,2014-07-21 07:48,Calidris mauri,3,L191946,True,wessan,False,-131.64769,Western Sandpiper
+S19183282,48.4128809,False,Victoria--Ogden Point Breakwater,2014-07-21 19:00,Calidris mauri,1,L385215,True,wessan,False,-123.3912739,Western Sandpiper
+S19194101,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-07-22 18:27,Calidris mauri,3,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S19217596,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-07-22 20:00,Calidris mauri,114,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19193029,47.9941723,False,Discovery Bay,2014-07-22 18:00,Calidris mauri,1,L808110,True,wessan,False,-122.8819084,Western Sandpiper
+S19203435,60.5351637,False,Kenai Flats--Sea Catch Dr. & Cannery Rd.,2014-07-22 11:00,Calidris mauri,2,L1339539,True,wessan,False,-151.2629414,Western Sandpiper
+S19193589,49.9356176,False,Kelowna--Robert Lake,2014-07-22 18:00,Calidris mauri,1,L265165,True,wessan,False,-119.4089035,Western Sandpiper
+S19206095,38.5483668,False,Yolo Bypass Wildlife Area--Auto Tour Route,2014-07-23 19:15,Calidris mauri,,L2498310,True,wessan,False,-121.6266346,Western Sandpiper
+S19203002,42.1433778,False,Emigrant Lake,2014-07-23 18:15,Calidris mauri,2,L389848,True,wessan,False,-122.6209306,Western Sandpiper
+S19203050,48.2320943,False,Leque Island--Eide Rd.,2014-07-23 18:45,Calidris mauri,80,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19207769,57.17012,False,St. Paul Island,2014-07-23 15:30,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S25105891,53.9498227,False,Shelley sludge lagoons,2014-07-23 17:15,Calidris mauri,,L449479,True,wessan,False,-122.6276779,Western Sandpiper
+S19212480,33.1099483,True,Salton Sea,2014-07-24 19:20,Calidris mauri,,L2998377,True,wessan,False,-115.6854343,Western Sandpiper
+S19211793,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-07-24 18:47,Calidris mauri,2,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19364461,48.2320943,False,Leque Island--Eide Rd.,2014-07-24 17:30,Calidris mauri,15,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19254796,64.493702,False,Nome--East End Park,2014-07-24 18:00,Calidris mauri,1,L1667663,True,wessan,False,-165.3742526,Western Sandpiper
+S19259895,49.2188889,False,Iona Island Inner Ponds (NOW CLOSED TO PUBLIC),2014-07-24 18:53,Calidris mauri,100,L339172,True,wessan,False,-123.2055556,Western Sandpiper
+S19220359,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-07-25 19:12,Calidris mauri,3,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S19220514,45.3811203,False,Tualatin River NWR,2014-07-25 22:05,Calidris mauri,2,L580373,True,wessan,False,-122.8353667,Western Sandpiper
+S19223375,47.5597558,False,Lake Sammamish SP,2014-07-25 18:30,Calidris mauri,5,L321969,True,wessan,False,-122.0549817,Western Sandpiper
+S19420103,59.275646,True,"US-AK-Aleknagik - 59.2756x-158.5992 - Jul 25, 2014, 2:04 PM",2014-07-25 18:06,Calidris mauri,2,L3031987,True,wessan,False,-158.599205,Western Sandpiper
+S19220161,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-07-25 18:40,Calidris mauri,110,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19231585,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-07-26 19:30,Calidris mauri,20,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S19312442,42.950819,False,Summer Lake Wildlife Area,2014-07-26 19:40,Calidris mauri,,L444656,True,wessan,False,-120.7639503,Western Sandpiper
+S19241869,48.2320943,False,Leque Island--Eide Rd.,2014-07-26 18:30,Calidris mauri,12,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19522705,55.9853233,True,Port Moller,2014-07-26 06:40,Calidris mauri,10,L3020561,True,wessan,False,-160.5775452,Western Sandpiper
+S19230546,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-07-26 18:11,Calidris mauri,80,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19242435,39.0223512,False,Kelsey Creek mouth,2014-07-27 19:35,Calidris mauri,40,L822569,True,wessan,False,-122.8145742,Western Sandpiper
+S19250735,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-07-27 18:00,Calidris mauri,3,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19241744,48.2320943,False,Leque Island--Eide Rd.,2014-07-27 18:00,Calidris mauri,11,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19237511,58.3495957,False,Mendenhall Wetlands SGR--E of river mouth,2014-07-27 10:28,Calidris mauri,20,L516847,True,wessan,False,-134.5714474,Western Sandpiper
+S19242123,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-07-27 17:55,Calidris mauri,80,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19255104,38.0401149,False,Shell Pond,2014-07-28 17:30,Calidris mauri,30,L2040298,True,wessan,False,-121.95292,Western Sandpiper
+S19252424,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-07-28 18:00,Calidris mauri,21,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19262582,48.0069047,False,South View Park,2014-07-28 15:25,Calidris mauri,50,L295008,True,wessan,False,-122.2144161,Western Sandpiper
+S19260579,64.4720541,False,Nome-Council Rd.--Safety Sound Bridge,2014-07-28 22:00,Calidris mauri,20,L1206739,True,wessan,False,-164.746685,Western Sandpiper
+S19254117,49.2213299,False,Iona Island (General),2014-07-28 18:55,Calidris mauri,1,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S19263611,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-07-29 17:30,Calidris mauri,30,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S19270421,44.5767586,False,Yaquina Bay Rd.--Eight Mile Marsh,2014-07-29 15:26,Calidris mauri,19,L2233158,True,wessan,False,-123.968482,Western Sandpiper
+S19495958,46.893277,False,Bottle Beach,2014-07-29 18:10,Calidris mauri,6,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S19504932,55.9853233,True,Port Moller,2014-07-29 21:15,Calidris mauri,1000,L3020561,True,wessan,True,-160.5775452,Western Sandpiper
+S19270837,49.0767445,False,Delta—Boundary Bay - 104th St.,2014-07-29 18:00,Calidris mauri,2,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S19280210,39.0223512,False,Kelsey Creek mouth,2014-07-30 17:00,Calidris mauri,10,L822569,True,wessan,False,-122.8145742,Western Sandpiper
+S19282264,42.1409414,True,Emigrant Lake - cemetery area,2014-07-30 19:00,Calidris mauri,14,L2594354,True,wessan,False,-122.5959313,Western Sandpiper
+S19282229,46.9963543,False,Potholes Reservoir--Perch Point,2014-07-30 19:30,Calidris mauri,8,L219772,True,wessan,False,-119.2738223,Western Sandpiper
+S19306632,64.5585058,False,Nome-Council Rd.--Solomon,2014-07-30 14:00,Calidris mauri,5,L927270,True,wessan,False,-164.4438634,Western Sandpiper
+S19282236,49.0659373,False,Delta—Boundary Bay,2014-07-30 17:45,Calidris mauri,2200,L339316,True,wessan,False,-122.9678249,Western Sandpiper
+S19292542,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-07-31 19:00,Calidris mauri,6,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S19292207,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-07-31 19:00,Calidris mauri,15,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19292565,47.8085287,False,Edmonds Marsh,2014-07-31 18:30,Calidris mauri,1,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19293040,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-07-31 18:00,Calidris mauri,2000,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19302186,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-08-01 18:37,Calidris mauri,14,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S19312560,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-08-01 19:30,Calidris mauri,8,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S19328433,46.7687403,False,Midway Beach,2014-08-01 17:00,Calidris mauri,15,L302836,True,wessan,False,-124.0938386,Western Sandpiper
+S19307544,64.5585058,False,Nome-Council Rd.--Solomon,2014-08-01 19:00,Calidris mauri,15,L927270,True,wessan,False,-164.4438634,Western Sandpiper
+S19303375,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-08-01 19:45,Calidris mauri,400,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19313123,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-08-02 19:23,Calidris mauri,2,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S19312227,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-08-02 18:00,Calidris mauri,18,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19312774,45.7990694,False,Ridgefield NWR--River 'S' Unit,2014-08-02 18:24,Calidris mauri,36,L592967,True,wessan,False,-122.7490082,Western Sandpiper
+S19328346,64.5087963,True,Nome pond at by-pass rd and nome beltz rd,2014-08-02 14:09,Calidris mauri,1,L906326,True,wessan,False,-165.4187393,Western Sandpiper
+S19313027,49.06564,False,Delta--Brunswick Point,2014-08-02 18:10,Calidris mauri,870,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S19355360,37.8054779,False,Middle Harbor Shoreline Park,2014-08-03 18:30,Calidris mauri,12,L774817,True,wessan,False,-122.3259401,Western Sandpiper
+S19324164,45.5217439,False,Bayocean Spit--bay (east) side,2014-08-03 19:37,Calidris mauri,50,L285627,True,wessan,False,-123.9484406,Western Sandpiper
+S19332701,46.893277,False,Bottle Beach,2014-08-03 17:45,Calidris mauri,600,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S19328415,64.5087963,True,Nome pond at by-pass rd and nome beltz rd,2014-08-03 13:28,Calidris mauri,1,L906326,True,wessan,False,-165.4187393,Western Sandpiper
+S19347592,52.8142449,False,Valemount--Starratt Wildlife Sanctuary (Cranberry Marsh),2014-08-03 17:00,Calidris mauri,5,L1152240,True,wessan,False,-119.2622995,Western Sandpiper
+S19335864,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-08-04 19:15,Calidris mauri,50,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S19339624,42.1433778,False,Emigrant Lake,2014-08-04 18:45,Calidris mauri,26,L389848,True,wessan,False,-122.6209306,Western Sandpiper
+S19337270,46.7687403,False,Midway Beach,2014-08-04 16:17,Calidris mauri,10,L302836,True,wessan,False,-124.0938386,Western Sandpiper
+S19747858,64.5104327,False,Nome--Cemetery Pond,2014-08-04 13:00,Calidris mauri,2,L1575491,True,wessan,False,-165.4193311,Western Sandpiper
+S19336472,49.4383849,False,ts’uḵw’um (Wilson Creek) Estuary,2014-08-04 19:55,Calidris mauri,4,L2313567,True,wessan,False,-123.7127495,Western Sandpiper
+S19347315,40.857361,False,Arcata Marsh and Wildlife Sanctuary,2014-08-05 19:00,Calidris mauri,50,L189487,True,wessan,False,-124.094612,Western Sandpiper
+S19347664,42.1433778,False,Emigrant Lake,2014-08-05 18:15,Calidris mauri,2,L389848,True,wessan,False,-122.6209306,Western Sandpiper
+S19363553,47.6042768,False,Schel-chelb Estuary,2014-08-05 18:00,Calidris mauri,5,L758978,True,wessan,False,-122.5516963,Western Sandpiper
+S19351821,58.3435898,True,Mendenhall Wetlands Trail,2014-08-05 13:15,Calidris mauri,1,L1620601,True,wessan,False,-134.6090841,Western Sandpiper
+S19345582,49.4383849,False,ts’uḵw’um (Wilson Creek) Estuary,2014-08-05 16:35,Calidris mauri,3,L2313567,True,wessan,False,-123.7127495,Western Sandpiper
+S19358033,37.2681846,False,"Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)",2014-08-06 19:15,Calidris mauri,51,L459755,True,wessan,False,-122.4079944,Western Sandpiper
+S19358051,44.6063572,False,South Beach SP,2014-08-06 19:20,Calidris mauri,,L856260,True,wessan,False,-124.0631104,Western Sandpiper
+S19363265,48.1797008,True,Warm Beach - Beach Drive,2014-08-06 17:00,Calidris mauri,200,L1641658,True,wessan,False,-122.3589196,Western Sandpiper
+S19366517,60.5369896,True,Kenai Riverbank behind Cannery,2014-08-06 20:40,Calidris mauri,5,L2163204,True,wessan,False,-151.255796,Western Sandpiper
+S19359287,49.4383849,False,ts’uḵw’um (Wilson Creek) Estuary,2014-08-06 17:05,Calidris mauri,1,L2313567,True,wessan,False,-123.7127495,Western Sandpiper
+S19422358,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-08-07 19:30,Calidris mauri,30,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S19365858,45.598966,False,Vanport Wetlands,2014-08-07 17:44,Calidris mauri,,L714063,True,wessan,False,-122.6880813,Western Sandpiper
+S19365690,47.6042768,False,Schel-chelb Estuary,2014-08-07 19:15,Calidris mauri,8,L758978,True,wessan,False,-122.5516963,Western Sandpiper
+S19366506,60.3859137,False,Kasilof--Kasilof River Mouth,2014-08-07 11:45,Calidris mauri,30,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S19366311,49.0719551,False,Delta—Boundary Bay - 96th St.,2014-08-07 19:00,Calidris mauri,8,L340461,True,wessan,False,-122.9572321,Western Sandpiper
+S19375637,38.551789,False,Yolo Bypass Wildlife Area,2014-08-08 18:45,Calidris mauri,20,L443535,True,wessan,False,-121.6208018,Western Sandpiper
+S19374656,45.4755854,False,Willamette Park and Boat Ramp,2014-08-08 18:25,Calidris mauri,1,L794759,True,wessan,False,-122.6685762,Western Sandpiper
+S19375263,45.6899963,True,Rock Creek mouth,2014-08-08 16:43,Calidris mauri,2,L2981934,True,wessan,False,-121.8893597,Western Sandpiper
+S19375222,57.17012,False,St. Paul Island,2014-08-08 13:45,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19422206,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-08-08 17:55,Calidris mauri,450,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19387029,37.9474464,False,Corte Madera Creek,2014-08-09 19:35,Calidris mauri,25,L832048,True,wessan,False,-122.5409889,Western Sandpiper
+S19442244,44.1232081,False,Hatfield Lake,2014-08-09 18:00,Calidris mauri,,L447435,True,wessan,False,-121.198554,Western Sandpiper
+S19419527,46.96382,False,Birder's Corner--Desert WLA,2014-08-09 18:40,Calidris mauri,8,L468116,True,wessan,False,-119.56826,Western Sandpiper
+S19442816,60.3859137,False,Kasilof--Kasilof River Mouth,2014-08-09 12:50,Calidris mauri,30,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S40211450,48.9340502,False,Ucluelet--Little Beach,2014-08-09 18:30,Calidris mauri,3,L1225513,True,wessan,False,-125.5399476,Western Sandpiper
+S19395928,36.9002146,False,Watsonville Slough and Struve Slough confluence,2014-08-10 19:10,Calidris mauri,30,L624873,True,wessan,False,-121.7859364,Western Sandpiper
+S19483578,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-08-10 18:45,Calidris mauri,18,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19407820,48.2320943,False,Leque Island--Eide Rd.,2014-08-10 17:00,Calidris mauri,25,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19420998,64.4733116,True,Pond After Bridge,2014-08-10 22:30,Calidris mauri,2,L3032126,True,wessan,False,-164.7272444,Western Sandpiper
+S19488106,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2014-08-10 19:10,Calidris mauri,800,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S19421281,32.5915005,False,Bayshore Bikeway--7th Street (Ponds 10/10A),2014-08-11 19:41,Calidris mauri,2,L367640,True,wessan,False,-117.1180604,Western Sandpiper
+S19420123,44.5804726,False,Yaquina Bay Rd.--Oysterfarm,2014-08-11 16:30,Calidris mauri,40,L2415476,True,wessan,False,-123.9938128,Western Sandpiper
+S19422145,46.9809077,False,Potholes SP,2014-08-11 20:00,Calidris mauri,4,L265765,True,wessan,False,-119.3508177,Western Sandpiper
+S19421473,48.43874,False,Oak Bay--Cattle Point,2014-08-11 17:30,Calidris mauri,2,L348477,True,wessan,False,-123.29416,Western Sandpiper
+S19442280,38.551789,False,Yolo Bypass Wildlife Area,2014-08-12 18:45,Calidris mauri,9,L443535,True,wessan,False,-121.6208018,Western Sandpiper
+S19442287,45.598966,False,Vanport Wetlands,2014-08-12 19:30,Calidris mauri,30,L714063,True,wessan,False,-122.6880813,Western Sandpiper
+S19442471,47.3962264,False,Soap Lake,2014-08-12 19:30,Calidris mauri,40,L258171,True,wessan,False,-119.4840758,Western Sandpiper
+S19442755,59.7790573,False,Anchor Point,2014-08-12 09:45,Calidris mauri,2,L767320,True,wessan,False,-151.8633485,Western Sandpiper
+S19441595,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-08-12 18:41,Calidris mauri,5000,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19463907,33.7026531,False,Bolsa Chica Ecological Reserve,2014-08-13 19:00,Calidris mauri,,L164929,True,wessan,False,-118.050735,Western Sandpiper
+S19483611,44.3352042,False,Redmond Sewage Ponds (closed for construction),2014-08-13 18:45,Calidris mauri,34,L1637039,True,wessan,False,-121.2192706,Western Sandpiper
+S19491316,46.4921277,False,Ocean Park,2014-08-13 19:15,Calidris mauri,15,L340478,True,wessan,False,-124.0538337,Western Sandpiper
+S19463181,60.1253055,False,Seward--Airport Mudflats,2014-08-13 18:15,Calidris mauri,14,L586881,True,wessan,False,-149.4220018,Western Sandpiper
+S19463472,48.4645558,False,Victoria--Swan Lake Nature Sanctuary,2014-08-13 19:30,Calidris mauri,1,L348441,True,wessan,False,-123.3738041,Western Sandpiper
+S19472657,38.551789,False,Yolo Bypass Wildlife Area,2014-08-14 18:43,Calidris mauri,250,L443535,True,wessan,False,-121.6208018,Western Sandpiper
+S19472689,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-08-14 17:45,Calidris mauri,4,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19472676,47.8085287,False,Edmonds Marsh,2014-08-14 19:30,Calidris mauri,3,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19473013,57.17012,False,St. Paul Island,2014-08-14 13:30,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19472342,49.0699049,False,Delta—Boundary Bay 96-88 St. (mansion),2014-08-14 19:38,Calidris mauri,1000,L341182,True,wessan,False,-122.9679319,Western Sandpiper
+S19481838,37.7525975,False,Elsie Roemer Bird Sanctuary,2014-08-15 18:20,Calidris mauri,60,L509134,True,wessan,False,-122.2473836,Western Sandpiper
+S19481537,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-08-15 19:28,Calidris mauri,2,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19482027,48.7871878,False,Sandy Point,2014-08-15 19:03,Calidris mauri,88,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S19491669,63.7793007,False,Gambell (general area),2014-08-15 18:00,Calidris mauri,2,L246497,True,wessan,False,-171.7214584,Western Sandpiper
+S25072437,48.5952164,False,ȾIX̱EṈ / Saanichton Spit (Private Property of Tsawout Nation),2014-08-15 16:00,Calidris mauri,30,L346076,True,wessan,False,-123.3716993,Western Sandpiper
+S19490800,38.3333081,False,Bodega Bay--Diekman's Store area,2014-08-16 17:30,Calidris mauri,20,L744554,True,wessan,False,-123.0486131,Western Sandpiper
+S19627039,44.160108,False,Carl Washburne SP,2014-08-16 18:45,Calidris mauri,9,L611773,True,wessan,False,-124.1126347,Western Sandpiper
+S19490796,46.9732093,False,Hoquiam STP,2014-08-16 19:00,Calidris mauri,,L264861,True,wessan,False,-123.9165354,Western Sandpiper
+S19489883,57.17012,False,St. Paul Island,2014-08-16 11:30,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19493840,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-08-16 17:05,Calidris mauri,10,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19490421,27.9618001,False,Estero El Soldado,2014-08-16 17:00,Calidris mauri,,L389236,True,wessan,False,-110.9743166,Western Sandpiper
+S19928704,41.7410051,True,Crescent Beach Motel,2014-08-17 20:27,Calidris mauri,42,L3094768,True,wessan,False,-124.1663915,Western Sandpiper
+S19502920,42.1433778,False,Emigrant Lake,2014-08-17 18:30,Calidris mauri,125,L389848,True,wessan,True,-122.6209306,Western Sandpiper
+S19524372,46.4924245,True,Ocean Park beach,2014-08-17 20:15,Calidris mauri,35,L2149546,True,wessan,False,-124.0557289,Western Sandpiper
+S19585184,60.5351637,False,Kenai Flats--Sea Catch Dr. & Cannery Rd.,2014-08-17 21:00,Calidris mauri,7,L1339539,True,wessan,False,-151.2629414,Western Sandpiper
+S19506542,50.7097463,False,Salmon Arm Bay (General),2014-08-17 19:30,Calidris mauri,,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19511107,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-08-18 18:46,Calidris mauri,2,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S19522790,44.6207659,True,Hatfield MSC - Nature Trail,2014-08-18 18:00,Calidris mauri,10,L2984648,True,wessan,False,-124.0418737,Western Sandpiper
+S19514692,46.9444663,False,Ocean Shores--Oyhut Wildlife Area,2014-08-18 17:43,Calidris mauri,2500,L109535,True,wessan,False,-124.1522412,Western Sandpiper
+S19525173,60.3886638,True,AK - KEN - Kasilof River north bank,2014-08-18 19:30,Calidris mauri,50,L1561518,True,wessan,False,-151.2981752,Western Sandpiper
+S19511189,50.7097463,False,Salmon Arm Bay (General),2014-08-18 17:00,Calidris mauri,5,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19546718,34.2316739,False,Santa Clara River Estuary,2014-08-19 18:37,Calidris mauri,23,L297806,True,wessan,False,-119.2627716,Western Sandpiper
+S19519886,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-08-19 17:13,Calidris mauri,10,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19520210,47.2517995,True,Gog-Le-Hi-Te Mitigated Wetlands,2014-08-19 19:30,Calidris mauri,25,L2392351,True,wessan,False,-122.4096036,Western Sandpiper
+S19519904,57.17012,False,St. Paul Island,2014-08-19 14:30,Calidris mauri,17,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19520557,49.1,False,Reifel Bird Sanctuary,2014-08-19 15:10,Calidris mauri,65,L124345,True,wessan,False,-123.185,Western Sandpiper
+S19530784,37.6590911,True,Little and Big Alkali Lakes/ Benton Crossing Road,2014-08-20 23:45,Calidris mauri,1,L3047843,True,wessan,False,-118.7851238,Western Sandpiper
+S19529209,44.3352,True,Redmond Sewage Ponds,2014-08-20 19:10,Calidris mauri,10,L3047520,True,wessan,False,-121.21927,Western Sandpiper
+S19528408,46.893277,False,Bottle Beach,2014-08-20 18:08,Calidris mauri,25,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S19529475,57.17012,False,St. Paul Island,2014-08-20 16:25,Calidris mauri,22,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19597425,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-08-20 18:14,Calidris mauri,18,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19881266,38.6543655,False,Farmers Central Rd.--pond at CR102,2014-08-21 19:02,Calidris mauri,40,L892337,True,wessan,False,-121.7281455,Western Sandpiper
+S19537912,44.3352,True,Redmond Sewage Ponds,2014-08-21 19:10,Calidris mauri,12,L3049025,True,wessan,False,-121.21927,Western Sandpiper
+S19537873,45.7990694,False,Ridgefield NWR--River 'S' Unit,2014-08-21 18:00,Calidris mauri,2,L592967,True,wessan,False,-122.7490082,Western Sandpiper
+S19585204,60.3859137,False,Kasilof--Kasilof River Mouth,2014-08-21 12:40,Calidris mauri,80,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S19540220,49.1612211,True,"Tofino, Stubbs Island",2014-08-21 16:40,Calidris mauri,15,L598908,True,wessan,False,-125.9278679,Western Sandpiper
+S19533610,21.6070037,False,Granja de Camarón Chacalilla,2014-08-21 07:15,Calidris mauri,3,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19546565,41.832863,False,Lake Tolowa,2014-08-22 18:15,Calidris mauri,600,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S19545616,42.4099597,False,Agate Lake,2014-08-22 17:45,Calidris mauri,100,L389855,True,wessan,False,-122.7708006,Western Sandpiper
+S19545980,47.2233758,False,Fife--Saddle Creek remnant oxbow,2014-08-22 18:51,Calidris mauri,2,L2262431,True,wessan,False,-122.3464489,Western Sandpiper
+S19546624,57.17012,False,St. Paul Island,2014-08-22 14:30,Calidris mauri,4,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19546260,49.2032427,False,Richmond Island Slough,2014-08-22 19:30,Calidris mauri,141,L1141986,True,wessan,False,-123.1444645,Western Sandpiper
+S19609554,34.2316739,False,Santa Clara River Estuary,2014-08-23 18:21,Calidris mauri,94,L297806,True,wessan,False,-119.2627716,Western Sandpiper
+S19555579,45.5064875,False,Fernhill Wetlands (general),2014-08-23 18:40,Calidris mauri,2,L163529,True,wessan,False,-123.0851855,Western Sandpiper
+S19566410,48.4705732,False,Padilla Bay Shore Trail,2014-08-23 18:00,Calidris mauri,365,L886438,True,wessan,False,-122.4701625,Western Sandpiper
+S19555831,57.17012,False,St. Paul Island,2014-08-23 18:00,Calidris mauri,24,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19554495,49.305843,False,North Vancouver--Maplewood Flats Conservation Area,2014-08-23 17:24,Calidris mauri,15,L164543,True,wessan,False,-123.00034,Western Sandpiper
+S19608608,27.9618001,False,Estero El Soldado,2014-08-23 07:21,Calidris mauri,,L389236,True,wessan,False,-110.9743166,Western Sandpiper
+S19572278,38.551789,False,Yolo Bypass Wildlife Area,2014-08-24 18:30,Calidris mauri,800,L443535,True,wessan,False,-121.6208018,Western Sandpiper
+S19566395,42.4079952,True,Agate Lake ,2014-08-24 20:05,Calidris mauri,14,L1024204,True,wessan,False,-122.7677536,Western Sandpiper
+S19565637,48.2320943,False,Leque Island--Eide Rd.,2014-08-24 17:45,Calidris mauri,250,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19563079,60.3859137,False,Kasilof--Kasilof River Mouth,2014-08-24 12:30,Calidris mauri,14,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S19566331,48.5952164,False,ȾIX̱EṈ / Saanichton Spit (Private Property of Tsawout Nation),2014-08-24 18:30,Calidris mauri,1,L346076,True,wessan,False,-123.3716993,Western Sandpiper
+S19575212,33.8513143,False,Upper Santa Ana River--Tustin Ave. to Lakeview Ave.,2014-08-25 19:05,Calidris mauri,,L958730,True,wessan,False,-117.8263092,Western Sandpiper
+S19576016,42.4079952,True,Agate Lake ,2014-08-25 19:25,Calidris mauri,25,L1024204,True,wessan,False,-122.7677536,Western Sandpiper
+S19575066,47.9941723,False,Discovery Bay,2014-08-25 18:02,Calidris mauri,2,L808110,True,wessan,False,-122.8819084,Western Sandpiper
+S19576385,57.17012,False,St. Paul Island,2014-08-25 08:46,Calidris mauri,14,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19576601,49.3262886,False,Englishman River Estuary--Shelly St side,2014-08-25 18:45,Calidris mauri,5,L1632371,True,wessan,False,-124.2953807,Western Sandpiper
+S19569859,21.6070037,False,Granja de Camarón Chacalilla,2014-08-25 07:30,Calidris mauri,40,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19589365,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-08-26 19:05,Calidris mauri,3,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S19584671,44.6231604,False,Mark Hatfield Marine Science Center and Estuary Trail,2014-08-26 19:20,Calidris mauri,5,L613298,True,wessan,False,-124.0434766,Western Sandpiper
+S19585113,48.1114603,False,Kah Tai Lagoon,2014-08-26 19:30,Calidris mauri,6,L292857,True,wessan,False,-122.7781165,Western Sandpiper
+S19588890,60.3886638,True,AK - KEN - Kasilof River north bank,2014-08-26 14:00,Calidris mauri,12,L1561518,True,wessan,False,-151.2981752,Western Sandpiper
+S19585032,49.0767445,False,Delta—Boundary Bay - 104th St.,2014-08-26 17:44,Calidris mauri,500,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S19580687,21.6070037,False,Granja de Camarón Chacalilla,2014-08-26 07:10,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19592790,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-08-27 18:37,Calidris mauri,4,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S19593768,44.0561844,False,"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)",2014-08-27 18:00,Calidris mauri,300,L716976,True,wessan,False,-123.2576752,Western Sandpiper
+S19592407,47.0586041,False,Olympia--KGY Point,2014-08-27 18:16,Calidris mauri,15,L1325204,True,wessan,False,-122.9038811,Western Sandpiper
+S20446120,59.4278983,False,Middleton Island (restricted access),2014-08-27 14:30,Calidris mauri,163,L559390,True,wessan,False,-146.33008,Western Sandpiper
+S19594909,49.2188889,False,Iona Island Inner Ponds (NOW CLOSED TO PUBLIC),2014-08-27 18:30,Calidris mauri,,L339172,True,wessan,False,-123.2055556,Western Sandpiper
+S19601678,34.2316739,False,Santa Clara River Estuary,2014-08-28 17:39,Calidris mauri,21,L297806,True,wessan,False,-119.2627716,Western Sandpiper
+S19601452,42.446052,True,Wilson's Pond,2014-08-28 19:49,Calidris mauri,3,L1414604,True,wessan,False,-122.8324635,Western Sandpiper
+S19600767,47.0586041,False,Olympia--KGY Point,2014-08-28 17:56,Calidris mauri,3,L1325204,True,wessan,False,-122.9038811,Western Sandpiper
+S19606483,63.7793007,False,Gambell (general area),2014-08-28 18:00,Calidris mauri,4,L246497,True,wessan,False,-171.7214584,Western Sandpiper
+S19605214,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-08-28 18:15,Calidris mauri,1500,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19610058,37.8725498,False,McLaughlin Eastshore SP--North Basin,2014-08-29 17:45,Calidris mauri,2,L461333,True,wessan,False,-122.311424,Western Sandpiper
+S19609884,42.4336881,False,White City Lagoons (Kirtland Rd. Ponds),2014-08-29 18:30,Calidris mauri,10,L463228,True,wessan,False,-122.9128075,Western Sandpiper
+S19612683,48.2320943,False,Leque Island--Eide Rd.,2014-08-29 18:38,Calidris mauri,75,L1667064,True,wessan,False,-122.3829746,Western Sandpiper
+S19657824,59.7790573,False,Anchor Point,2014-08-29 17:00,Calidris mauri,3,L767320,True,wessan,False,-151.8633485,Western Sandpiper
+S19610192,50.60106,False,Port McNeill--West Bay (North Access),2014-08-29 19:06,Calidris mauri,500,L3060442,True,wessan,False,-127.13132,Western Sandpiper
+S19619958,37.2681846,False,"Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)",2014-08-30 22:25,Calidris mauri,11,L459755,True,wessan,False,-122.4079944,Western Sandpiper
+S19619328,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-08-30 19:25,Calidris mauri,5,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19619897,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-08-30 18:55,Calidris mauri,10,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S19645042,60.3859137,False,Kasilof--Kasilof River Mouth,2014-08-30 16:10,Calidris mauri,7,L1067145,True,wessan,False,-151.302166,Western Sandpiper
+S19623654,49.2213299,False,Iona Island (General),2014-08-30 19:00,Calidris mauri,16,L261851,True,wessan,False,-123.2110997,Western Sandpiper
+S19631380,38.6543655,False,Farmers Central Rd.--pond at CR102,2014-08-31 18:30,Calidris mauri,60,L892337,True,wessan,False,-121.7281455,Western Sandpiper
+S19629791,42.1396049,True,Emigrant Reservoir -- southwest edge,2014-08-31 18:34,Calidris mauri,1,L1011383,True,wessan,False,-122.6184082,Western Sandpiper
+S19655331,47.4378813,False,Theler Wetlands,2014-08-31 17:40,Calidris mauri,30,L250091,True,wessan,False,-122.8411134,Western Sandpiper
+S209330552,58.72253,True,Mile 0.5 Wolverine Drive (Savage Blush Residencd) traveling count to west,2014-08-31 09:15,Calidris mauri,50,L39432512,True,wessan,False,-156.810722,Western Sandpiper
+S19630889,49.2058333,False,Iona Island--South Jetty,2014-08-31 18:17,Calidris mauri,290,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19643779,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-09-01 17:16,Calidris mauri,2,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S19643935,45.5064875,False,Fernhill Wetlands (general),2014-09-01 18:45,Calidris mauri,2,L163529,True,wessan,False,-123.0851855,Western Sandpiper
+S19642386,47.9941723,False,Discovery Bay,2014-09-01 17:19,Calidris mauri,1,L808110,True,wessan,False,-122.8819084,Western Sandpiper
+S19645061,60.3859137,False,Kasilof--Kasilof River Mouth,2014-09-01 17:10,Calidris mauri,20,L1067145,True,wessan,True,-151.302166,Western Sandpiper
+S19644335,49.2058333,False,Iona Island--South Jetty,2014-09-01 18:15,Calidris mauri,150,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19655234,41.832863,False,Lake Tolowa,2014-09-02 18:45,Calidris mauri,1600,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S19654602,42.9566738,False,Malheur NWR--Benson Pond,2014-09-02 17:49,Calidris mauri,9,L740752,True,wessan,False,-118.8657188,Western Sandpiper
+S19655310,48.1114603,False,Kah Tai Lagoon,2014-09-02 18:30,Calidris mauri,33,L292857,True,wessan,False,-122.7781165,Western Sandpiper
+S19655180,57.17012,False,St. Paul Island,2014-09-02 09:10,Calidris mauri,3,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19653457,49.1300647,False,Nanaimo River Estuary--Holden Creek,2014-09-02 17:29,Calidris mauri,8,L1540030,True,wessan,False,-123.8661216,Western Sandpiper
+S19655272,30.5162566,True,La Salina (San Quintín),2014-09-02 11:00,Calidris mauri,92,L3067340,True,wessan,False,-116.0315681,Western Sandpiper
+S19662891,34.4127959,False,Mission Creek outflow,2014-09-03 18:47,Calidris mauri,5,L465131,True,wessan,False,-119.6869361,Western Sandpiper
+S19659687,45.7336245,False,Sauvie Island--The Narrows,2014-09-03 11:45,Calidris mauri,1000,L986099,True,wessan,True,-122.8162479,Western Sandpiper
+S19663660,46.9444663,False,Ocean Shores--Oyhut Wildlife Area,2014-09-03 19:05,Calidris mauri,200,L109535,True,wessan,False,-124.1522412,Western Sandpiper
+S19663918,57.17012,False,St. Paul Island,2014-09-03 10:30,Calidris mauri,3,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19663775,49.2058333,False,Iona Island--South Jetty,2014-09-03 15:00,Calidris mauri,15,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19742310,38.9397508,False,Tahoe Marsh--via San Francisco Ave.,2014-09-04 18:52,Calidris mauri,8,L1259871,True,wessan,True,-119.9931049,Western Sandpiper
+S19722131,42.4099597,False,Agate Lake,2014-09-04 18:30,Calidris mauri,75,L389855,True,wessan,False,-122.7708006,Western Sandpiper
+S19722121,47.2400462,False,Sheep Lake,2014-09-04 17:55,Calidris mauri,15,L251001,True,wessan,False,-117.920324,Western Sandpiper
+S19722991,57.17012,False,St. Paul Island,2014-09-04 11:15,Calidris mauri,3,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19722611,49.4383849,False,ts’uḵw’um (Wilson Creek) Estuary,2014-09-04 17:05,Calidris mauri,4,L2313567,True,wessan,False,-123.7127495,Western Sandpiper
+S19800737,38.9811631,False,Borax Lake,2014-09-05 19:20,Calidris mauri,3,L589070,True,wessan,False,-122.6706791,Western Sandpiper
+S19741993,43.3362322,False,South Slough,2014-09-05 18:45,Calidris mauri,,L729108,True,wessan,False,-124.3204408,Western Sandpiper
+S19742133,46.9719365,False,Ocean Shores -- outer beach,2014-09-05 18:58,Calidris mauri,30,L450264,True,wessan,False,-124.1688538,Western Sandpiper
+S19743877,57.17012,False,St. Paul Island,2014-09-05 10:14,Calidris mauri,8,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19742116,49.1,False,Reifel Bird Sanctuary,2014-09-05 15:45,Calidris mauri,30,L124345,True,wessan,False,-123.185,Western Sandpiper
+S19738275,21.6070037,False,Granja de Camarón Chacalilla,2014-09-05 07:30,Calidris mauri,70,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19756953,33.845884,True,"US-CA-Long Beach - 33.8459x-118.2031 - Sep 6, 2014, 7:57 PM",2014-09-06 18:57,Calidris mauri,21,L3072939,True,wessan,False,-118.203128,Western Sandpiper
+S19771959,45.505,False,Jackson Bottom Wetlands Preserve,2014-09-06 18:30,Calidris mauri,30,L159584,True,wessan,False,-122.9889,Western Sandpiper
+S19756713,47.5355731,False,James T. Slavin Conservation Area,2014-09-06 18:16,Calidris mauri,2,L526215,True,wessan,False,-117.4245787,Western Sandpiper
+S19755133,57.17012,False,St. Paul Island,2014-09-06 13:25,Calidris mauri,14,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19756719,49.2058333,False,Iona Island--South Jetty,2014-09-06 17:58,Calidris mauri,3,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19752044,31.7176905,False,Estero Punta Banda--Embalse,2014-09-06 07:50,Calidris mauri,22,L619238,True,wessan,False,-116.6521454,Western Sandpiper
+S19753547,21.6070037,False,Granja de Camarón Chacalilla,2014-09-06 09:20,Calidris mauri,643,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19769049,35.8520653,False,"Private Property ""H"" No Public Access",2014-09-07 21:35,Calidris mauri,,L1674368,True,wessan,False,-119.6358372,Western Sandpiper
+S19776797,43.4210895,False,North Spit--old Weyco Settling Pond & deflation plain,2014-09-07 23:30,Calidris mauri,1,L800627,True,wessan,False,-124.2850935,Western Sandpiper
+S19845180,46.63962,True,Tieton State Airport Marsh,2014-09-07 18:30,Calidris mauri,6,L2116243,True,wessan,False,-121.12238,Western Sandpiper
+S19769352,57.17012,False,St. Paul Island,2014-09-07 13:36,Calidris mauri,9,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19768182,49.2058333,False,Iona Island--South Jetty,2014-09-07 16:30,Calidris mauri,3,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19764965,27.9618001,False,Estero El Soldado,2014-09-07 08:45,Calidris mauri,,L389236,True,wessan,False,-110.9743166,Western Sandpiper
+S19921718,20.2476815,True,Jocotepec,2014-09-07 08:00,Calidris mauri,1,L3094264,True,wessan,False,-103.4211731,Western Sandpiper
+S19779871,34.7901193,False,Piute Ponds (permit required),2014-09-08 20:30,Calidris mauri,20,L275227,True,wessan,False,-118.1181776,Western Sandpiper
+S19775466,42.1755856,False,Cave Junction Sewage Ponds (restricted access),2014-09-08 12:30,Calidris mauri,3,L2394301,True,wessan,False,-123.6505222,Western Sandpiper
+S19779082,46.8197975,False,Wenas Lake,2014-09-08 16:20,Calidris mauri,3,L445111,True,wessan,False,-120.6817245,Western Sandpiper
+S19784597,64.5585058,False,Nome-Council Rd.--Solomon,2014-09-08 14:00,Calidris mauri,6,L927270,True,wessan,False,-164.4438634,Western Sandpiper
+S19913227,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2014-09-08 18:50,Calidris mauri,10,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S32941868,38.0875536,False,Nicasio Reservoir,2014-09-09 19:15,Calidris mauri,2,L623258,True,wessan,False,-122.7323055,Western Sandpiper
+S19786203,45.6203,False,Smith and Bybee Lakes Wetlands Natural Area,2014-09-09 13:05,Calidris mauri,,L159604,True,wessan,False,-122.7456,Western Sandpiper
+S19789331,48.7871878,False,Sandy Point,2014-09-09 18:55,Calidris mauri,1,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S19789156,57.17012,False,St. Paul Island,2014-09-09 09:35,Calidris mauri,3,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19786981,49.0796846,False,Tofino airport (restricted access),2014-09-09 13:00,Calidris mauri,1,L481331,True,wessan,False,-125.7773177,Western Sandpiper
+S19810193,34.2728725,False,Ventura Pier,2014-09-10 18:15,Calidris mauri,,L1411076,True,wessan,False,-119.2918998,Western Sandpiper
+S19800877,45.5217439,False,Bayocean Spit--bay (east) side,2014-09-10 11:18,Calidris mauri,5,L285627,True,wessan,False,-123.9484406,Western Sandpiper
+S19797159,46.8197975,False,Wenas Lake,2014-09-10 17:15,Calidris mauri,2,L445111,True,wessan,False,-120.6817245,Western Sandpiper
+S19796973,57.17012,False,St. Paul Island,2014-09-10 13:00,Calidris mauri,18,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19797874,48.4401841,False,"Victoria--Selkirk Waterfront, Gorge Waterway",2014-09-10 17:25,Calidris mauri,3,L363609,True,wessan,False,-123.3793938,Western Sandpiper
+S19805944,41.7441963,False,Crescent City Harbor,2014-09-11 18:30,Calidris mauri,150,L372230,True,wessan,False,-124.1915989,Western Sandpiper
+S19805668,45.6203,False,Smith and Bybee Lakes Wetlands Natural Area,2014-09-11 17:30,Calidris mauri,325,L159604,True,wessan,False,-122.7456,Western Sandpiper
+S19806568,48.1114603,False,Kah Tai Lagoon,2014-09-11 19:00,Calidris mauri,9,L292857,True,wessan,False,-122.7781165,Western Sandpiper
+S19805959,57.17012,False,St. Paul Island,2014-09-11 09:25,Calidris mauri,16,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19806433,49.2058333,False,Iona Island--South Jetty,2014-09-11 17:00,Calidris mauri,2,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19814233,34.1767221,False,Sepulveda Basin--East of Woodley Ave,2014-09-12 18:17,Calidris mauri,1,L194688,True,wessan,False,-118.4737308,Western Sandpiper
+S19814978,45.7144802,False,Sauvie Island--Oak Island (Multnomah Co.),2014-09-12 17:30,Calidris mauri,,L2365468,True,wessan,False,-122.8207541,Western Sandpiper
+S19821007,48.7871878,False,Sandy Point,2014-09-12 18:50,Calidris mauri,25,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S19913195,60.33692,True,Kasilof,2014-09-12 16:15,Calidris mauri,2,L357130,True,wessan,False,-151.27622,Western Sandpiper
+S19812274,48.4035536,False,Clover Point,2014-09-12 09:05,Calidris mauri,5,L268086,True,wessan,False,-123.3491535,Western Sandpiper
+S19824569,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-09-13 18:22,Calidris mauri,8,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S19827689,45.6203,False,Smith and Bybee Lakes Wetlands Natural Area,2014-09-13 18:23,Calidris mauri,60,L159604,True,wessan,False,-122.7456,Western Sandpiper
+S19825083,46.7687403,False,Midway Beach,2014-09-13 14:45,Calidris mauri,1,L302836,True,wessan,False,-124.0938386,Western Sandpiper
+S19823937,57.17012,False,St. Paul Island,2014-09-13 12:25,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19836713,49.2058333,False,Iona Island--South Jetty,2014-09-13 17:50,Calidris mauri,3,L339173,True,wessan,False,-123.2627778,Western Sandpiper
+S19901577,40.9721544,False,Trinity Center--south boat ramp,2014-09-14 16:45,Calidris mauri,8,L778754,True,wessan,False,-122.6910639,Western Sandpiper
+S19839319,45.2707756,True,Sitka Sedge SNA--TdM N Beach,2014-09-14 18:00,Calidris mauri,10,L1635989,True,wessan,False,-123.9635385,Western Sandpiper
+S19837132,46.9969771,False,Potholes Reservoir,2014-09-14 18:40,Calidris mauri,15,L1543985,True,wessan,False,-119.3150344,Western Sandpiper
+S19837201,57.17012,False,St. Paul Island,2014-09-14 09:23,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S20209743,48.5952164,False,ȾIX̱EṈ / Saanichton Spit (Private Property of Tsawout Nation),2014-09-14 17:31,Calidris mauri,2,L346076,True,wessan,False,-123.3716993,Western Sandpiper
+S19861452,34.6909567,False,Ocean Beach County Park and Santa Ynez River Estuary,2014-09-15 17:15,Calidris mauri,150,L989821,True,wessan,False,-120.6003785,Western Sandpiper
+S19847016,44.1232081,False,Hatfield Lake,2014-09-15 17:00,Calidris mauri,4,L447435,True,wessan,False,-121.198554,Western Sandpiper
+S19846841,46.9963543,False,Potholes Reservoir--Perch Point,2014-09-15 12:45,Calidris mauri,25,L219772,True,wessan,False,-119.2738223,Western Sandpiper
+S19847307,57.17012,False,St. Paul Island,2014-09-15 09:31,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19910144,49.06564,False,Delta--Brunswick Point,2014-09-15 12:00,Calidris mauri,17,L348443,True,wessan,False,-123.15415,Western Sandpiper
+S59038353,33.2051908,False,Oceanside Harbor & San Luis Rey River mouth,2014-09-16 18:30,Calidris mauri,3,L208705,True,wessan,False,-117.3939712,Western Sandpiper
+S19861132,45.473855,False,Henry Hagg Lake Park (Scoggins Valley Park),2014-09-16 14:56,Calidris mauri,1,L493054,True,wessan,False,-123.2135582,Western Sandpiper
+S19855993,47.8085287,False,Edmonds Marsh,2014-09-16 18:00,Calidris mauri,1,L374380,True,wessan,False,-122.3864508,Western Sandpiper
+S19855251,57.17012,False,St. Paul Island,2014-09-16 11:55,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19855354,48.6431178,False,SḰŦÁMEN / Sidney Spit (Gulf Islands National Park Reserve),2014-09-16 17:55,Calidris mauri,6,L351673,True,wessan,False,-123.3323135,Western Sandpiper
+S19863228,33.2051908,False,Oceanside Harbor & San Luis Rey River mouth,2014-09-17 19:09,Calidris mauri,22,L208705,True,wessan,False,-117.3939712,Western Sandpiper
+S19861736,43.88757,True,Siltcoos Beach,2014-09-17 16:20,Calidris mauri,45,L3086416,True,wessan,False,-124.15494,Western Sandpiper
+S19863642,45.8625203,False,Umatilla NWR--Whitcomb Island,2014-09-17 17:12,Calidris mauri,1,L832211,True,wessan,False,-119.7540665,Western Sandpiper
+S19864032,57.17012,False,St. Paul Island,2014-09-17 14:55,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19862764,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-09-17 14:45,Calidris mauri,3,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19871323,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-09-18 17:00,Calidris mauri,2,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S19872401,45.505,False,Jackson Bottom Wetlands Preserve,2014-09-18 17:30,Calidris mauri,9,L159584,True,wessan,False,-122.9889,Western Sandpiper
+S19875359,47.2233758,False,Fife--Saddle Creek remnant oxbow,2014-09-18 15:40,Calidris mauri,1,L2262431,True,wessan,False,-122.3464489,Western Sandpiper
+S19872669,57.17012,False,St. Paul Island,2014-09-18 09:38,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19911396,49.3210493,True,Rathtrevor Park Main Beach,2014-09-18 16:00,Calidris mauri,5,L3092870,True,wessan,False,-124.2639112,Western Sandpiper
+S19888548,38.10446,True,38.1045 X -122.9442 S end Abbott Lagoon and field,2014-09-19 16:59,Calidris mauri,2,L3089791,True,wessan,False,-122.94424,Western Sandpiper
+S19888993,44.4161496,True,Cabell overlook blind,2014-09-19 16:00,Calidris mauri,8,L2965815,True,wessan,False,-123.3188725,Western Sandpiper
+S19891124,48.7871878,False,Sandy Point,2014-09-19 18:23,Calidris mauri,11,L433644,True,wessan,False,-122.7081871,Western Sandpiper
+S19881361,57.17012,False,St. Paul Island,2014-09-19 11:16,Calidris mauri,7,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19890332,49.0721122,True,East Delta (E of BC 17A and S of BC 99),2014-09-19 15:30,Calidris mauri,30,L348400,True,wessan,False,-122.9898834,Western Sandpiper
+S19897392,38.2251678,False,Ellis Creek Water Recycling Facility,2014-09-20 16:45,Calidris mauri,2,L2316709,True,wessan,False,-122.5838828,Western Sandpiper
+S19890481,44.1232081,False,Hatfield Lake,2014-09-20 18:20,Calidris mauri,2,L447435,True,wessan,False,-121.198554,Western Sandpiper
+S19922512,47.0753034,True,nisqually wildlife refuge,2014-09-20 17:00,Calidris mauri,3,L3042735,True,wessan,False,-122.7090454,Western Sandpiper
+S19891019,57.17012,False,St. Paul Island,2014-09-20 09:30,Calidris mauri,4,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19897608,48.4257613,False,Esquimalt Lagoon,2014-09-20 16:45,Calidris mauri,12,L350246,True,wessan,False,-123.4631732,Western Sandpiper
+S19901442,38.7214119,False,Folsom Lake SRA--Beals Pt.,2014-09-21 17:12,Calidris mauri,3,L370941,True,wessan,False,-121.1670113,Western Sandpiper
+S20044450,44.1232081,False,Hatfield Lake,2014-09-21 14:45,Calidris mauri,1,L447435,True,wessan,False,-121.198554,Western Sandpiper
+S19906660,48.1666667,False,Crockett Lake,2014-09-21 18:55,Calidris mauri,50,L109534,True,wessan,False,-122.65,Western Sandpiper
+S19902296,57.17012,False,St. Paul Island,2014-09-21 09:33,Calidris mauri,4,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19900883,50.7097463,False,Salmon Arm Bay (General),2014-09-21 16:20,Calidris mauri,6,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19914056,33.6584242,False,San Diego Creek Trail--I-405 to Hwy 73,2014-09-22 20:40,Calidris mauri,3,L2676635,True,wessan,False,-117.8412008,Western Sandpiper
+S19944888,44.6231604,False,Mark Hatfield Marine Science Center and Estuary Trail,2014-09-22 17:00,Calidris mauri,7,L613298,True,wessan,False,-124.0434766,Western Sandpiper
+S19911516,48.3563354,False,Neah Bay--general area (*move to more refined location if appropriate),2014-09-22 16:15,Calidris mauri,17,L267164,True,wessan,False,-124.6371659,Western Sandpiper
+S19913074,57.17012,False,St. Paul Island,2014-09-22 10:15,Calidris mauri,5,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19912008,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-09-22 17:45,Calidris mauri,6,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19920347,39.6943094,False,Chico Oxidation Ponds (restricted access),2014-09-23 17:15,Calidris mauri,30,L470705,True,wessan,False,-121.9103909,Western Sandpiper
+S19919169,45.6916122,False,Sauvie Island--Raccoon Point,2014-09-23 13:45,Calidris mauri,,L831968,True,wessan,False,-122.8055191,Western Sandpiper
+S19921037,47.20089,True,Chambers Creek Properties,2014-09-23 15:30,Calidris mauri,4,L1788069,True,wessan,False,-122.58347,Western Sandpiper
+S19922368,57.17012,False,St. Paul Island,2014-09-23 11:49,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19921470,50.7097463,False,Salmon Arm Bay (General),2014-09-23 16:30,Calidris mauri,4,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19934939,36.0796161,True,Pueblo Ave. Flooded Fields,2014-09-24 17:25,Calidris mauri,800,L1776164,True,wessan,False,-119.7502589,Western Sandpiper
+S19936847,45.6916122,False,Sauvie Island--Raccoon Point,2014-09-24 17:27,Calidris mauri,1,L831968,True,wessan,False,-122.8055191,Western Sandpiper
+S19934517,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-09-24 15:40,Calidris mauri,30,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S20314167,51.8941856,False,Adak Island,2014-09-24 08:15,Calidris mauri,2,L268250,True,wessan,False,-176.6443634,Western Sandpiper
+S19934770,50.7097463,False,Salmon Arm Bay (General),2014-09-24 16:25,Calidris mauri,3,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19949111,22.5385616,False,Valle de la Urraca,2014-09-24 09:00,Calidris mauri,1,L3097149,True,wessan,False,-105.6361198,Western Sandpiper
+S19944518,41.832863,False,Lake Tolowa,2014-09-25 18:45,Calidris mauri,19,L485952,True,wessan,False,-124.2165756,Western Sandpiper
+S19950279,44.069557,True,Fern Ridge Fisher Butte,2014-09-25 17:00,Calidris mauri,150,L3095505,True,wessan,False,-123.264369,Western Sandpiper
+S19943773,45.6480834,False,NW Lower River Rd pool,2014-09-25 18:45,Calidris mauri,12,L764093,True,wessan,False,-122.709614,Western Sandpiper
+S20446184,59.4278983,False,Middleton Island (restricted access),2014-09-25 13:20,Calidris mauri,7,L559390,True,wessan,False,-146.33008,Western Sandpiper
+S154860133,48.9210329,False,Ucluelet--Amphitrite Point,2014-09-25 13:00,Calidris mauri,10,L860252,True,wessan,False,-125.5412757,Western Sandpiper
+S19949051,22.1899482,True,Palmar de Cuautla,2014-09-25 09:00,Calidris mauri,1,L3097136,True,wessan,False,-105.6380081,Western Sandpiper
+S19952264,36.8103654,False,Moonglow Dairy (Fri-Sun only; closed Mon-Thur),2014-09-26 18:30,Calidris mauri,30,L306035,True,wessan,False,-121.7667337,Western Sandpiper
+S19952103,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-09-26 16:56,Calidris mauri,1,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S19977005,48.1114603,False,Kah Tai Lagoon,2014-09-26 18:30,Calidris mauri,3,L292857,True,wessan,False,-122.7781165,Western Sandpiper
+S19953620,57.17012,False,St. Paul Island,2014-09-26 09:30,Calidris mauri,4,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19975909,50.7097463,False,Salmon Arm Bay (General),2014-09-26 13:00,Calidris mauri,10,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S19981903,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-09-27 19:00,Calidris mauri,10,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S19962755,44.44336,True,N. Bayview Loop #?,2014-09-27 17:40,Calidris mauri,3,L4494846,True,wessan,False,-124.02766,Western Sandpiper
+S19961743,45.6480834,False,NW Lower River Rd pool,2014-09-27 17:15,Calidris mauri,2,L764093,True,wessan,False,-122.709614,Western Sandpiper
+S19975886,58.4121436,False,Gustavus--Forelands,2014-09-27 11:10,Calidris mauri,1,L781318,True,wessan,False,-135.724411,Western Sandpiper
+S20383198,48.2992052,False,Race Rocks,2014-09-27 11:00,Calidris mauri,1,L351669,True,wessan,False,-123.5330679,Western Sandpiper
+S19962152,31.7775956,False,Complejo Turístico Playa Estero,2014-09-27 12:25,Calidris mauri,6,L368165,True,wessan,False,-116.6163754,Western Sandpiper
+S20210264,36.8151691,False,"Moss Landing--Jetty Road, north jetty & State Beach",2014-09-28 19:00,Calidris mauri,1,L256021,True,wessan,False,-121.7900355,Western Sandpiper
+S19995446,45.71937,True,"Portland, 25499 Northwest Oak Island Road",2014-09-28 14:39,Calidris mauri,,L3103349,True,wessan,False,-122.8157,Western Sandpiper
+S19973440,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-09-28 14:23,Calidris mauri,50,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S19976609,57.17012,False,St. Paul Island,2014-09-28 09:20,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S19975105,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-09-28 17:34,Calidris mauri,10,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S19970052,21.6070037,False,Granja de Camarón Chacalilla,2014-09-28 08:15,Calidris mauri,,L592109,True,wessan,False,-105.2806091,Western Sandpiper
+S19986842,40.8458831,False,"Humboldt Bay--northeast tidal wetlands (Jacoby Creek mouth, observation deck, & bay trail)",2014-09-29 18:30,Calidris mauri,1490,L340454,True,wessan,False,-124.0832848,Western Sandpiper
+S19985450,45.7336245,False,Sauvie Island--The Narrows,2014-09-29 15:25,Calidris mauri,5,L986099,True,wessan,False,-122.8162479,Western Sandpiper
+S19984303,46.136162,False,McNary NWR--Two Rivers Unit,2014-09-29 10:45,Calidris mauri,2,L796311,True,wessan,False,-118.942707,Western Sandpiper
+S19985932,50.7097463,False,Salmon Arm Bay (General),2014-09-29 16:25,Calidris mauri,7,L285875,True,wessan,False,-119.2804357,Western Sandpiper
+S20000068,35.672219,False,China Lake NAWS--Sewage Ponds (restricted access),2014-09-30 18:14,Calidris mauri,1,L772068,True,wessan,False,-117.63834,Western Sandpiper
+S19999035,44.069557,True,Fern Ridge Fisher Butte,2014-09-30 17:00,Calidris mauri,80,L3095505,True,wessan,False,-123.264369,Western Sandpiper
+S19994979,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-09-30 09:27,Calidris mauri,50,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S19993538,49.3286928,False,Englishman River Estuary--Plummer Rd side,2014-09-30 15:38,Calidris mauri,1,L1632373,True,wessan,False,-124.2867326,Western Sandpiper
+S20013900,37.4359191,False,Charleston Slough/Coast Casey Forebay,2014-10-01 16:14,Calidris mauri,3,L730351,True,wessan,False,-122.098918,Western Sandpiper
+S20005569,44.069557,True,Fern Ridge Fisher Butte,2014-10-01 16:45,Calidris mauri,60,L3095505,True,wessan,False,-123.264369,Western Sandpiper
+S20005197,48.3563354,False,Neah Bay--general area (*move to more refined location if appropriate),2014-10-01 14:10,Calidris mauri,7,L267164,True,wessan,False,-124.6371659,Western Sandpiper
+S20005937,57.1351159,False,St. Paul Island--Salt Lagoon,2014-10-01 09:50,Calidris mauri,1,L1522994,True,wessan,False,-170.2750587,Western Sandpiper
+S20012131,49.9356176,False,Kelowna--Robert Lake,2014-10-01 11:30,Calidris mauri,1,L265165,True,wessan,False,-119.4089035,Western Sandpiper
+S20013651,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-10-02 16:30,Calidris mauri,80,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S20013301,44.4152525,False,William L. Finley NWR--Cabell Marsh,2014-10-02 16:28,Calidris mauri,4,L493042,True,wessan,False,-123.319205,Western Sandpiper
+S20182703,48.3563354,False,Neah Bay--general area (*move to more refined location if appropriate),2014-10-02 16:30,Calidris mauri,5,L267164,True,wessan,False,-124.6371659,Western Sandpiper
+S20022310,32.7845815,False,Crown Point--east side,2014-10-03 17:31,Calidris mauri,75,L1296456,True,wessan,False,-117.2325926,Western Sandpiper
+S20185126,45.5231871,False,Bayocean Spit--ocean (west) side,2014-10-03 13:30,Calidris mauri,,L686417,True,wessan,False,-123.954277,Western Sandpiper
+S20037327,46.893277,False,Bottle Beach,2014-10-03 15:00,Calidris mauri,50,L268372,True,wessan,False,-124.0468136,Western Sandpiper
+S20023320,57.17012,False,St. Paul Island,2014-10-03 09:37,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S20022951,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-10-03 13:45,Calidris mauri,4,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S20033721,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-10-04 18:05,Calidris mauri,10,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S20027463,45.714065,True,US-OR-Hood River-300 E Port Marina Dr,2014-10-04 09:57,Calidris mauri,1,L2479945,True,wessan,False,-121.509205,Western Sandpiper
+S20032222,47.0812514,False,Billy Frank Jr. Nisqually NWR,2014-10-04 15:44,Calidris mauri,80,L282253,True,wessan,False,-122.7180576,Western Sandpiper
+S20449474,57.17012,False,St. Paul Island,2014-10-04 09:45,Calidris mauri,1,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S205207679,49.0767445,False,Delta—Boundary Bay - 104th St.,2014-10-04 14:00,Calidris mauri,,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S20043769,36.3104221,False,Visalia WTP,2014-10-05 17:30,Calidris mauri,1,L578224,True,wessan,False,-119.416151,Western Sandpiper
+S20044719,44.0705825,False,Fern Ridge WMA--Royal Ave. area (general),2014-10-05 17:15,Calidris mauri,25,L487048,True,wessan,False,-123.2574606,Western Sandpiper
+S20045110,47.3962264,False,Soap Lake,2014-10-05 16:00,Calidris mauri,2,L258171,True,wessan,False,-119.4840758,Western Sandpiper
+S20045083,57.17012,False,St. Paul Island,2014-10-05 10:10,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S20044082,49.0730526,False,Delta—Boundary Bay - 96th to 104th Sts.,2014-10-05 15:00,Calidris mauri,15,L340159,True,wessan,False,-122.9484991,Western Sandpiper
+S20040926,29.070274,False,Presa Abelardo L. Rodríguez,2014-10-05 06:20,Calidris mauri,9,L506196,True,wessan,False,-110.912476,Western Sandpiper
+S20054459,33.6637274,False,"IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",2014-10-06 16:40,Calidris mauri,25,L109339,True,wessan,False,-117.8426814,Western Sandpiper
+S20055079,44.0705825,False,Fern Ridge WMA--Royal Ave. area (general),2014-10-06 17:45,Calidris mauri,30,L487048,True,wessan,False,-123.2574606,Western Sandpiper
+S20053350,48.1628795,False,Dungeness NWR,2014-10-06 09:30,Calidris mauri,2,L489240,True,wessan,False,-123.164978,Western Sandpiper
+S20055236,58.3921763,False,Gustavus--Forelands (W of dock to Critical Habitat boundary),2014-10-06 09:45,Calidris mauri,14,L782177,True,wessan,True,-135.7899857,Western Sandpiper
+S37953299,32.094678,False,Estero La Misión (Playas de Rosarito Municipio),2014-10-06 18:25,Calidris mauri,2,L20988900,True,wessan,False,-116.8780895,Western Sandpiper
+S20069491,33.1474887,False,Salton Sea--Lack Rd. at Lindsey Rd,2014-10-07 16:35,Calidris mauri,200,L275798,True,wessan,False,-115.6479886,Western Sandpiper
+S20068165,44.4152525,False,William L. Finley NWR--Cabell Marsh,2014-10-07 17:02,Calidris mauri,3,L493042,True,wessan,False,-123.319205,Western Sandpiper
+S20060119,47.088222,True,US-WA-Lacey-3900 Hogum Bay Ln NE,2014-10-07 12:36,Calidris mauri,125,L2899381,True,wessan,False,-122.764159,Western Sandpiper
+S20068602,57.17012,False,St. Paul Island,2014-10-07 10:15,Calidris mauri,2,L261146,True,wessan,False,-170.296751,Western Sandpiper
+S37988953,30.6650847,False,Laguna Figueroa,2014-10-07 17:55,Calidris mauri,75,L461029,True,wessan,False,-116.015625,Western Sandpiper
+S20176471,37.2681846,False,"Pescadero Marsh and Natural Preserve--(North pond,lagoon and marsh trails east of Hwy 1)",2014-10-08 17:00,Calidris mauri,1,L459755,True,wessan,False,-122.4079944,Western Sandpiper
+S20184804,44.0705825,False,Fern Ridge WMA--Royal Ave. area (general),2014-10-08 11:38,Calidris mauri,4,L487048,True,wessan,False,-123.2574606,Western Sandpiper
+S20264152,45.7990694,False,Ridgefield NWR--River 'S' Unit,2014-10-08 11:41,Calidris mauri,1,L592967,True,wessan,False,-122.7490082,Western Sandpiper
+S20181623,30.509625,True,"La Salina, Ejido Chapala",2014-10-08 10:30,Calidris mauri,5,L3093863,True,wessan,False,-116.0352373,Western Sandpiper
+S20188059,37.4337723,False,Salt Pond A12,2014-10-09 16:50,Calidris mauri,,L776555,True,wessan,False,-121.9832611,Western Sandpiper
+S20184456,44.5804726,False,Yaquina Bay Rd.--Oysterfarm,2014-10-09 16:10,Calidris mauri,2,L2415476,True,wessan,False,-123.9938128,Western Sandpiper
+S20181520,45.7990694,False,Ridgefield NWR--River 'S' Unit,2014-10-09 08:30,Calidris mauri,1,L592967,True,wessan,False,-122.7490082,Western Sandpiper
+S20181243,48.4304962,False,Oak Bay--Bowker Avenue,2014-10-09 09:43,Calidris mauri,1,L1298602,True,wessan,False,-123.3045387,Western Sandpiper
+S20206122,32.7568803,False,San Diego River mudflats (including Robb Field & north side),2014-10-10 17:30,Calidris mauri,25,L506275,True,wessan,False,-117.2401432,Western Sandpiper
+S20188636,44.5185755,False,Philomath Sewage Ponds (restricted access),2014-10-10 07:00,Calidris mauri,4,L493044,True,wessan,False,-123.3444586,Western Sandpiper
+S20190029,45.6480834,False,NW Lower River Rd pool,2014-10-10 11:00,Calidris mauri,1,L764093,True,wessan,False,-122.709614,Western Sandpiper
+S20193324,49.0767445,False,Delta—Boundary Bay - 104th St.,2014-10-10 17:00,Calidris mauri,100,L340154,True,wessan,False,-122.9350166,Western Sandpiper
+S20200933,31.7176905,False,Estero Punta Banda--Embalse,2014-10-10 11:45,Calidris mauri,12,L619238,True,wessan,False,-116.6521454,Western Sandpiper

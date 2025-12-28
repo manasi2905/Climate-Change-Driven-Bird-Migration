@@ -110,3 +110,58 @@ For each yearly network:
 - Tracking communities over time allows us to study:
   - whether migration structure is becoming more fragmented or more stable
   - the persistence of major migration pathways across years
+ 
+---
+
+## Node persistence
+What it measures:
+- Node persistence counts how many years a spatial cluster appears in the migration network, independent of how strongly it is connected in any single year.
+
+How to interpret it:
+- High-persistence nodes represent structurally stable migration regions that recur across years, suggesting persistent ecological or geographic importance.
+- Low-persistence nodes may reflect transient stopovers, data sparsity, or year-specific migration shifts, and become especially interesting when they briefly achieve high centrality.
+
+What not to claim:
+- Persistence does not imply constant importance—some long-lived regions may be consistently peripheral.
+
+---
+
+## Walk-based connectivity (indirect flow structure)
+
+What it measures:
+- Counts of length-2 and length-3 walks quantify the abundance of indirect migration pathways through the network, beyond direct month-to-month links.
+
+How to interpret it:
+- Higher walk counts indicate a more interconnected and redundant migration structure, where regions are linked through multiple intermediary regions.
+- Comparing walk-based connectivity across years reveals whether migration is becoming more diffuse and resilient or more channelized through a few dominant pathways.
+
+What not to claim:
+- Walks are not literal bird trajectories; they represent potential structural connectivity implied by aggregated flows.
+
+---
+
+## Betweenness vs in-strength (hub type differentiation)
+
+What it measures:
+- This comparison contrasts a node’s role as a destination hub (high in-strength) with its role as a structural connector (high betweenness).
+
+How to interpret it:
+- Regions with high in-strength but low betweenness function as endpoints or concentration zones, while regions with moderate in-strength but high betweenness act as bridges between migration corridors.
+- This distinction helps explain whether importance arises from attracting many birds or from connecting otherwise weakly linked regions.
+
+What not to claim:
+- High betweenness does not imply birds physically pass through the region in sequence—it reflects structural dependency in the network.
+
+---
+
+## Weighted betweenness centrality (migration bottlenecks)
+
+What it measures: 
+- Weighted betweenness identifies regions that lie on many shortest weighted paths, highlighting structural bottlenecks in the migration network.
+
+How to interpret it:
+- Regions with high weighted betweenness are critical for maintaining overall migration connectivity, and their removal would disproportionately fragment the network.
+- Tracking these bottlenecks over time provides insight into the network’s vulnerability and robustness.
+
+What not to claim:
+- Bottlenecks are not guaranteed physical choke points; they are abstract connectors in the population-level flow representation.
